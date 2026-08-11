@@ -1,0 +1,1771 @@
+acc_a	acc_b	class	genus_a	genus_b	n_bbh	aai	prot_dist
+GCA_000292245.2	GCA_047302405.1	congeneric	Alkalihalobacillus	Alkalihalobacillus	3189	94.1728	0.075723
+GCA_000196115.1	GCA_000338295.1	congeneric	Rhodopirellula	Rhodopirellula	4155	93.0244	0.074286
+GCA_001643235.1	GCA_001906925.1	congeneric	Domibacillus	Domibacillus	2527	91.6804	0.093223
+GCA_000338295.1	GCA_002727185.1	congeneric	Rhodopirellula	Rhodopirellula	4214	89.7283	0.095044
+GCA_006861775.1	GCA_006861795.1	congeneric	Psychrobacillus	Psychrobacillus	3122	88.9639	0.110823
+GCA_000196115.1	GCA_002727185.1	congeneric	Rhodopirellula	Rhodopirellula	4203	88.6487	0.101742
+GCA_042650985.1	GCA_042654505.1	congeneric	Epilithonimonas	Epilithonimonas	2539	87.0411	0.135583
+GCA_042654505.1	GCA_900142325.1	congeneric	Epilithonimonas	Epilithonimonas	2428	85.8329	0.135583
+GCA_004365655.1	GCA_042650985.1	congeneric	Epilithonimonas	Epilithonimonas	2319	85.4196	0.151160
+GCA_042650985.1	GCA_900142325.1	congeneric	Epilithonimonas	Epilithonimonas	2394	84.7760	0.145159
+GCA_000966185.1	GCA_000970675.1	congeneric	Domibacillus	Domibacillus	2416	84.5101	0.149488
+GCA_004365655.1	GCA_042654505.1	congeneric	Epilithonimonas	Epilithonimonas	2195	83.8372	0.159354
+GCA_004365655.1	GCA_900142325.1	congeneric	Epilithonimonas	Epilithonimonas	2124	83.3484	0.168925
+GCA_003597125.1	GCA_009601165.1	congeneric	Alcanivorax	Alcanivorax	2700	82.6640	0.143584
+GCA_000009365.1	GCA_000756655.1	congeneric	Alcanivorax	Alcanivorax	2374	81.8566	0.147300
+GCA_009827395.1	GCA_009827455.1	congeneric	Pontixanthobacter	Pontixanthobacter	2106	81.3216	0.158142
+GCA_003574395.1	GCA_015999335.1	congeneric	Tabrizicola	Tabrizicola	2579	81.2724	0.189505
+GCA_000154725.1	GCA_003054265.1	congeneric	Kordia	Kordia	2839	81.1373	0.165635
+GCA_000756655.1	GCA_003597125.1	congeneric	Alcanivorax	Alcanivorax	2652	81.0084	0.159354
+GCA_000154725.1	GCA_009901525.1	congeneric	Kordia	Kordia	2863	80.9762	0.188699
+GCA_000009365.1	GCA_003597125.1	congeneric	Alcanivorax	Alcanivorax	2379	80.8454	0.156945
+GCA_006861775.1	GCA_008973485.1	congeneric	Psychrobacillus	Psychrobacillus	2531	80.5533	0.182451
+GCA_000154725.1	GCA_001005315.1	congeneric	Kordia	Kordia	3006	80.4649	0.165635
+GCA_000756655.1	GCA_009601165.1	congeneric	Alcanivorax	Alcanivorax	2619	80.1853	0.171632
+GCA_007748195.1	GCA_007754425.1	congeneric	Gimesia	Gimesia	4156	79.9048	0.178722
+GCA_000009365.1	GCA_009601165.1	congeneric	Alcanivorax	Alcanivorax	2331	79.8890	0.170270
+GCA_000181475.1	GCA_007754425.1	congeneric	Gimesia	Gimesia	4177	79.8162	0.170949
+GCA_006861795.1	GCA_008973485.1	congeneric	Psychrobacillus	Psychrobacillus	2677	79.7789	0.191137
+GCA_003254155.1	GCA_006861775.1	congeneric	Psychrobacillus	Psychrobacillus	2268	79.4326	0.206074
+GCA_002727185.1	GCA_020966775.1	congeneric	Rhodopirellula	Rhodopirellula	3853	79.4322	0.173013
+GCA_000338295.1	GCA_020966775.1	congeneric	Rhodopirellula	Rhodopirellula	3797	79.3652	0.174412
+GCA_000196115.1	GCA_020966775.1	congeneric	Rhodopirellula	Rhodopirellula	3835	79.3309	0.170949
+GCA_003254155.1	GCA_006861795.1	congeneric	Psychrobacillus	Psychrobacillus	2281	78.9859	0.228896
+GCA_001005315.1	GCA_009901525.1	congeneric	Kordia	Kordia	2937	78.9480	0.203289
+GCA_003254155.1	GCA_008973485.1	congeneric	Psychrobacillus	Psychrobacillus	2085	78.7356	0.234776
+GCA_000970675.1	GCA_001643235.1	congeneric	Domibacillus	Domibacillus	2139	78.6588	0.207970
+GCA_007754425.1	GCA_009720525.1	congeneric	Gimesia	Gimesia	4230	78.5749	0.171632
+GCA_000970675.1	GCA_001906925.1	congeneric	Domibacillus	Domibacillus	2040	78.4345	0.206074
+GCA_003054265.1	GCA_009901525.1	congeneric	Kordia	Kordia	2737	78.2677	0.209899
+GCA_000181475.1	GCA_009720525.1	congeneric	Gimesia	Gimesia	4229	78.2385	0.188699
+GCA_001005315.1	GCA_003054265.1	congeneric	Kordia	Kordia	2870	78.1290	0.182451
+GCA_009827455.1	GCA_012972675.1	congeneric	Pontixanthobacter	Pontixanthobacter	2036	77.2720	0.191962
+GCA_009827455.1	GCA_009828095.1	congeneric	Pontixanthobacter	Pontixanthobacter	2072	77.2483	0.195326
+GCA_000181475.1	GCA_007748195.1	congeneric	Gimesia	Gimesia	3957	77.1511	0.189505
+GCA_009827395.1	GCA_009828095.1	congeneric	Pontixanthobacter	Pontixanthobacter	2031	77.0232	0.207018
+GCA_000966185.1	GCA_001643235.1	congeneric	Domibacillus	Domibacillus	2200	76.7935	0.210875
+GCA_009828095.1	GCA_012972675.1	congeneric	Pontixanthobacter	Pontixanthobacter	1984	76.6786	0.198795
+GCA_000966185.1	GCA_001906925.1	congeneric	Domibacillus	Domibacillus	2113	76.6465	0.215889
+GCA_007748195.1	GCA_009720525.1	congeneric	Gimesia	Gimesia	3947	76.2325	0.201469
+GCA_011008935.1	GCA_013328815.1	congeneric	Tabrizicola	Tabrizicola	2607	76.2289	0.207970
+GCA_009827395.1	GCA_012972675.1	congeneric	Pontixanthobacter	Pontixanthobacter	2004	76.1665	0.209899
+GCA_000292245.2	GCA_028610675.1	congeneric	Alkalihalobacillus	Alkalihalobacillus	2794	75.1914	0.202375
+GCA_028610675.1	GCA_047302405.1	congeneric	Alkalihalobacillus	Alkalihalobacillus	3038	74.8998	0.197917
+GCA_012932915.1	GCA_016481275.1	congeneric	Antrihabitans	Antrihabitans	4167	74.8369	0.227754
+GCA_016481275.1	GCA_043944905.1	congeneric	Antrihabitans	Antrihabitans	3817	74.5915	0.246162
+GCA_012932915.1	GCA_043944905.1	congeneric	Antrihabitans	Antrihabitans	3812	74.1072	0.243535
+GCA_013328815.1	GCA_015999335.1	congeneric	Tabrizicola	Tabrizicola	2567	73.5592	0.230048
+GCA_003574395.1	GCA_013328815.1	congeneric	Tabrizicola	Tabrizicola	2466	72.9533	0.243535
+GCA_003574395.1	GCA_011008935.1	congeneric	Tabrizicola	Tabrizicola	2325	72.9219	0.224396
+GCA_011008935.1	GCA_015999335.1	congeneric	Tabrizicola	Tabrizicola	2485	72.8905	0.226624
+GCA_025960885.1	GCA_043556415.1	congeneric	Microbacterium	Microbacterium	1826	72.8062	0.250212
+GCA_008297975.1	GCA_043944905.1	congeneric	Antrihabitans	Antrihabitans	3238	72.4505	0.279589
+GCA_013409785.1	GCA_043556415.1	congeneric	Microbacterium	Microbacterium	1628	71.8933	0.272792
+GCA_008297975.1	GCA_012932915.1	congeneric	Antrihabitans	Antrihabitans	3300	71.7009	0.240966
+GCA_008297975.1	GCA_016481275.1	congeneric	Antrihabitans	Antrihabitans	3216	71.6721	0.250212
+GCA_013409785.1	GCA_025960885.1	congeneric	Microbacterium	Microbacterium	1795	70.8292	0.269529
+GCA_013409785.1	GCA_030065535.1	congeneric	Microbacterium	Microbacterium	1672	70.6594	0.264791
+GCA_030065535.1	GCA_043556415.1	congeneric	Microbacterium	Microbacterium	1587	70.2009	0.264791
+GCA_025960885.1	GCA_030065535.1	congeneric	Microbacterium	Microbacterium	1807	70.1456	0.267929
+GCA_000292245.2	GCA_020734105.1	congeneric	Alkalihalobacillus	Alkalihalobacillus	2008	66.9415	0.350280
+GCA_020734105.1	GCA_047302405.1	congeneric	Alkalihalobacillus	Alkalihalobacillus	2111	66.5522	0.347277
+GCA_020734105.1	GCA_028610675.1	congeneric	Alkalihalobacillus	Alkalihalobacillus	1973	65.4983	0.366421
+GCA_003574395.1	GCA_041537905.1	inter_genus	Tabrizicola	Ruegeria	2039	64.1402	0.366421
+GCA_011008935.1	GCA_041537905.1	inter_genus	Tabrizicola	Ruegeria	2065	63.6800	0.347277
+GCA_013328815.1	GCA_041537905.1	inter_genus	Tabrizicola	Ruegeria	2113	63.5473	0.359726
+GCA_003054265.1	GCA_014651475.1	inter_genus	Kordia	Mesonia	1619	63.3419	0.330580
+GCA_015999335.1	GCA_041537905.1	inter_genus	Tabrizicola	Ruegeria	2099	63.1748	0.363031
+GCA_001005315.1	GCA_014651475.1	inter_genus	Kordia	Mesonia	1655	62.9792	0.320535
+GCA_009901525.1	GCA_014651475.1	inter_genus	Kordia	Mesonia	1682	62.9626	0.330580
+GCA_000154725.1	GCA_014651475.1	inter_genus	Kordia	Mesonia	1661	62.9505	0.335911
+GCA_000970675.1	GCA_030814065.1	inter_genus	Domibacillus	Mesobacillus	1695	62.7373	0.338661
+GCA_001643235.1	GCA_030814065.1	inter_genus	Domibacillus	Mesobacillus	1659	62.7013	0.335911
+GCA_001906925.1	GCA_030814065.1	inter_genus	Domibacillus	Mesobacillus	1660	62.5981	0.330580
+GCA_020734105.1	GCA_042656585.1	inter_genus	Alkalihalobacillus	Thalassorhabdus	1976	62.2338	0.363031
+GCA_000966185.1	GCA_030814065.1	inter_genus	Domibacillus	Mesobacillus	1754	61.9583	0.330580
+GCA_000292245.2	GCA_042656585.1	inter_genus	Alkalihalobacillus	Thalassorhabdus	1746	61.7166	0.373474
+GCA_042656585.1	GCA_047302405.1	inter_genus	Thalassorhabdus	Alkalihalobacillus	1805	61.2584	0.380922
+GCA_028610675.1	GCA_042656585.1	inter_genus	Alkalihalobacillus	Thalassorhabdus	1743	60.9539	0.377146
+GCA_001643235.1	GCA_003254155.1	inter_genus	Domibacillus	Psychrobacillus	1648	60.8328	0.363031
+GCA_001906925.1	GCA_006861775.1	inter_genus	Domibacillus	Psychrobacillus	1673	60.5747	0.380922
+GCA_001906925.1	GCA_003254155.1	inter_genus	Domibacillus	Psychrobacillus	1610	60.4285	0.384809
+GCA_003254155.1	GCA_030814065.1	inter_genus	Psychrobacillus	Mesobacillus	1544	60.4084	0.392938
+GCA_009827395.1	GCA_034424525.1	inter_genus	Pontixanthobacter	Sphingobium	1591	60.3958	0.392938
+GCA_009827455.1	GCA_034424525.1	inter_genus	Pontixanthobacter	Sphingobium	1489	60.3812	0.397196
+GCA_001643235.1	GCA_008973485.1	inter_genus	Domibacillus	Psychrobacillus	1626	60.3766	0.377146
+GCA_000970675.1	GCA_003254155.1	inter_genus	Domibacillus	Psychrobacillus	1563	60.3409	0.397196
+GCA_001906925.1	GCA_006861795.1	inter_genus	Domibacillus	Psychrobacillus	1681	60.3391	0.406139
+GCA_009828095.1	GCA_034424525.1	inter_genus	Pontixanthobacter	Sphingobium	1538	60.3111	0.373474
+GCA_001643235.1	GCA_006861795.1	inter_genus	Domibacillus	Psychrobacillus	1793	60.2045	0.392938
+GCA_006861775.1	GCA_030814065.1	inter_genus	Psychrobacillus	Mesobacillus	1684	60.1768	0.359726
+GCA_001906925.1	GCA_008973485.1	inter_genus	Domibacillus	Psychrobacillus	1592	60.1722	0.373474
+GCA_001643235.1	GCA_006861775.1	inter_genus	Domibacillus	Psychrobacillus	1759	60.1376	0.377146
+GCA_006861795.1	GCA_030814065.1	inter_genus	Psychrobacillus	Mesobacillus	1711	60.1141	0.369901
+GCA_000970675.1	GCA_008973485.1	inter_genus	Domibacillus	Psychrobacillus	1581	60.1069	0.377146
+GCA_012972675.1	GCA_034424525.1	inter_genus	Pontixanthobacter	Sphingobium	1507	60.0997	0.392938
+GCA_000966185.1	GCA_003254155.1	inter_genus	Domibacillus	Psychrobacillus	1602	60.0870	0.380922
+GCA_000970675.1	GCA_006861775.1	inter_genus	Domibacillus	Psychrobacillus	1628	60.0690	0.366421
+GCA_000970675.1	GCA_006861795.1	inter_genus	Domibacillus	Psychrobacillus	1684	60.0326	0.369901
+GCA_008973485.1	GCA_030814065.1	inter_genus	Psychrobacillus	Mesobacillus	1676	59.9027	0.359726
+GCA_000966185.1	GCA_008973485.1	inter_genus	Domibacillus	Psychrobacillus	1642	59.7951	0.380922
+GCA_000966185.1	GCA_006861775.1	inter_genus	Domibacillus	Psychrobacillus	1693	59.7676	0.359726
+GCA_000966185.1	GCA_006861795.1	inter_genus	Domibacillus	Psychrobacillus	1731	59.7036	0.377146
+GCA_020734105.1	GCA_030814065.1	inter_genus	Alkalihalobacillus	Mesobacillus	1769	59.6477	0.388812
+GCA_000292245.2	GCA_030814065.1	inter_genus	Alkalihalobacillus	Mesobacillus	1680	59.4842	0.437182
+GCA_001906925.1	GCA_020734105.1	inter_genus	Domibacillus	Alkalihalobacillus	1621	59.3981	0.401593
+GCA_001643235.1	GCA_020734105.1	inter_genus	Domibacillus	Alkalihalobacillus	1658	59.3284	0.397196
+GCA_000970675.1	GCA_020734105.1	inter_genus	Domibacillus	Alkalihalobacillus	1615	59.2699	0.401593
+GCA_000966185.1	GCA_020734105.1	inter_genus	Domibacillus	Alkalihalobacillus	1701	58.9992	0.392938
+GCA_030814065.1	GCA_047302405.1	inter_genus	Mesobacillus	Alkalihalobacillus	1725	58.9883	0.420773
+GCA_030814065.1	GCA_042656585.1	inter_genus	Mesobacillus	Thalassorhabdus	1563	58.8460	0.373474
+GCA_000292245.2	GCA_001906925.1	inter_genus	Alkalihalobacillus	Domibacillus	1469	58.8172	0.426026
+GCA_000292245.2	GCA_001643235.1	inter_genus	Alkalihalobacillus	Domibacillus	1532	58.6842	0.420773
+GCA_000292245.2	GCA_000970675.1	inter_genus	Alkalihalobacillus	Domibacillus	1539	58.6528	0.449332
+GCA_028610675.1	GCA_030814065.1	inter_genus	Alkalihalobacillus	Mesobacillus	1690	58.6144	0.415717
+GCA_000292245.2	GCA_000966185.1	inter_genus	Alkalihalobacillus	Domibacillus	1671	58.4613	0.431489
+GCA_001906925.1	GCA_047302405.1	inter_genus	Domibacillus	Alkalihalobacillus	1532	58.3889	0.426026
+GCA_000970675.1	GCA_042656585.1	inter_genus	Domibacillus	Thalassorhabdus	1517	58.2991	0.401593
+GCA_000970675.1	GCA_047302405.1	inter_genus	Domibacillus	Alkalihalobacillus	1608	58.2749	0.449332
+GCA_001643235.1	GCA_047302405.1	inter_genus	Domibacillus	Alkalihalobacillus	1609	58.2331	0.443122
+GCA_000966185.1	GCA_047302405.1	inter_genus	Domibacillus	Alkalihalobacillus	1776	58.2183	0.420773
+GCA_000966185.1	GCA_042656585.1	inter_genus	Domibacillus	Thalassorhabdus	1551	58.1806	0.392938
+GCA_001906925.1	GCA_042656585.1	inter_genus	Domibacillus	Thalassorhabdus	1460	58.1168	0.426026
+GCA_000970675.1	GCA_028610675.1	inter_genus	Domibacillus	Alkalihalobacillus	1538	57.9312	0.449332
+GCA_001643235.1	GCA_042656585.1	inter_genus	Domibacillus	Thalassorhabdus	1509	57.9009	0.437182
+GCA_000966185.1	GCA_028610675.1	inter_genus	Domibacillus	Alkalihalobacillus	1678	57.8868	0.420773
+GCA_001906925.1	GCA_028610675.1	inter_genus	Domibacillus	Alkalihalobacillus	1490	57.8795	0.420773
+GCA_001643235.1	GCA_028610675.1	inter_genus	Domibacillus	Alkalihalobacillus	1547	57.7398	0.426026
+GCA_003254155.1	GCA_020734105.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1561	57.6580	0.443122
+GCA_008297975.1	GCA_900100925.1	inter_genus	Antrihabitans	Actinopolyspora	1544	57.6126	0.415717
+GCA_016481275.1	GCA_900100925.1	inter_genus	Antrihabitans	Actinopolyspora	1560	57.3592	0.397196
+GCA_000292245.2	GCA_003254155.1	inter_genus	Alkalihalobacillus	Psychrobacillus	1453	57.3153	0.485465
+GCA_043944905.1	GCA_900100925.1	inter_genus	Antrihabitans	Actinopolyspora	1556	57.2632	0.410843
+GCA_012932915.1	GCA_900100925.1	inter_genus	Antrihabitans	Actinopolyspora	1574	57.2614	0.431489
+GCA_000292245.2	GCA_006861795.1	inter_genus	Alkalihalobacillus	Psychrobacillus	1634	57.2355	0.477439
+GCA_006861775.1	GCA_020734105.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1641	57.1899	0.449332
+GCA_006861795.1	GCA_020734105.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1642	57.1727	0.462668
+GCA_003254155.1	GCA_047302405.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1513	57.0523	0.443122
+GCA_000292245.2	GCA_006861775.1	inter_genus	Alkalihalobacillus	Psychrobacillus	1589	56.9961	0.449332
+GCA_000292245.2	GCA_008973485.1	inter_genus	Alkalihalobacillus	Psychrobacillus	1547	56.9089	
+GCA_008973485.1	GCA_020734105.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1539	56.9022	0.437182
+GCA_006861795.1	GCA_047302405.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1728	56.7572	0.449332
+GCA_006861775.1	GCA_047302405.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1680	56.6478	0.455838
+GCA_008973485.1	GCA_047302405.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1644	56.6359	0.462668
+GCA_003254155.1	GCA_028610675.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1497	56.4012	0.477439
+GCA_006861775.1	GCA_042656585.1	inter_genus	Psychrobacillus	Thalassorhabdus	1453	56.3327	0.426026
+GCA_006861775.1	GCA_028610675.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1644	56.2825	0.443122
+GCA_006861795.1	GCA_042656585.1	inter_genus	Psychrobacillus	Thalassorhabdus	1462	56.2715	0.449332
+GCA_008973485.1	GCA_042656585.1	inter_genus	Psychrobacillus	Thalassorhabdus	1375	56.2484	0.449332
+GCA_003254155.1	GCA_042656585.1	inter_genus	Psychrobacillus	Thalassorhabdus	1390	56.2151	0.455838
+GCA_006861795.1	GCA_028610675.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1694	56.2045	0.455838
+GCA_008973485.1	GCA_028610675.1	inter_genus	Psychrobacillus	Alkalihalobacillus	1648	56.0153	0.443122
+GCA_000009365.1	GCA_001639725.1	inter_genus	Alcanivorax	Marinomonas	1090	55.1521	0.420773
+GCA_001639725.1	GCA_003597125.1	inter_genus	Marinomonas	Alcanivorax	1127	55.0374	0.449332
+GCA_001639725.1	GCA_009601165.1	inter_genus	Marinomonas	Alcanivorax	1128	54.9002	0.485465
+GCA_000756655.1	GCA_001639725.1	inter_genus	Alcanivorax	Marinomonas	1119	54.7727	0.477439
+GCA_008704535.1	GCA_900100925.1	inter_genus	Streptomyces	Actinopolyspora	1620	54.7125	0.415717
+GCA_000970675.1	GCA_900636385.1	inter_genus	Domibacillus	Staphylococcus	1018	54.6296	0.449332
+GCA_000966185.1	GCA_900636385.1	inter_genus	Domibacillus	Staphylococcus	1045	54.5891	0.455838
+GCA_008297975.1	GCA_008704535.1	inter_genus	Antrihabitans	Streptomyces	1777	54.3782	0.426026
+GCA_008704535.1	GCA_043944905.1	inter_genus	Streptomyces	Antrihabitans	1787	54.3533	0.401593
+GCA_030814065.1	GCA_900636385.1	inter_genus	Mesobacillus	Staphylococcus	996	54.3059	0.469856
+GCA_008704535.1	GCA_012932915.1	inter_genus	Streptomyces	Antrihabitans	1799	54.2664	0.431489
+GCA_008704535.1	GCA_016481275.1	inter_genus	Streptomyces	Antrihabitans	1797	54.2501	0.420773
+GCA_001906925.1	GCA_900636385.1	inter_genus	Domibacillus	Staphylococcus	1001	54.1887	0.449332
+GCA_003254155.1	GCA_900636385.1	inter_genus	Psychrobacillus	Staphylococcus	1005	54.1822	0.469856
+GCA_008973485.1	GCA_900636385.1	inter_genus	Psychrobacillus	Staphylococcus	1020	54.1724	0.493985
+GCA_014212135.1	GCA_042656585.1	inter_genus	Cohnella	Thalassorhabdus	1274	53.9274	
+GCA_006861775.1	GCA_900636385.1	inter_genus	Psychrobacillus	Staphylococcus	1059	53.9181	0.477439
+GCA_006861795.1	GCA_900636385.1	inter_genus	Psychrobacillus	Staphylococcus	1065	53.8915	0.477439
+GCA_001643235.1	GCA_900636385.1	inter_genus	Domibacillus	Staphylococcus	1052	53.8804	0.455838
+GCA_014651475.1	GCA_042650985.1	inter_genus	Mesonia	Epilithonimonas	1195	53.8261	0.485465
+GCA_014651475.1	GCA_900142325.1	inter_genus	Mesonia	Epilithonimonas	1156	53.7719	0.469856
+GCA_014651475.1	GCA_042654505.1	inter_genus	Mesonia	Epilithonimonas	1182	53.7635	0.477439
+GCA_014212135.1	GCA_020734105.1	inter_genus	Cohnella	Alkalihalobacillus	1426	53.7587	
+GCA_003054265.1	GCA_004365655.1	inter_genus	Kordia	Epilithonimonas	1108	53.7236	
+GCA_000154725.1	GCA_042654505.1	inter_genus	Kordia	Epilithonimonas	1168	53.6776	
+GCA_001643235.1	GCA_014212135.1	inter_genus	Domibacillus	Cohnella	1414	53.6757	0.493985
+GCA_004365655.1	GCA_014651475.1	inter_genus	Epilithonimonas	Mesonia	1135	53.6641	0.485465
+GCA_000970675.1	GCA_014212135.1	inter_genus	Domibacillus	Cohnella	1399	53.6362	
+GCA_000292245.2	GCA_014212135.1	inter_genus	Alkalihalobacillus	Cohnella	1559	53.6340	0.493985
+GCA_042656585.1	GCA_900636385.1	inter_genus	Thalassorhabdus	Staphylococcus	913	53.6325	
+GCA_000966185.1	GCA_014212135.1	inter_genus	Domibacillus	Cohnella	1526	53.6290	
+GCA_003054265.1	GCA_042654505.1	inter_genus	Kordia	Epilithonimonas	1161	53.6035	
+GCA_001005315.1	GCA_042654505.1	inter_genus	Kordia	Epilithonimonas	1171	53.5899	
+GCA_001906925.1	GCA_014212135.1	inter_genus	Domibacillus	Cohnella	1321	53.4942	0.493985
+GCA_000154725.1	GCA_004365655.1	inter_genus	Kordia	Epilithonimonas	1133	53.4662	
+GCA_001005315.1	GCA_004365655.1	inter_genus	Kordia	Epilithonimonas	1143	53.4661	
+GCA_000154725.1	GCA_042650985.1	inter_genus	Kordia	Epilithonimonas	1199	53.4516	0.485465
+GCA_003054265.1	GCA_042650985.1	inter_genus	Kordia	Epilithonimonas	1176	53.4501	
+GCA_003054265.1	GCA_900142325.1	inter_genus	Kordia	Epilithonimonas	1143	53.4144	
+GCA_019334345.1	GCA_041537905.1	inter_genus	Neohoeflea	Ruegeria	1411	53.4084	0.469856
+GCA_000292245.2	GCA_900636385.1	inter_genus	Alkalihalobacillus	Staphylococcus	969	53.3920	
+GCA_000154725.1	GCA_900142325.1	inter_genus	Kordia	Epilithonimonas	1148	53.3907	
+GCA_020734105.1	GCA_900636385.1	inter_genus	Alkalihalobacillus	Staphylococcus	954	53.3546	
+GCA_001005315.1	GCA_042650985.1	inter_genus	Kordia	Epilithonimonas	1199	53.3132	
+GCA_014212135.1	GCA_028610675.1	inter_genus	Cohnella	Alkalihalobacillus	1598	53.3050	0.485465
+GCA_001005315.1	GCA_900142325.1	inter_genus	Kordia	Epilithonimonas	1149	53.2532	
+GCA_028610675.1	GCA_900636385.1	inter_genus	Alkalihalobacillus	Staphylococcus	976	53.2519	0.443122
+GCA_003574395.1	GCA_019334345.1	inter_genus	Tabrizicola	Neohoeflea	1322	53.1999	0.437182
+GCA_009901525.1	GCA_900142325.1	inter_genus	Kordia	Epilithonimonas	1162	53.1472	0.493985
+GCA_047302405.1	GCA_900636385.1	inter_genus	Alkalihalobacillus	Staphylococcus	999	53.1171	0.469856
+GCA_015999335.1	GCA_019334345.1	inter_genus	Tabrizicola	Neohoeflea	1429	53.1071	0.493985
+GCA_014212135.1	GCA_047302405.1	inter_genus	Cohnella	Alkalihalobacillus	1710	53.1046	0.469856
+GCA_004365655.1	GCA_009901525.1	inter_genus	Epilithonimonas	Kordia	1150	53.0742	
+GCA_014212135.1	GCA_030814065.1	inter_genus	Cohnella	Mesobacillus	1466	53.0625	0.485465
+GCA_009901525.1	GCA_042654505.1	inter_genus	Kordia	Epilithonimonas	1188	52.9949	
+GCA_011008935.1	GCA_019334345.1	inter_genus	Tabrizicola	Neohoeflea	1321	52.9859	
+GCA_013328815.1	GCA_019334345.1	inter_genus	Tabrizicola	Neohoeflea	1378	52.9150	
+GCA_009901525.1	GCA_042650985.1	inter_genus	Kordia	Epilithonimonas	1223	52.8800	
+GCA_016481275.1	GCA_030065535.1	inter_genus	Antrihabitans	Microbacterium	1012	52.7848	0.469856
+GCA_008973485.1	GCA_014212135.1	inter_genus	Psychrobacillus	Cohnella	1404	52.7734	0.493985
+GCA_003254155.1	GCA_014212135.1	inter_genus	Psychrobacillus	Cohnella	1251	52.7706	
+GCA_008297975.1	GCA_030065535.1	inter_genus	Antrihabitans	Microbacterium	1011	52.6714	0.426026
+GCA_006861795.1	GCA_014212135.1	inter_genus	Psychrobacillus	Cohnella	1446	52.6572	
+GCA_008704535.1	GCA_030065535.1	inter_genus	Streptomyces	Microbacterium	1085	52.6355	0.462668
+GCA_006861775.1	GCA_014212135.1	inter_genus	Psychrobacillus	Cohnella	1391	52.5533	
+GCA_030065535.1	GCA_043944905.1	inter_genus	Microbacterium	Antrihabitans	1044	52.5239	0.437182
+GCA_012932915.1	GCA_030065535.1	inter_genus	Antrihabitans	Microbacterium	1008	52.5005	0.443122
+GCA_008704535.1	GCA_043556415.1	inter_genus	Streptomyces	Microbacterium	1049	52.2034	0.443122
+GCA_016481275.1	GCA_043556415.1	inter_genus	Antrihabitans	Microbacterium	991	52.1772	0.493985
+GCA_025960885.1	GCA_043944905.1	inter_genus	Microbacterium	Antrihabitans	1187	52.1421	0.443122
+GCA_008704535.1	GCA_025960885.1	inter_genus	Streptomyces	Microbacterium	1189	52.1139	0.485465
+GCA_016481275.1	GCA_025960885.1	inter_genus	Antrihabitans	Microbacterium	1158	52.1080	0.493985
+GCA_008297975.1	GCA_025960885.1	inter_genus	Antrihabitans	Microbacterium	1134	52.0907	0.469856
+GCA_008704535.1	GCA_013409785.1	inter_genus	Streptomyces	Microbacterium	1197	51.9815	0.469856
+GCA_012932915.1	GCA_025960885.1	inter_genus	Antrihabitans	Microbacterium	1154	51.9803	0.449332
+GCA_008297975.1	GCA_043556415.1	inter_genus	Antrihabitans	Microbacterium	995	51.9568	0.493985
+GCA_030065535.1	GCA_900100925.1	inter_genus	Microbacterium	Actinopolyspora	888	51.8907	0.477439
+GCA_043556415.1	GCA_043944905.1	inter_genus	Microbacterium	Antrihabitans	1024	51.8845	0.469856
+GCA_013409785.1	GCA_016481275.1	inter_genus	Microbacterium	Antrihabitans	1172	51.8640	0.493985
+GCA_012932915.1	GCA_043556415.1	inter_genus	Antrihabitans	Microbacterium	984	51.8306	
+GCA_013409785.1	GCA_043944905.1	inter_genus	Microbacterium	Antrihabitans	1166	51.8182	0.462668
+GCA_008297975.1	GCA_013409785.1	inter_genus	Antrihabitans	Microbacterium	1137	51.7555	0.469856
+GCA_015999335.1	GCA_034424525.1	inter_genus	Tabrizicola	Sphingobium	1108	51.6775	
+GCA_012932915.1	GCA_013409785.1	inter_genus	Antrihabitans	Microbacterium	1189	51.6282	0.449332
+GCA_009827395.1	GCA_041537905.1	inter_genus	Pontixanthobacter	Ruegeria	929	51.5975	0.493985
+GCA_009827395.1	GCA_019334345.1	inter_genus	Pontixanthobacter	Neohoeflea	900	51.5831	
+GCA_003574395.1	GCA_034424525.1	inter_genus	Tabrizicola	Sphingobium	1066	51.5745	
+GCA_009827395.1	GCA_013328815.1	inter_genus	Pontixanthobacter	Tabrizicola	870	51.5667	
+GCA_019334345.1	GCA_034424525.1	inter_genus	Neohoeflea	Sphingobium	1100	51.5481	0.477439
+GCA_009828095.1	GCA_019334345.1	inter_genus	Pontixanthobacter	Neohoeflea	910	51.5219	
+GCA_013328815.1	GCA_034424525.1	inter_genus	Tabrizicola	Sphingobium	1146	51.4986	
+GCA_009827455.1	GCA_013328815.1	inter_genus	Pontixanthobacter	Tabrizicola	866	51.4555	
+GCA_009828095.1	GCA_013328815.1	inter_genus	Pontixanthobacter	Tabrizicola	866	51.4500	
+GCA_003574395.1	GCA_009827395.1	inter_genus	Tabrizicola	Pontixanthobacter	883	51.4289	
+GCA_003574395.1	GCA_009827455.1	inter_genus	Tabrizicola	Pontixanthobacter	902	51.4272	0.493985
+GCA_013409785.1	GCA_900100925.1	inter_genus	Microbacterium	Actinopolyspora	1004	51.4121	0.469856
+GCA_012972675.1	GCA_019334345.1	inter_genus	Pontixanthobacter	Neohoeflea	889	51.3916	
+GCA_009827455.1	GCA_041537905.1	inter_genus	Pontixanthobacter	Ruegeria	932	51.3545	
+GCA_025960885.1	GCA_900100925.1	inter_genus	Microbacterium	Actinopolyspora	1024	51.3370	0.443122
+GCA_009827395.1	GCA_015999335.1	inter_genus	Pontixanthobacter	Tabrizicola	871	51.3305	
+GCA_009827455.1	GCA_011008935.1	inter_genus	Pontixanthobacter	Tabrizicola	862	51.3139	
+GCA_000970675.1	GCA_001437435.1	inter_genus	Domibacillus	Furfurilactobacillus	629	51.2906	
+GCA_012972675.1	GCA_013328815.1	inter_genus	Pontixanthobacter	Tabrizicola	871	51.2836	
+GCA_011008935.1	GCA_034424525.1	inter_genus	Tabrizicola	Sphingobium	1097	51.2805	
+GCA_000966185.1	GCA_001437435.1	inter_genus	Domibacillus	Furfurilactobacillus	637	51.2419	
+GCA_009827455.1	GCA_019334345.1	inter_genus	Pontixanthobacter	Neohoeflea	911	51.2158	
+GCA_009827455.1	GCA_015999335.1	inter_genus	Pontixanthobacter	Tabrizicola	864	51.2074	
+GCA_009827395.1	GCA_011008935.1	inter_genus	Pontixanthobacter	Tabrizicola	881	51.1725	
+GCA_009828095.1	GCA_011008935.1	inter_genus	Pontixanthobacter	Tabrizicola	876	51.1590	
+GCA_012972675.1	GCA_041537905.1	inter_genus	Pontixanthobacter	Ruegeria	937	51.1313	
+GCA_043556415.1	GCA_900100925.1	inter_genus	Microbacterium	Actinopolyspora	884	51.1205	0.493985
+GCA_009828095.1	GCA_041537905.1	inter_genus	Pontixanthobacter	Ruegeria	951	51.0964	
+GCA_003574395.1	GCA_009828095.1	inter_genus	Tabrizicola	Pontixanthobacter	894	51.0956	
+GCA_003574395.1	GCA_012972675.1	inter_genus	Tabrizicola	Pontixanthobacter	875	51.0685	
+GCA_009828095.1	GCA_015999335.1	inter_genus	Pontixanthobacter	Tabrizicola	884	51.0296	
+GCA_011008935.1	GCA_012972675.1	inter_genus	Tabrizicola	Pontixanthobacter	878	50.9899	
+GCA_012972675.1	GCA_015999335.1	inter_genus	Pontixanthobacter	Tabrizicola	881	50.8973	
+GCA_034424525.1	GCA_041537905.1	inter_genus	Sphingobium	Ruegeria	1129	50.8560	0.477439
+GCA_001437435.1	GCA_001906925.1	inter_genus	Furfurilactobacillus	Domibacillus	610	50.8169	
+GCA_000338295.1	GCA_009720525.1	inter_genus	Rhodopirellula	Gimesia	1618	50.7186	0.431489
+GCA_001437435.1	GCA_008973485.1	inter_genus	Furfurilactobacillus	Psychrobacillus	621	50.6802	
+GCA_001437435.1	GCA_001643235.1	inter_genus	Furfurilactobacillus	Domibacillus	639	50.6460	
+GCA_002727185.1	GCA_009720525.1	inter_genus	Rhodopirellula	Gimesia	1636	50.5792	0.431489
+GCA_001437435.1	GCA_030814065.1	inter_genus	Furfurilactobacillus	Mesobacillus	655	50.5412	
+GCA_002727185.1	GCA_007754425.1	inter_genus	Rhodopirellula	Gimesia	1605	50.4512	0.462668
+GCA_000196115.1	GCA_007754425.1	inter_genus	Rhodopirellula	Gimesia	1598	50.4486	0.462668
+GCA_000181475.1	GCA_002727185.1	inter_genus	Gimesia	Rhodopirellula	1623	50.4408	0.443122
+GCA_009720525.1	GCA_020966775.1	inter_genus	Gimesia	Rhodopirellula	1519	50.4323	0.437182
+GCA_000338295.1	GCA_007754425.1	inter_genus	Rhodopirellula	Gimesia	1596	50.4004	0.443122
+GCA_000196115.1	GCA_009720525.1	inter_genus	Rhodopirellula	Gimesia	1599	50.3947	0.455838
+GCA_000181475.1	GCA_000196115.1	inter_genus	Gimesia	Rhodopirellula	1615	50.3904	0.462668
+GCA_000181475.1	GCA_000338295.1	inter_genus	Gimesia	Rhodopirellula	1598	50.3720	0.431489
+GCA_000181475.1	GCA_020966775.1	inter_genus	Gimesia	Rhodopirellula	1506	50.3713	0.469856
+GCA_007754425.1	GCA_020966775.1	inter_genus	Gimesia	Rhodopirellula	1513	50.2699	0.455838
+GCA_000338295.1	GCA_007748195.1	inter_genus	Rhodopirellula	Gimesia	1517	50.1966	0.455838
+GCA_000196115.1	GCA_007748195.1	inter_genus	Rhodopirellula	Gimesia	1527	50.1921	0.485465
+GCA_001437435.1	GCA_003254155.1	inter_genus	Furfurilactobacillus	Psychrobacillus	614	50.1831	
+GCA_000292245.2	GCA_001437435.1	inter_genus	Alkalihalobacillus	Furfurilactobacillus	607	50.1680	
+GCA_001437435.1	GCA_020734105.1	inter_genus	Furfurilactobacillus	Alkalihalobacillus	587	50.1513	
+GCA_001437435.1	GCA_006861775.1	inter_genus	Furfurilactobacillus	Psychrobacillus	639	50.1444	
+GCA_001437435.1	GCA_006861795.1	inter_genus	Furfurilactobacillus	Psychrobacillus	643	50.1437	
+GCA_001437435.1	GCA_028610675.1	inter_genus	Furfurilactobacillus	Alkalihalobacillus	612	50.1294	
+GCA_007748195.1	GCA_020966775.1	inter_genus	Gimesia	Rhodopirellula	1463	50.0630	0.449332
+GCA_001437435.1	GCA_047302405.1	inter_genus	Furfurilactobacillus	Alkalihalobacillus	624	50.0425	
+GCA_002727185.1	GCA_007748195.1	inter_genus	Rhodopirellula	Gimesia	1554	50.0205	0.469856
+GCA_014212135.1	GCA_900636385.1	inter_genus	Cohnella	Staphylococcus	893	49.9054	
+GCA_001437435.1	GCA_042656585.1	inter_genus	Furfurilactobacillus	Thalassorhabdus	583	49.8777	
+GCA_001437435.1	GCA_900636385.1	inter_genus	Furfurilactobacillus	Staphylococcus	601	49.3624	
+GCA_001437435.1	GCA_014212135.1	inter_genus	Furfurilactobacillus	Cohnella	598	47.9599	
+GCA_003597125.1	GCA_009827395.1	inter_genus	Alcanivorax	Pontixanthobacter	689	47.0313	
+GCA_000009365.1	GCA_009827395.1	inter_genus	Alcanivorax	Pontixanthobacter	660	46.9833	
+GCA_000756655.1	GCA_009827395.1	inter_genus	Alcanivorax	Pontixanthobacter	690	46.9081	
+GCA_009601165.1	GCA_009827395.1	inter_genus	Alcanivorax	Pontixanthobacter	693	46.9007	
+GCA_000756655.1	GCA_009828095.1	inter_genus	Alcanivorax	Pontixanthobacter	695	46.8919	
+GCA_003597125.1	GCA_009828095.1	inter_genus	Alcanivorax	Pontixanthobacter	691	46.8764	
+GCA_001639725.1	GCA_019334345.1	inter_genus	Marinomonas	Neohoeflea	792	46.8694	
+GCA_000009365.1	GCA_034424525.1	inter_genus	Alcanivorax	Sphingobium	754	46.8326	
+GCA_003597125.1	GCA_009827455.1	inter_genus	Alcanivorax	Pontixanthobacter	693	46.7967	
+GCA_009601165.1	GCA_034424525.1	inter_genus	Alcanivorax	Sphingobium	766	46.7662	
+GCA_000756655.1	GCA_009827455.1	inter_genus	Alcanivorax	Pontixanthobacter	694	46.7476	
+GCA_003597125.1	GCA_013328815.1	inter_genus	Alcanivorax	Tabrizicola	715	46.7074	
+GCA_003574395.1	GCA_003597125.1	inter_genus	Tabrizicola	Alcanivorax	690	46.7072	
+GCA_000009365.1	GCA_009828095.1	inter_genus	Alcanivorax	Pontixanthobacter	665	46.6973	
+GCA_003597125.1	GCA_034424525.1	inter_genus	Alcanivorax	Sphingobium	776	46.6865	
+GCA_001639725.1	GCA_003574395.1	inter_genus	Marinomonas	Tabrizicola	798	46.6797	
+GCA_003597125.1	GCA_012972675.1	inter_genus	Alcanivorax	Pontixanthobacter	704	46.6680	
+GCA_000756655.1	GCA_012972675.1	inter_genus	Alcanivorax	Pontixanthobacter	706	46.6649	
+GCA_009601165.1	GCA_009828095.1	inter_genus	Alcanivorax	Pontixanthobacter	708	46.6573	
+GCA_009601165.1	GCA_012972675.1	inter_genus	Alcanivorax	Pontixanthobacter	699	46.6451	
+GCA_003597125.1	GCA_019334345.1	inter_genus	Alcanivorax	Neohoeflea	729	46.6273	
+GCA_001639725.1	GCA_041537905.1	inter_genus	Marinomonas	Ruegeria	929	46.6064	
+GCA_009601165.1	GCA_041537905.1	inter_genus	Alcanivorax	Ruegeria	814	46.5905	
+GCA_003597125.1	GCA_041537905.1	inter_genus	Alcanivorax	Ruegeria	828	46.5839	
+GCA_009601165.1	GCA_009827455.1	inter_genus	Alcanivorax	Pontixanthobacter	703	46.5472	
+GCA_000756655.1	GCA_019334345.1	inter_genus	Alcanivorax	Neohoeflea	723	46.5422	
+GCA_009601165.1	GCA_019334345.1	inter_genus	Alcanivorax	Neohoeflea	709	46.5409	
+GCA_000756655.1	GCA_034424525.1	inter_genus	Alcanivorax	Sphingobium	789	46.5374	
+GCA_000009365.1	GCA_041537905.1	inter_genus	Alcanivorax	Ruegeria	799	46.5337	
+GCA_000009365.1	GCA_009827455.1	inter_genus	Alcanivorax	Pontixanthobacter	669	46.5251	
+GCA_009601165.1	GCA_015999335.1	inter_genus	Alcanivorax	Tabrizicola	714	46.5216	
+GCA_000009365.1	GCA_019334345.1	inter_genus	Alcanivorax	Neohoeflea	703	46.5092	
+GCA_000009365.1	GCA_003574395.1	inter_genus	Alcanivorax	Tabrizicola	692	46.4660	
+GCA_003574395.1	GCA_009601165.1	inter_genus	Tabrizicola	Alcanivorax	697	46.4532	
+GCA_009601165.1	GCA_013328815.1	inter_genus	Alcanivorax	Tabrizicola	729	46.4520	
+GCA_000009365.1	GCA_012972675.1	inter_genus	Alcanivorax	Pontixanthobacter	684	46.4452	
+GCA_000756655.1	GCA_041537905.1	inter_genus	Alcanivorax	Ruegeria	815	46.4307	
+GCA_001639725.1	GCA_015999335.1	inter_genus	Marinomonas	Tabrizicola	839	46.4232	
+GCA_000756655.1	GCA_003574395.1	inter_genus	Alcanivorax	Tabrizicola	698	46.3974	
+GCA_000009365.1	GCA_013328815.1	inter_genus	Alcanivorax	Tabrizicola	714	46.3717	
+GCA_001639725.1	GCA_011008935.1	inter_genus	Marinomonas	Tabrizicola	813	46.3680	
+GCA_003597125.1	GCA_011008935.1	inter_genus	Alcanivorax	Tabrizicola	708	46.3614	
+GCA_001639725.1	GCA_013328815.1	inter_genus	Marinomonas	Tabrizicola	859	46.3302	
+GCA_001639725.1	GCA_034424525.1	inter_genus	Marinomonas	Sphingobium	761	46.3223	
+GCA_001639725.1	GCA_009827395.1	inter_genus	Marinomonas	Pontixanthobacter	601	46.3186	
+GCA_003597125.1	GCA_015999335.1	inter_genus	Alcanivorax	Tabrizicola	717	46.2989	
+GCA_000009365.1	GCA_011008935.1	inter_genus	Alcanivorax	Tabrizicola	695	46.2783	
+GCA_000756655.1	GCA_013328815.1	inter_genus	Alcanivorax	Tabrizicola	710	46.2500	
+GCA_000756655.1	GCA_015999335.1	inter_genus	Alcanivorax	Tabrizicola	725	46.2247	
+GCA_009601165.1	GCA_011008935.1	inter_genus	Alcanivorax	Tabrizicola	717	46.2063	
+GCA_000756655.1	GCA_011008935.1	inter_genus	Alcanivorax	Tabrizicola	711	46.0987	
+GCA_001639725.1	GCA_009828095.1	inter_genus	Marinomonas	Pontixanthobacter	607	46.0843	
+GCA_001639725.1	GCA_009827455.1	inter_genus	Marinomonas	Pontixanthobacter	609	46.0486	
+GCA_000009365.1	GCA_015999335.1	inter_genus	Alcanivorax	Tabrizicola	731	45.9278	
+GCA_001639725.1	GCA_012972675.1	inter_genus	Marinomonas	Pontixanthobacter	619	45.9191	
+GCA_001906925.1	GCA_003597125.1	inter_genus	Domibacillus	Alcanivorax	492	45.2591	
+GCA_000009365.1	GCA_000970675.1	inter_genus	Alcanivorax	Domibacillus	505	45.2301	
+GCA_000009365.1	GCA_001906925.1	inter_genus	Alcanivorax	Domibacillus	498	45.1191	
+GCA_001906925.1	GCA_009601165.1	inter_genus	Domibacillus	Alcanivorax	497	45.1155	
+GCA_000009365.1	GCA_000966185.1	inter_genus	Alcanivorax	Domibacillus	521	45.0762	
+GCA_000970675.1	GCA_009601165.1	inter_genus	Domibacillus	Alcanivorax	515	45.0266	
+GCA_009601165.1	GCA_014212135.1	inter_genus	Alcanivorax	Cohnella	549	45.0137	
+GCA_000009365.1	GCA_001643235.1	inter_genus	Alcanivorax	Domibacillus	500	44.9972	
+GCA_000756655.1	GCA_000970675.1	inter_genus	Alcanivorax	Domibacillus	507	44.9817	
+GCA_000970675.1	GCA_003597125.1	inter_genus	Domibacillus	Alcanivorax	527	44.9814	
+GCA_000756655.1	GCA_001906925.1	inter_genus	Alcanivorax	Domibacillus	504	44.9629	
+GCA_000966185.1	GCA_003597125.1	inter_genus	Domibacillus	Alcanivorax	539	44.9137	
+GCA_003597125.1	GCA_030814065.1	inter_genus	Alcanivorax	Mesobacillus	514	44.8854	
+GCA_000756655.1	GCA_001643235.1	inter_genus	Alcanivorax	Domibacillus	507	44.8696	
+GCA_003597125.1	GCA_014212135.1	inter_genus	Alcanivorax	Cohnella	560	44.8680	
+GCA_000009365.1	GCA_000292245.2	inter_genus	Alcanivorax	Alkalihalobacillus	511	44.8376	
+GCA_001643235.1	GCA_003597125.1	inter_genus	Domibacillus	Alcanivorax	502	44.8289	
+GCA_000009365.1	GCA_016481275.1	inter_genus	Alcanivorax	Antrihabitans	583	44.8278	
+GCA_000009365.1	GCA_042656585.1	inter_genus	Alcanivorax	Thalassorhabdus	548	44.8146	
+GCA_000009365.1	GCA_020734105.1	inter_genus	Alcanivorax	Alkalihalobacillus	566	44.7996	
+GCA_000756655.1	GCA_014212135.1	inter_genus	Alcanivorax	Cohnella	562	44.7936	
+GCA_000009365.1	GCA_030814065.1	inter_genus	Alcanivorax	Mesobacillus	519	44.7836	
+GCA_000009365.1	GCA_014212135.1	inter_genus	Alcanivorax	Cohnella	546	44.7832	
+GCA_001643235.1	GCA_009601165.1	inter_genus	Domibacillus	Alcanivorax	505	44.7768	
+GCA_000292245.2	GCA_003597125.1	inter_genus	Alkalihalobacillus	Alcanivorax	512	44.7461	
+GCA_000009365.1	GCA_012932915.1	inter_genus	Alcanivorax	Antrihabitans	578	44.7453	
+GCA_003597125.1	GCA_042656585.1	inter_genus	Alcanivorax	Thalassorhabdus	556	44.7453	
+GCA_003254155.1	GCA_009601165.1	inter_genus	Psychrobacillus	Alcanivorax	490	44.7322	
+GCA_009601165.1	GCA_043944905.1	inter_genus	Alcanivorax	Antrihabitans	597	44.7203	
+GCA_000009365.1	GCA_043944905.1	inter_genus	Alcanivorax	Antrihabitans	565	44.6922	
+GCA_003597125.1	GCA_043944905.1	inter_genus	Alcanivorax	Antrihabitans	610	44.6911	
+GCA_000966185.1	GCA_009601165.1	inter_genus	Domibacillus	Alcanivorax	551	44.6813	
+GCA_000009365.1	GCA_008297975.1	inter_genus	Alcanivorax	Antrihabitans	542	44.6793	
+GCA_003597125.1	GCA_016481275.1	inter_genus	Alcanivorax	Antrihabitans	642	44.6737	
+GCA_000292245.2	GCA_009601165.1	inter_genus	Alkalihalobacillus	Alcanivorax	526	44.6627	
+GCA_001906925.1	GCA_012932915.1	inter_genus	Domibacillus	Antrihabitans	519	44.6170	
+GCA_001906925.1	GCA_043944905.1	inter_genus	Domibacillus	Antrihabitans	528	44.6134	
+GCA_009601165.1	GCA_030814065.1	inter_genus	Alcanivorax	Mesobacillus	524	44.6002	
+GCA_000756655.1	GCA_042656585.1	inter_genus	Alcanivorax	Thalassorhabdus	563	44.5956	
+GCA_000756655.1	GCA_012932915.1	inter_genus	Alcanivorax	Antrihabitans	615	44.5862	
+GCA_003597125.1	GCA_020734105.1	inter_genus	Alcanivorax	Alkalihalobacillus	576	44.5769	
+GCA_009601165.1	GCA_009720525.1	inter_genus	Alcanivorax	Gimesia	554	44.5769	
+GCA_000756655.1	GCA_030814065.1	inter_genus	Alcanivorax	Mesobacillus	538	44.5714	
+GCA_009601165.1	GCA_047302405.1	inter_genus	Alcanivorax	Alkalihalobacillus	547	44.5616	
+GCA_000292245.2	GCA_042654505.1	inter_genus	Alkalihalobacillus	Epilithonimonas	481	44.5570	
+GCA_009601165.1	GCA_042656585.1	inter_genus	Alcanivorax	Thalassorhabdus	552	44.5563	
+GCA_000756655.1	GCA_000966185.1	inter_genus	Alcanivorax	Domibacillus	541	44.5372	
+GCA_000009365.1	GCA_003254155.1	inter_genus	Alcanivorax	Psychrobacillus	490	44.5298	
+GCA_000009365.1	GCA_047302405.1	inter_genus	Alcanivorax	Alkalihalobacillus	539	44.5096	
+GCA_003597125.1	GCA_006861775.1	inter_genus	Alcanivorax	Psychrobacillus	521	44.5019	
+GCA_000292245.2	GCA_001639725.1	inter_genus	Alkalihalobacillus	Marinomonas	579	44.4934	
+GCA_009601165.1	GCA_012932915.1	inter_genus	Alcanivorax	Antrihabitans	618	44.4934	
+GCA_001639725.1	GCA_014212135.1	inter_genus	Marinomonas	Cohnella	607	44.4880	
+GCA_006861775.1	GCA_009601165.1	inter_genus	Psychrobacillus	Alcanivorax	519	44.4855	
+GCA_000154725.1	GCA_001906925.1	inter_genus	Kordia	Domibacillus	436	44.4823	
+GCA_000009365.1	GCA_008973485.1	inter_genus	Alcanivorax	Psychrobacillus	473	44.4801	
+GCA_009601165.1	GCA_020966775.1	inter_genus	Alcanivorax	Rhodopirellula	501	44.4800	
+GCA_003597125.1	GCA_012932915.1	inter_genus	Alcanivorax	Antrihabitans	638	44.4727	
+GCA_009601165.1	GCA_016481275.1	inter_genus	Alcanivorax	Antrihabitans	620	44.4713	
+GCA_000292245.2	GCA_000756655.1	inter_genus	Alkalihalobacillus	Alcanivorax	536	44.4713	
+GCA_003054265.1	GCA_030814065.1	inter_genus	Kordia	Mesobacillus	470	44.4666	
+GCA_003254155.1	GCA_003597125.1	inter_genus	Psychrobacillus	Alcanivorax	494	44.4658	
+GCA_000292245.2	GCA_014651475.1	inter_genus	Alkalihalobacillus	Mesonia	482	44.4604	
+GCA_001906925.1	GCA_016481275.1	inter_genus	Domibacillus	Antrihabitans	536	44.4468	
+GCA_000292245.2	GCA_004365655.1	inter_genus	Alkalihalobacillus	Epilithonimonas	459	44.4429	
+GCA_042656585.1	GCA_043944905.1	inter_genus	Thalassorhabdus	Antrihabitans	563	44.4353	
+GCA_003597125.1	GCA_008973485.1	inter_genus	Alcanivorax	Psychrobacillus	474	44.4308	
+GCA_016481275.1	GCA_030814065.1	inter_genus	Antrihabitans	Mesobacillus	547	44.4205	
+GCA_006861795.1	GCA_009601165.1	inter_genus	Psychrobacillus	Alcanivorax	509	44.4196	
+GCA_000756655.1	GCA_020734105.1	inter_genus	Alcanivorax	Alkalihalobacillus	578	44.4159	
+GCA_008973485.1	GCA_009601165.1	inter_genus	Psychrobacillus	Alcanivorax	481	44.4148	
+GCA_009601165.1	GCA_028610675.1	inter_genus	Alcanivorax	Alkalihalobacillus	537	44.4134	
+GCA_000009365.1	GCA_020966775.1	inter_genus	Alcanivorax	Rhodopirellula	487	44.4123	
+GCA_000756655.1	GCA_043944905.1	inter_genus	Alcanivorax	Antrihabitans	614	44.4109	
+GCA_016481275.1	GCA_042656585.1	inter_genus	Antrihabitans	Thalassorhabdus	562	44.4073	
+GCA_001005315.1	GCA_001906925.1	inter_genus	Kordia	Domibacillus	431	44.4032	
+GCA_001639725.1	GCA_028610675.1	inter_genus	Marinomonas	Alkalihalobacillus	583	44.3909	
+GCA_000338295.1	GCA_009601165.1	inter_genus	Rhodopirellula	Alcanivorax	489	44.3904	
+GCA_008297975.1	GCA_009601165.1	inter_genus	Antrihabitans	Alcanivorax	585	44.3894	
+GCA_012932915.1	GCA_042656585.1	inter_genus	Antrihabitans	Thalassorhabdus	555	44.3859	
+GCA_000756655.1	GCA_016481275.1	inter_genus	Alcanivorax	Antrihabitans	629	44.3838	
+GCA_009601165.1	GCA_020734105.1	inter_genus	Alcanivorax	Alkalihalobacillus	573	44.3716	
+GCA_003597125.1	GCA_047302405.1	inter_genus	Alcanivorax	Alkalihalobacillus	541	44.3715	
+GCA_001906925.1	GCA_003054265.1	inter_genus	Domibacillus	Kordia	434	44.3643	
+GCA_001643235.1	GCA_043944905.1	inter_genus	Domibacillus	Antrihabitans	579	44.3639	
+GCA_003597125.1	GCA_006861795.1	inter_genus	Alcanivorax	Psychrobacillus	517	44.3538	
+GCA_000338295.1	GCA_000756655.1	inter_genus	Rhodopirellula	Alcanivorax	490	44.3494	
+GCA_000009365.1	GCA_006861775.1	inter_genus	Alcanivorax	Psychrobacillus	523	44.3430	
+GCA_000970675.1	GCA_001639725.1	inter_genus	Domibacillus	Marinomonas	573	44.3424	
+GCA_000009365.1	GCA_028610675.1	inter_genus	Alcanivorax	Alkalihalobacillus	533	44.3377	
+GCA_001639725.1	GCA_001643235.1	inter_genus	Marinomonas	Domibacillus	544	44.3333	
+GCA_000966185.1	GCA_001639725.1	inter_genus	Domibacillus	Marinomonas	616	44.3326	
+GCA_001906925.1	GCA_008297975.1	inter_genus	Domibacillus	Antrihabitans	515	44.3272	
+GCA_000756655.1	GCA_009720525.1	inter_genus	Alcanivorax	Gimesia	569	44.3250	
+GCA_000009365.1	GCA_000338295.1	inter_genus	Alcanivorax	Rhodopirellula	486	44.3202	
+GCA_008704535.1	GCA_042656585.1	inter_genus	Streptomyces	Thalassorhabdus	591	44.3191	
+GCA_001906925.1	GCA_014651475.1	inter_genus	Domibacillus	Mesonia	446	44.2991	
+GCA_003254155.1	GCA_042654505.1	inter_genus	Psychrobacillus	Epilithonimonas	448	44.2897	
+GCA_003597125.1	GCA_028610675.1	inter_genus	Alcanivorax	Alkalihalobacillus	534	44.2867	
+GCA_009827455.1	GCA_014212135.1	inter_genus	Pontixanthobacter	Cohnella	483	44.2789	
+GCA_008704535.1	GCA_014212135.1	inter_genus	Streptomyces	Cohnella	814	44.2722	
+GCA_001639725.1	GCA_001906925.1	inter_genus	Marinomonas	Domibacillus	534	44.2669	
+GCA_003597125.1	GCA_008297975.1	inter_genus	Alcanivorax	Antrihabitans	602	44.2661	
+GCA_003597125.1	GCA_020966775.1	inter_genus	Alcanivorax	Rhodopirellula	497	44.2581	
+GCA_003054265.1	GCA_003254155.1	inter_genus	Kordia	Psychrobacillus	441	44.2478	
+GCA_003254155.1	GCA_008297975.1	inter_genus	Psychrobacillus	Antrihabitans	528	44.2473	
+GCA_003254155.1	GCA_012932915.1	inter_genus	Psychrobacillus	Antrihabitans	536	44.2459	
+GCA_000966185.1	GCA_900142325.1	inter_genus	Domibacillus	Epilithonimonas	475	44.2408	
+GCA_000966185.1	GCA_042654505.1	inter_genus	Domibacillus	Epilithonimonas	504	44.2407	
+GCA_001906925.1	GCA_008704535.1	inter_genus	Domibacillus	Streptomyces	573	44.2358	
+GCA_003254155.1	GCA_009828095.1	inter_genus	Psychrobacillus	Pontixanthobacter	439	44.2355	
+GCA_001643235.1	GCA_014651475.1	inter_genus	Domibacillus	Mesonia	457	44.2339	
+GCA_001639725.1	GCA_042656585.1	inter_genus	Marinomonas	Thalassorhabdus	585	44.2328	
+GCA_003254155.1	GCA_042650985.1	inter_genus	Psychrobacillus	Epilithonimonas	453	44.2269	
+GCA_030814065.1	GCA_043944905.1	inter_genus	Mesobacillus	Antrihabitans	561	44.2264	
+GCA_004365655.1	GCA_008973485.1	inter_genus	Epilithonimonas	Psychrobacillus	433	44.2261	
+GCA_000966185.1	GCA_042650985.1	inter_genus	Domibacillus	Epilithonimonas	510	44.2212	
+GCA_000756655.1	GCA_028610675.1	inter_genus	Alcanivorax	Alkalihalobacillus	540	44.2202	
+GCA_000009365.1	GCA_009720525.1	inter_genus	Alcanivorax	Gimesia	553	44.2174	
+GCA_000970675.1	GCA_014651475.1	inter_genus	Domibacillus	Mesonia	452	44.2159	
+GCA_001639725.1	GCA_047302405.1	inter_genus	Marinomonas	Alkalihalobacillus	612	44.2155	
+GCA_000154725.1	GCA_003254155.1	inter_genus	Kordia	Psychrobacillus	442	44.2154	
+GCA_028610675.1	GCA_900142325.1	inter_genus	Alkalihalobacillus	Epilithonimonas	458	44.2140	
+GCA_000292245.2	GCA_008297975.1	inter_genus	Alkalihalobacillus	Antrihabitans	561	44.2135	
+GCA_000154725.1	GCA_000292245.2	inter_genus	Kordia	Alkalihalobacillus	476	44.2134	
+GCA_001906925.1	GCA_009827395.1	inter_genus	Domibacillus	Pontixanthobacter	446	44.2117	
+GCA_000009365.1	GCA_000196115.1	inter_genus	Alcanivorax	Rhodopirellula	488	44.2115	
+GCA_000292245.2	GCA_042650985.1	inter_genus	Alkalihalobacillus	Epilithonimonas	487	44.2111	
+GCA_000756655.1	GCA_008297975.1	inter_genus	Alcanivorax	Antrihabitans	605	44.2094	
+GCA_001639725.1	GCA_008973485.1	inter_genus	Marinomonas	Psychrobacillus	527	44.2083	
+GCA_000292245.2	GCA_003054265.1	inter_genus	Alkalihalobacillus	Kordia	478	44.2077	
+GCA_001005315.1	GCA_030814065.1	inter_genus	Kordia	Mesobacillus	477	44.2055	
+GCA_000154725.1	GCA_030814065.1	inter_genus	Kordia	Mesobacillus	467	44.2043	
+GCA_001643235.1	GCA_008297975.1	inter_genus	Domibacillus	Antrihabitans	562	44.2037	
+GCA_008973485.1	GCA_012932915.1	inter_genus	Psychrobacillus	Antrihabitans	521	44.2012	
+GCA_003254155.1	GCA_016481275.1	inter_genus	Psychrobacillus	Antrihabitans	545	44.2004	
+GCA_007754425.1	GCA_009601165.1	inter_genus	Gimesia	Alcanivorax	558	44.2002	
+GCA_000181475.1	GCA_009601165.1	inter_genus	Gimesia	Alcanivorax	545	44.1974	
+GCA_000756655.1	GCA_006861775.1	inter_genus	Alcanivorax	Psychrobacillus	532	44.1964	
+GCA_001906925.1	GCA_004365655.1	inter_genus	Domibacillus	Epilithonimonas	419	44.1964	
+GCA_001643235.1	GCA_012932915.1	inter_genus	Domibacillus	Antrihabitans	578	44.1941	
+GCA_000196115.1	GCA_009601165.1	inter_genus	Rhodopirellula	Alcanivorax	495	44.1887	
+GCA_001005315.1	GCA_003254155.1	inter_genus	Kordia	Psychrobacillus	450	44.1860	
+GCA_014651475.1	GCA_047302405.1	inter_genus	Mesonia	Alkalihalobacillus	506	44.1860	
+GCA_000154725.1	GCA_001643235.1	inter_genus	Kordia	Domibacillus	446	44.1816	
+GCA_000966185.1	GCA_004365655.1	inter_genus	Domibacillus	Epilithonimonas	469	44.1810	
+GCA_014651475.1	GCA_020734105.1	inter_genus	Mesonia	Alkalihalobacillus	505	44.1798	
+GCA_000292245.2	GCA_900142325.1	inter_genus	Alkalihalobacillus	Epilithonimonas	466	44.1790	
+GCA_006861795.1	GCA_008704535.1	inter_genus	Psychrobacillus	Streptomyces	611	44.1787	
+GCA_009827395.1	GCA_042656585.1	inter_genus	Pontixanthobacter	Thalassorhabdus	453	44.1786	
+GCA_001639725.1	GCA_020734105.1	inter_genus	Marinomonas	Alkalihalobacillus	640	44.1772	
+GCA_042650985.1	GCA_047302405.1	inter_genus	Epilithonimonas	Alkalihalobacillus	498	44.1753	
+GCA_000009365.1	GCA_002727185.1	inter_genus	Alcanivorax	Rhodopirellula	502	44.1739	
+GCA_001906925.1	GCA_009827455.1	inter_genus	Domibacillus	Pontixanthobacter	444	44.1730	
+GCA_008973485.1	GCA_900142325.1	inter_genus	Psychrobacillus	Epilithonimonas	432	44.1729	
+GCA_003254155.1	GCA_009827395.1	inter_genus	Psychrobacillus	Pontixanthobacter	434	44.1719	
+GCA_000196115.1	GCA_000756655.1	inter_genus	Rhodopirellula	Alcanivorax	494	44.1717	
+GCA_000970675.1	GCA_042654505.1	inter_genus	Domibacillus	Epilithonimonas	463	44.1704	
+GCA_000009365.1	GCA_006861795.1	inter_genus	Alcanivorax	Psychrobacillus	514	44.1700	
+GCA_000966185.1	GCA_009827395.1	inter_genus	Domibacillus	Pontixanthobacter	470	44.1698	
+GCA_002727185.1	GCA_009601165.1	inter_genus	Rhodopirellula	Alcanivorax	509	44.1607	
+GCA_000970675.1	GCA_004365655.1	inter_genus	Domibacillus	Epilithonimonas	435	44.1582	
+GCA_001639725.1	GCA_030814065.1	inter_genus	Marinomonas	Mesobacillus	580	44.1581	
+GCA_000292245.2	GCA_001005315.1	inter_genus	Alkalihalobacillus	Kordia	481	44.1565	
+GCA_006861775.1	GCA_042654505.1	inter_genus	Psychrobacillus	Epilithonimonas	469	44.1542	
+GCA_000756655.1	GCA_020966775.1	inter_genus	Alcanivorax	Rhodopirellula	510	44.1533	
+GCA_003054265.1	GCA_028610675.1	inter_genus	Kordia	Alkalihalobacillus	486	44.1502	
+GCA_000970675.1	GCA_900142325.1	inter_genus	Domibacillus	Epilithonimonas	438	44.1491	
+GCA_042654505.1	GCA_042656585.1	inter_genus	Epilithonimonas	Thalassorhabdus	437	44.1469	
+GCA_012972675.1	GCA_014212135.1	inter_genus	Pontixanthobacter	Cohnella	495	44.1455	
+GCA_042656585.1	GCA_900142325.1	inter_genus	Thalassorhabdus	Epilithonimonas	419	44.1432	
+GCA_004365655.1	GCA_047302405.1	inter_genus	Epilithonimonas	Alkalihalobacillus	467	44.1430	
+GCA_000756655.1	GCA_003254155.1	inter_genus	Alcanivorax	Psychrobacillus	508	44.1382	
+GCA_000970675.1	GCA_012932915.1	inter_genus	Domibacillus	Antrihabitans	568	44.1359	
+GCA_000756655.1	GCA_047302405.1	inter_genus	Alcanivorax	Alkalihalobacillus	556	44.1353	
+GCA_012932915.1	GCA_028610675.1	inter_genus	Antrihabitans	Alkalihalobacillus	564	44.1328	
+GCA_009827395.1	GCA_014212135.1	inter_genus	Pontixanthobacter	Cohnella	506	44.1326	
+GCA_042654505.1	GCA_047302405.1	inter_genus	Epilithonimonas	Alkalihalobacillus	496	44.1306	
+GCA_009828095.1	GCA_042656585.1	inter_genus	Pontixanthobacter	Thalassorhabdus	455	44.1281	
+GCA_000756655.1	GCA_008973485.1	inter_genus	Alcanivorax	Psychrobacillus	487	44.1244	
+GCA_000154725.1	GCA_028610675.1	inter_genus	Kordia	Alkalihalobacillus	481	44.1218	
+GCA_014651475.1	GCA_030814065.1	inter_genus	Mesonia	Mesobacillus	482	44.1207	
+GCA_028610675.1	GCA_042654505.1	inter_genus	Alkalihalobacillus	Epilithonimonas	492	44.1199	
+GCA_000966185.1	GCA_012932915.1	inter_genus	Domibacillus	Antrihabitans	599	44.1135	
+GCA_000292245.2	GCA_016481275.1	inter_genus	Alkalihalobacillus	Antrihabitans	562	44.1133	
+GCA_004365655.1	GCA_028610675.1	inter_genus	Epilithonimonas	Alkalihalobacillus	458	44.1116	
+GCA_001639725.1	GCA_003254155.1	inter_genus	Marinomonas	Psychrobacillus	528	44.1021	
+GCA_008297975.1	GCA_008973485.1	inter_genus	Antrihabitans	Psychrobacillus	540	44.1015	
+GCA_001643235.1	GCA_008704535.1	inter_genus	Domibacillus	Streptomyces	610	44.1008	
+GCA_003254155.1	GCA_043944905.1	inter_genus	Psychrobacillus	Antrihabitans	555	44.1007	
+GCA_001437435.1	GCA_003597125.1	inter_genus	Furfurilactobacillus	Alcanivorax	289	44.1003	
+GCA_013328815.1	GCA_030814065.1	inter_genus	Tabrizicola	Mesobacillus	540	44.0969	
+GCA_000292245.2	GCA_030065535.1	inter_genus	Alkalihalobacillus	Microbacterium	525	44.0962	
+GCA_000970675.1	GCA_003054265.1	inter_genus	Domibacillus	Kordia	448	44.0926	
+GCA_000292245.2	GCA_012932915.1	inter_genus	Alkalihalobacillus	Antrihabitans	561	44.0900	
+GCA_008973485.1	GCA_043944905.1	inter_genus	Psychrobacillus	Antrihabitans	539	44.0887	
+GCA_047302405.1	GCA_900142325.1	inter_genus	Alkalihalobacillus	Epilithonimonas	471	44.0870	
+GCA_008297975.1	GCA_042656585.1	inter_genus	Antrihabitans	Thalassorhabdus	563	44.0869	
+GCA_003254155.1	GCA_014651475.1	inter_genus	Psychrobacillus	Mesonia	464	44.0866	
+GCA_000966185.1	GCA_016481275.1	inter_genus	Domibacillus	Antrihabitans	613	44.0861	
+GCA_000154725.1	GCA_000966185.1	inter_genus	Kordia	Domibacillus	465	44.0832	
+GCA_003597125.1	GCA_009720525.1	inter_genus	Alcanivorax	Gimesia	560	44.0752	
+GCA_008973485.1	GCA_042654505.1	inter_genus	Psychrobacillus	Epilithonimonas	467	44.0745	
+GCA_000966185.1	GCA_030065535.1	inter_genus	Domibacillus	Microbacterium	550	44.0711	
+GCA_003254155.1	GCA_900142325.1	inter_genus	Psychrobacillus	Epilithonimonas	416	44.0642	
+GCA_000292245.2	GCA_009827455.1	inter_genus	Alkalihalobacillus	Pontixanthobacter	457	44.0637	
+GCA_001643235.1	GCA_004365655.1	inter_genus	Domibacillus	Epilithonimonas	437	44.0627	
+GCA_001906925.1	GCA_042650985.1	inter_genus	Domibacillus	Epilithonimonas	459	44.0608	
+GCA_014212135.1	GCA_043944905.1	inter_genus	Cohnella	Antrihabitans	696	44.0589	
+GCA_000966185.1	GCA_003054265.1	inter_genus	Domibacillus	Kordia	478	44.0584	
+GCA_008704535.1	GCA_008973485.1	inter_genus	Streptomyces	Psychrobacillus	583	44.0581	
+GCA_000338295.1	GCA_001639725.1	inter_genus	Rhodopirellula	Marinomonas	505	44.0580	
+GCA_009827455.1	GCA_042656585.1	inter_genus	Pontixanthobacter	Thalassorhabdus	465	44.0568	
+GCA_003054265.1	GCA_006861775.1	inter_genus	Kordia	Psychrobacillus	474	44.0555	
+GCA_042656585.1	GCA_900100925.1	inter_genus	Thalassorhabdus	Actinopolyspora	567	44.0552	
+GCA_001643235.1	GCA_042654505.1	inter_genus	Domibacillus	Epilithonimonas	464	44.0513	
+GCA_003254155.1	GCA_003574395.1	inter_genus	Psychrobacillus	Tabrizicola	475	44.0486	
+GCA_009828095.1	GCA_028610675.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	461	44.0486	
+GCA_000338295.1	GCA_003597125.1	inter_genus	Rhodopirellula	Alcanivorax	503	44.0485	
+GCA_009827395.1	GCA_028610675.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	457	44.0470	
+GCA_000970675.1	GCA_043944905.1	inter_genus	Domibacillus	Antrihabitans	585	44.0470	
+GCA_006861775.1	GCA_042650985.1	inter_genus	Psychrobacillus	Epilithonimonas	489	44.0442	
+GCA_003054265.1	GCA_006861795.1	inter_genus	Kordia	Psychrobacillus	486	44.0434	
+GCA_001639725.1	GCA_009720525.1	inter_genus	Marinomonas	Gimesia	530	44.0408	
+GCA_009827395.1	GCA_020734105.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	479	44.0399	
+GCA_003254155.1	GCA_009827455.1	inter_genus	Psychrobacillus	Pontixanthobacter	434	44.0385	
+GCA_000154725.1	GCA_000970675.1	inter_genus	Kordia	Domibacillus	441	44.0383	
+GCA_000970675.1	GCA_009827395.1	inter_genus	Domibacillus	Pontixanthobacter	445	44.0346	
+GCA_001906925.1	GCA_003574395.1	inter_genus	Domibacillus	Tabrizicola	490	44.0312	
+GCA_030065535.1	GCA_042656585.1	inter_genus	Microbacterium	Thalassorhabdus	486	44.0311	
+GCA_000154725.1	GCA_047302405.1	inter_genus	Kordia	Alkalihalobacillus	498	44.0291	
+GCA_008973485.1	GCA_016481275.1	inter_genus	Psychrobacillus	Antrihabitans	537	44.0279	
+GCA_012932915.1	GCA_014212135.1	inter_genus	Antrihabitans	Cohnella	710	44.0276	
+GCA_000196115.1	GCA_003597125.1	inter_genus	Rhodopirellula	Alcanivorax	502	44.0185	
+GCA_001906925.1	GCA_009901525.1	inter_genus	Domibacillus	Kordia	442	44.0181	
+GCA_001643235.1	GCA_003054265.1	inter_genus	Domibacillus	Kordia	456	44.0169	
+GCA_006861795.1	GCA_014651475.1	inter_genus	Psychrobacillus	Mesonia	499	44.0168	
+GCA_000181475.1	GCA_001639725.1	inter_genus	Gimesia	Marinomonas	531	44.0156	
+GCA_001906925.1	GCA_042654505.1	inter_genus	Domibacillus	Epilithonimonas	452	44.0124	
+GCA_003574395.1	GCA_008973485.1	inter_genus	Tabrizicola	Psychrobacillus	507	44.0114	
+GCA_000292245.2	GCA_009828095.1	inter_genus	Alkalihalobacillus	Pontixanthobacter	467	44.0077	
+GCA_006861775.1	GCA_014651475.1	inter_genus	Psychrobacillus	Mesonia	501	44.0064	
+GCA_000966185.1	GCA_043944905.1	inter_genus	Domibacillus	Antrihabitans	611	44.0000	
+GCA_012972675.1	GCA_042656585.1	inter_genus	Pontixanthobacter	Thalassorhabdus	465	43.9985	
+GCA_003597125.1	GCA_030065535.1	inter_genus	Alcanivorax	Microbacterium	412	43.9978	
+GCA_000292245.2	GCA_003574395.1	inter_genus	Alkalihalobacillus	Tabrizicola	517	43.9977	
+GCA_028610675.1	GCA_042650985.1	inter_genus	Alkalihalobacillus	Epilithonimonas	500	43.9974	
+GCA_008297975.1	GCA_014212135.1	inter_genus	Antrihabitans	Cohnella	698	43.9967	
+GCA_000009365.1	GCA_000181475.1	inter_genus	Alcanivorax	Gimesia	532	43.9955	
+GCA_014651475.1	GCA_042656585.1	inter_genus	Mesonia	Thalassorhabdus	477	43.9948	
+GCA_000756655.1	GCA_002727185.1	inter_genus	Alcanivorax	Rhodopirellula	509	43.9945	
+GCA_001643235.1	GCA_042650985.1	inter_genus	Domibacillus	Epilithonimonas	478	43.9912	
+GCA_006861795.1	GCA_012932915.1	inter_genus	Psychrobacillus	Antrihabitans	568	43.9907	
+GCA_006861775.1	GCA_008704535.1	inter_genus	Psychrobacillus	Streptomyces	620	43.9887	
+GCA_003054265.1	GCA_008973485.1	inter_genus	Kordia	Psychrobacillus	463	43.9870	
+GCA_009828095.1	GCA_014212135.1	inter_genus	Pontixanthobacter	Cohnella	503	43.9857	
+GCA_000154725.1	GCA_008973485.1	inter_genus	Kordia	Psychrobacillus	473	43.9850	
+GCA_009827455.1	GCA_028610675.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	460	43.9839	
+GCA_006861775.1	GCA_900142325.1	inter_genus	Psychrobacillus	Epilithonimonas	454	43.9830	
+GCA_003054265.1	GCA_042656585.1	inter_genus	Kordia	Thalassorhabdus	453	43.9786	
+GCA_003574395.1	GCA_042656585.1	inter_genus	Tabrizicola	Thalassorhabdus	515	43.9777	
+GCA_000970675.1	GCA_900100925.1	inter_genus	Domibacillus	Actinopolyspora	574	43.9740	
+GCA_003254155.1	GCA_004365655.1	inter_genus	Psychrobacillus	Epilithonimonas	419	43.9740	
+GCA_000966185.1	GCA_009828095.1	inter_genus	Domibacillus	Pontixanthobacter	487	43.9739	
+GCA_000970675.1	GCA_009828095.1	inter_genus	Domibacillus	Pontixanthobacter	454	43.9733	
+GCA_006861795.1	GCA_042654505.1	inter_genus	Psychrobacillus	Epilithonimonas	481	43.9711	
+GCA_014651475.1	GCA_028610675.1	inter_genus	Mesonia	Alkalihalobacillus	502	43.9673	
+GCA_000756655.1	GCA_006861795.1	inter_genus	Alcanivorax	Psychrobacillus	525	43.9670	
+GCA_000292245.2	GCA_043944905.1	inter_genus	Alkalihalobacillus	Antrihabitans	581	43.9666	
+GCA_003054265.1	GCA_047302405.1	inter_genus	Kordia	Alkalihalobacillus	503	43.9656	
+GCA_000196115.1	GCA_001639725.1	inter_genus	Rhodopirellula	Marinomonas	508	43.9646	
+GCA_003254155.1	GCA_008704535.1	inter_genus	Psychrobacillus	Streptomyces	565	43.9641	
+GCA_001906925.1	GCA_013409785.1	inter_genus	Domibacillus	Microbacterium	467	43.9640	
+GCA_001639725.1	GCA_006861795.1	inter_genus	Marinomonas	Psychrobacillus	575	43.9635	
+GCA_000966185.1	GCA_014651475.1	inter_genus	Domibacillus	Mesonia	491	43.9619	
+GCA_001005315.1	GCA_020734105.1	inter_genus	Kordia	Alkalihalobacillus	487	43.9614	
+GCA_011008935.1	GCA_014212135.1	inter_genus	Tabrizicola	Cohnella	613	43.9607	
+GCA_001643235.1	GCA_016481275.1	inter_genus	Domibacillus	Antrihabitans	593	43.9594	
+GCA_000292245.2	GCA_009827395.1	inter_genus	Alkalihalobacillus	Pontixanthobacter	463	43.9559	
+GCA_043944905.1	GCA_900636385.1	inter_genus	Antrihabitans	Staphylococcus	403	43.9556	
+GCA_008297975.1	GCA_028610675.1	inter_genus	Antrihabitans	Alkalihalobacillus	576	43.9545	
+GCA_013328815.1	GCA_014212135.1	inter_genus	Tabrizicola	Cohnella	678	43.9540	
+GCA_007748195.1	GCA_009601165.1	inter_genus	Gimesia	Alcanivorax	541	43.9540	
+GCA_006861775.1	GCA_016481275.1	inter_genus	Psychrobacillus	Antrihabitans	601	43.9537	
+GCA_000292245.2	GCA_008704535.1	inter_genus	Alkalihalobacillus	Streptomyces	618	43.9537	
+GCA_001906925.1	GCA_009828095.1	inter_genus	Domibacillus	Pontixanthobacter	454	43.9515	
+GCA_002727185.1	GCA_003597125.1	inter_genus	Rhodopirellula	Alcanivorax	513	43.9513	
+GCA_001639725.1	GCA_002727185.1	inter_genus	Marinomonas	Rhodopirellula	508	43.9486	
+GCA_000181475.1	GCA_003597125.1	inter_genus	Gimesia	Alcanivorax	535	43.9450	
+GCA_001906925.1	GCA_012972675.1	inter_genus	Domibacillus	Pontixanthobacter	450	43.9436	
+GCA_000154725.1	GCA_006861795.1	inter_genus	Kordia	Psychrobacillus	496	43.9415	
+GCA_006861795.1	GCA_900142325.1	inter_genus	Psychrobacillus	Epilithonimonas	462	43.9411	
+GCA_001005315.1	GCA_006861775.1	inter_genus	Kordia	Psychrobacillus	486	43.9397	
+GCA_006861775.1	GCA_012932915.1	inter_genus	Psychrobacillus	Antrihabitans	583	43.9396	
+GCA_016481275.1	GCA_028610675.1	inter_genus	Antrihabitans	Alkalihalobacillus	571	43.9396	
+GCA_000970675.1	GCA_042650985.1	inter_genus	Domibacillus	Epilithonimonas	482	43.9382	
+GCA_003597125.1	GCA_900636385.1	inter_genus	Alcanivorax	Staphylococcus	404	43.9376	
+GCA_001005315.1	GCA_028610675.1	inter_genus	Kordia	Alkalihalobacillus	485	43.9346	
+GCA_000970675.1	GCA_016481275.1	inter_genus	Domibacillus	Antrihabitans	589	43.9302	
+GCA_000181475.1	GCA_001906925.1	inter_genus	Gimesia	Domibacillus	502	43.9297	
+GCA_000154725.1	GCA_042656585.1	inter_genus	Kordia	Thalassorhabdus	457	43.9295	
+GCA_008973485.1	GCA_042650985.1	inter_genus	Psychrobacillus	Epilithonimonas	469	43.9286	
+GCA_003254155.1	GCA_012972675.1	inter_genus	Psychrobacillus	Pontixanthobacter	448	43.9275	
+GCA_006861775.1	GCA_900100925.1	inter_genus	Psychrobacillus	Actinopolyspora	559	43.9242	
+GCA_012932915.1	GCA_030814065.1	inter_genus	Antrihabitans	Mesobacillus	575	43.9230	
+GCA_006861775.1	GCA_034424525.1	inter_genus	Psychrobacillus	Sphingobium	516	43.9196	
+GCA_012932915.1	GCA_013328815.1	inter_genus	Antrihabitans	Tabrizicola	656	43.9189	
+GCA_001639725.1	GCA_006861775.1	inter_genus	Marinomonas	Psychrobacillus	587	43.9143	
+GCA_001906925.1	GCA_900142325.1	inter_genus	Domibacillus	Epilithonimonas	434	43.9106	
+GCA_008973485.1	GCA_009827395.1	inter_genus	Psychrobacillus	Pontixanthobacter	432	43.9081	
+GCA_020734105.1	GCA_900100925.1	inter_genus	Alkalihalobacillus	Actinopolyspora	589	43.9078	
+GCA_003254155.1	GCA_034424525.1	inter_genus	Psychrobacillus	Sphingobium	501	43.9042	
+GCA_001906925.1	GCA_025960885.1	inter_genus	Domibacillus	Microbacterium	489	43.9000	
+GCA_000756655.1	GCA_007754425.1	inter_genus	Alcanivorax	Gimesia	557	43.8995	
+GCA_003254155.1	GCA_009901525.1	inter_genus	Psychrobacillus	Kordia	447	43.8964	
+GCA_008704535.1	GCA_900636385.1	inter_genus	Streptomyces	Staphylococcus	431	43.8963	
+GCA_001643235.1	GCA_900142325.1	inter_genus	Domibacillus	Epilithonimonas	452	43.8949	
+GCA_006861775.1	GCA_043944905.1	inter_genus	Psychrobacillus	Antrihabitans	597	43.8943	
+GCA_043944905.1	GCA_047302405.1	inter_genus	Antrihabitans	Alkalihalobacillus	611	43.8918	
+GCA_008704535.1	GCA_020734105.1	inter_genus	Streptomyces	Alkalihalobacillus	638	43.8850	
+GCA_000154725.1	GCA_001639725.1	inter_genus	Kordia	Marinomonas	468	43.8846	
+GCA_000154725.1	GCA_003597125.1	inter_genus	Kordia	Alcanivorax	468	43.8844	
+GCA_008973485.1	GCA_014651475.1	inter_genus	Psychrobacillus	Mesonia	489	43.8834	
+GCA_009827455.1	GCA_020734105.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	482	43.8826	
+GCA_000966185.1	GCA_008297975.1	inter_genus	Domibacillus	Antrihabitans	574	43.8815	
+GCA_028610675.1	GCA_043944905.1	inter_genus	Alkalihalobacillus	Antrihabitans	583	43.8815	
+GCA_000966185.1	GCA_013328815.1	inter_genus	Domibacillus	Tabrizicola	588	43.8810	
+GCA_000009365.1	GCA_030065535.1	inter_genus	Alcanivorax	Microbacterium	399	43.8802	
+GCA_001906925.1	GCA_900100925.1	inter_genus	Domibacillus	Actinopolyspora	528	43.8799	
+GCA_001005315.1	GCA_001643235.1	inter_genus	Kordia	Domibacillus	452	43.8695	
+GCA_000154725.1	GCA_020734105.1	inter_genus	Kordia	Alkalihalobacillus	488	43.8682	
+GCA_001005315.1	GCA_015999335.1	inter_genus	Kordia	Tabrizicola	396	43.8662	
+GCA_014212135.1	GCA_016481275.1	inter_genus	Cohnella	Antrihabitans	710	43.8631	
+GCA_008297975.1	GCA_047302405.1	inter_genus	Antrihabitans	Alkalihalobacillus	603	43.8629	
+GCA_003254155.1	GCA_013328815.1	inter_genus	Psychrobacillus	Tabrizicola	500	43.8622	
+GCA_003574395.1	GCA_014212135.1	inter_genus	Tabrizicola	Cohnella	630	43.8575	
+GCA_006861795.1	GCA_009827455.1	inter_genus	Psychrobacillus	Pontixanthobacter	457	43.8571	
+GCA_000009365.1	GCA_007754425.1	inter_genus	Alcanivorax	Gimesia	551	43.8559	
+GCA_003597125.1	GCA_008704535.1	inter_genus	Alcanivorax	Streptomyces	571	43.8557	
+GCA_000292245.2	GCA_009901525.1	inter_genus	Alkalihalobacillus	Kordia	482	43.8550	
+GCA_009601165.1	GCA_030065535.1	inter_genus	Alcanivorax	Microbacterium	420	43.8548	
+GCA_003597125.1	GCA_007748195.1	inter_genus	Alcanivorax	Gimesia	534	43.8539	
+GCA_042650985.1	GCA_042656585.1	inter_genus	Epilithonimonas	Thalassorhabdus	446	43.8500	
+GCA_001643235.1	GCA_009827395.1	inter_genus	Domibacillus	Pontixanthobacter	452	43.8491	
+GCA_000292245.2	GCA_012972675.1	inter_genus	Alkalihalobacillus	Pontixanthobacter	465	43.8486	
+GCA_030814065.1	GCA_900142325.1	inter_genus	Mesobacillus	Epilithonimonas	464	43.8476	
+GCA_009827455.1	GCA_030814065.1	inter_genus	Pontixanthobacter	Mesobacillus	468	43.8470	
+GCA_000966185.1	GCA_012972675.1	inter_genus	Domibacillus	Pontixanthobacter	487	43.8429	
+GCA_001437435.1	GCA_009601165.1	inter_genus	Furfurilactobacillus	Alcanivorax	288	43.8427	
+GCA_006861795.1	GCA_016481275.1	inter_genus	Psychrobacillus	Antrihabitans	591	43.8418	
+GCA_000009365.1	GCA_007748195.1	inter_genus	Alcanivorax	Gimesia	535	43.8415	
+GCA_001643235.1	GCA_003574395.1	inter_genus	Domibacillus	Tabrizicola	501	43.8409	
+GCA_006861795.1	GCA_043944905.1	inter_genus	Psychrobacillus	Antrihabitans	592	43.8400	
+GCA_000966185.1	GCA_001005315.1	inter_genus	Domibacillus	Kordia	473	43.8397	
+GCA_003574395.1	GCA_006861795.1	inter_genus	Tabrizicola	Psychrobacillus	520	43.8375	
+GCA_000966185.1	GCA_025960885.1	inter_genus	Domibacillus	Microbacterium	599	43.8346	
+GCA_013328815.1	GCA_047302405.1	inter_genus	Tabrizicola	Alkalihalobacillus	564	43.8339	
+GCA_001639725.1	GCA_007748195.1	inter_genus	Marinomonas	Gimesia	514	43.8325	
+GCA_003054265.1	GCA_015999335.1	inter_genus	Kordia	Tabrizicola	398	43.8312	
+GCA_020734105.1	GCA_043944905.1	inter_genus	Alkalihalobacillus	Antrihabitans	602	43.8311	
+GCA_001005315.1	GCA_006861795.1	inter_genus	Kordia	Psychrobacillus	492	43.8305	
+GCA_025960885.1	GCA_042656585.1	inter_genus	Microbacterium	Thalassorhabdus	516	43.8304	
+GCA_003597125.1	GCA_007754425.1	inter_genus	Alcanivorax	Gimesia	551	43.8299	
+GCA_008973485.1	GCA_009827455.1	inter_genus	Psychrobacillus	Pontixanthobacter	422	43.8284	
+GCA_006861775.1	GCA_009827455.1	inter_genus	Psychrobacillus	Pontixanthobacter	467	43.8278	
+GCA_008973485.1	GCA_030065535.1	inter_genus	Psychrobacillus	Microbacterium	486	43.8278	
+GCA_004365655.1	GCA_006861775.1	inter_genus	Epilithonimonas	Psychrobacillus	457	43.8276	
+GCA_000154725.1	GCA_006861775.1	inter_genus	Kordia	Psychrobacillus	494	43.8267	
+GCA_001643235.1	GCA_009827455.1	inter_genus	Domibacillus	Pontixanthobacter	449	43.8261	
+GCA_000970675.1	GCA_030065535.1	inter_genus	Domibacillus	Microbacterium	514	43.8253	
+GCA_013328815.1	GCA_028610675.1	inter_genus	Tabrizicola	Alkalihalobacillus	534	43.8243	
+GCA_000181475.1	GCA_000756655.1	inter_genus	Gimesia	Alcanivorax	549	43.8188	
+GCA_000292245.2	GCA_025960885.1	inter_genus	Alkalihalobacillus	Microbacterium	563	43.8167	
+GCA_000970675.1	GCA_009827455.1	inter_genus	Domibacillus	Pontixanthobacter	451	43.8126	
+GCA_009828095.1	GCA_030814065.1	inter_genus	Pontixanthobacter	Mesobacillus	488	43.8109	
+GCA_008973485.1	GCA_900100925.1	inter_genus	Psychrobacillus	Actinopolyspora	505	43.8093	
+GCA_004365655.1	GCA_030814065.1	inter_genus	Epilithonimonas	Mesobacillus	466	43.8086	
+GCA_011008935.1	GCA_028610675.1	inter_genus	Tabrizicola	Alkalihalobacillus	517	43.8044	
+GCA_000009365.1	GCA_000154725.1	inter_genus	Alcanivorax	Kordia	449	43.8042	
+GCA_000966185.1	GCA_009827455.1	inter_genus	Domibacillus	Pontixanthobacter	477	43.8031	
+GCA_000756655.1	GCA_007748195.1	inter_genus	Alcanivorax	Gimesia	546	43.8013	
+GCA_003597125.1	GCA_025960885.1	inter_genus	Alcanivorax	Microbacterium	429	43.8005	
+GCA_030065535.1	GCA_047302405.1	inter_genus	Microbacterium	Alkalihalobacillus	561	43.7996	
+GCA_003254155.1	GCA_041537905.1	inter_genus	Psychrobacillus	Ruegeria	516	43.7971	
+GCA_016481275.1	GCA_047302405.1	inter_genus	Antrihabitans	Alkalihalobacillus	601	43.7968	
+GCA_009901525.1	GCA_030814065.1	inter_genus	Kordia	Mesobacillus	490	43.7955	
+GCA_030814065.1	GCA_042654505.1	inter_genus	Mesobacillus	Epilithonimonas	493	43.7939	
+GCA_001906925.1	GCA_009720525.1	inter_genus	Domibacillus	Gimesia	505	43.7935	
+GCA_000970675.1	GCA_008297975.1	inter_genus	Domibacillus	Antrihabitans	571	43.7932	
+GCA_000154725.1	GCA_009601165.1	inter_genus	Kordia	Alcanivorax	474	43.7920	
+GCA_030814065.1	GCA_042650985.1	inter_genus	Mesobacillus	Epilithonimonas	491	43.7919	
+GCA_012932915.1	GCA_034424525.1	inter_genus	Antrihabitans	Sphingobium	705	43.7918	
+GCA_000966185.1	GCA_008704535.1	inter_genus	Domibacillus	Streptomyces	668	43.7903	
+GCA_000970675.1	GCA_034424525.1	inter_genus	Domibacillus	Sphingobium	537	43.7851	
+GCA_001005315.1	GCA_047302405.1	inter_genus	Kordia	Alkalihalobacillus	503	43.7843	
+GCA_003254155.1	GCA_900100925.1	inter_genus	Psychrobacillus	Actinopolyspora	501	43.7818	
+GCA_000009365.1	GCA_900636385.1	inter_genus	Alcanivorax	Staphylococcus	414	43.7802	
+GCA_000970675.1	GCA_008704535.1	inter_genus	Domibacillus	Streptomyces	634	43.7782	
+GCA_006861795.1	GCA_009827395.1	inter_genus	Psychrobacillus	Pontixanthobacter	458	43.7771	
+GCA_012972675.1	GCA_020734105.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	477	43.7761	
+GCA_000966185.1	GCA_009901525.1	inter_genus	Domibacillus	Kordia	480	43.7752	
+GCA_012972675.1	GCA_028610675.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	463	43.7752	
+GCA_009720525.1	GCA_014212135.1	inter_genus	Gimesia	Cohnella	593	43.7750	
+GCA_000009365.1	GCA_003054265.1	inter_genus	Alcanivorax	Kordia	440	43.7741	
+GCA_009827455.1	GCA_047302405.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	487	43.7725	
+GCA_003574395.1	GCA_020734105.1	inter_genus	Tabrizicola	Alkalihalobacillus	548	43.7717	
+GCA_000181475.1	GCA_000966185.1	inter_genus	Gimesia	Domibacillus	556	43.7716	
+GCA_012932915.1	GCA_047302405.1	inter_genus	Antrihabitans	Alkalihalobacillus	600	43.7715	
+GCA_000966185.1	GCA_003574395.1	inter_genus	Domibacillus	Tabrizicola	570	43.7696	
+GCA_006861795.1	GCA_008297975.1	inter_genus	Psychrobacillus	Antrihabitans	579	43.7672	
+GCA_028610675.1	GCA_043556415.1	inter_genus	Alkalihalobacillus	Microbacterium	474	43.7656	
+GCA_001906925.1	GCA_043556415.1	inter_genus	Domibacillus	Microbacterium	424	43.7634	
+GCA_003574395.1	GCA_030814065.1	inter_genus	Tabrizicola	Mesobacillus	524	43.7634	
+GCA_000970675.1	GCA_001005315.1	inter_genus	Domibacillus	Kordia	447	43.7615	
+GCA_008704535.1	GCA_030814065.1	inter_genus	Streptomyces	Mesobacillus	631	43.7612	
+GCA_000966185.1	GCA_015999335.1	inter_genus	Domibacillus	Tabrizicola	583	43.7607	
+GCA_000970675.1	GCA_043556415.1	inter_genus	Domibacillus	Microbacterium	467	43.7572	
+GCA_000756655.1	GCA_900636385.1	inter_genus	Alcanivorax	Staphylococcus	409	43.7553	
+GCA_000292245.2	GCA_015999335.1	inter_genus	Alkalihalobacillus	Tabrizicola	542	43.7550	
+GCA_009828095.1	GCA_047302405.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	495	43.7545	
+GCA_020734105.1	GCA_030065535.1	inter_genus	Alkalihalobacillus	Microbacterium	490	43.7512	
+GCA_008973485.1	GCA_009828095.1	inter_genus	Psychrobacillus	Pontixanthobacter	429	43.7501	
+GCA_004365655.1	GCA_006861795.1	inter_genus	Epilithonimonas	Psychrobacillus	467	43.7495	
+GCA_009601165.1	GCA_025960885.1	inter_genus	Alcanivorax	Microbacterium	425	43.7480	
+GCA_003054265.1	GCA_003597125.1	inter_genus	Kordia	Alcanivorax	457	43.7468	
+GCA_006861795.1	GCA_030065535.1	inter_genus	Psychrobacillus	Microbacterium	505	43.7461	
+GCA_007748195.1	GCA_020734105.1	inter_genus	Gimesia	Alkalihalobacillus	550	43.7456	
+GCA_006861775.1	GCA_012972675.1	inter_genus	Psychrobacillus	Pontixanthobacter	468	43.7442	
+GCA_004365655.1	GCA_042656585.1	inter_genus	Epilithonimonas	Thalassorhabdus	416	43.7442	
+GCA_000292245.2	GCA_900100925.1	inter_genus	Alkalihalobacillus	Actinopolyspora	562	43.7434	
+GCA_004365655.1	GCA_020734105.1	inter_genus	Epilithonimonas	Alkalihalobacillus	451	43.7419	
+GCA_001906925.1	GCA_030065535.1	inter_genus	Domibacillus	Microbacterium	473	43.7419	
+GCA_006861775.1	GCA_009828095.1	inter_genus	Psychrobacillus	Pontixanthobacter	471	43.7397	
+GCA_001639725.1	GCA_003054265.1	inter_genus	Marinomonas	Kordia	459	43.7390	
+GCA_009901525.1	GCA_047302405.1	inter_genus	Kordia	Alkalihalobacillus	506	43.7387	
+GCA_008704535.1	GCA_028610675.1	inter_genus	Streptomyces	Alkalihalobacillus	637	43.7381	
+GCA_016481275.1	GCA_034424525.1	inter_genus	Antrihabitans	Sphingobium	686	43.7376	
+GCA_014212135.1	GCA_025960885.1	inter_genus	Cohnella	Microbacterium	679	43.7371	
+GCA_000970675.1	GCA_025960885.1	inter_genus	Domibacillus	Microbacterium	557	43.7364	
+GCA_000292245.2	GCA_013409785.1	inter_genus	Alkalihalobacillus	Microbacterium	543	43.7343	
+GCA_012932915.1	GCA_012972675.1	inter_genus	Antrihabitans	Pontixanthobacter	531	43.7313	
+GCA_001639725.1	GCA_020966775.1	inter_genus	Marinomonas	Rhodopirellula	503	43.7306	
+GCA_001643235.1	GCA_009901525.1	inter_genus	Domibacillus	Kordia	458	43.7271	
+GCA_012932915.1	GCA_020966775.1	inter_genus	Antrihabitans	Rhodopirellula	431	43.7262	
+GCA_006861795.1	GCA_009828095.1	inter_genus	Psychrobacillus	Pontixanthobacter	459	43.7244	
+GCA_014212135.1	GCA_020966775.1	inter_genus	Cohnella	Rhodopirellula	558	43.7242	
+GCA_000970675.1	GCA_012972675.1	inter_genus	Domibacillus	Pontixanthobacter	451	43.7226	
+GCA_016481275.1	GCA_020734105.1	inter_genus	Antrihabitans	Alkalihalobacillus	613	43.7217	
+GCA_034424525.1	GCA_042656585.1	inter_genus	Sphingobium	Thalassorhabdus	527	43.7214	
+GCA_001005315.1	GCA_008973485.1	inter_genus	Kordia	Psychrobacillus	481	43.7183	
+GCA_006861795.1	GCA_042650985.1	inter_genus	Psychrobacillus	Epilithonimonas	503	43.7175	
+GCA_000970675.1	GCA_013328815.1	inter_genus	Domibacillus	Tabrizicola	555	43.7141	
+GCA_003054265.1	GCA_014212135.1	inter_genus	Kordia	Cohnella	467	43.7137	
+GCA_014212135.1	GCA_015999335.1	inter_genus	Cohnella	Tabrizicola	636	43.7124	
+GCA_020734105.1	GCA_042650985.1	inter_genus	Alkalihalobacillus	Epilithonimonas	485	43.7095	
+GCA_000154725.1	GCA_041537905.1	inter_genus	Kordia	Ruegeria	442	43.7090	
+GCA_007754425.1	GCA_014212135.1	inter_genus	Gimesia	Cohnella	597	43.7080	
+GCA_011008935.1	GCA_030814065.1	inter_genus	Tabrizicola	Mesobacillus	528	43.7053	
+GCA_001906925.1	GCA_007748195.1	inter_genus	Domibacillus	Gimesia	514	43.7029	
+GCA_008297975.1	GCA_030814065.1	inter_genus	Antrihabitans	Mesobacillus	578	43.7000	
+GCA_009901525.1	GCA_028610675.1	inter_genus	Kordia	Alkalihalobacillus	495	43.6986	
+GCA_001437435.1	GCA_043944905.1	inter_genus	Furfurilactobacillus	Antrihabitans	326	43.6969	
+GCA_001643235.1	GCA_015999335.1	inter_genus	Domibacillus	Tabrizicola	522	43.6954	
+GCA_013409785.1	GCA_014212135.1	inter_genus	Microbacterium	Cohnella	699	43.6951	
+GCA_013328815.1	GCA_016481275.1	inter_genus	Tabrizicola	Antrihabitans	651	43.6948	
+GCA_003254155.1	GCA_043556415.1	inter_genus	Psychrobacillus	Microbacterium	421	43.6931	
+GCA_008704535.1	GCA_009601165.1	inter_genus	Streptomyces	Alcanivorax	565	43.6926	
+GCA_001639725.1	GCA_007754425.1	inter_genus	Marinomonas	Gimesia	538	43.6916	
+GCA_000009365.1	GCA_008704535.1	inter_genus	Alcanivorax	Streptomyces	544	43.6897	
+GCA_009720525.1	GCA_014651475.1	inter_genus	Gimesia	Mesonia	441	43.6896	
+GCA_009828095.1	GCA_020734105.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	491	43.6888	
+GCA_001643235.1	GCA_013328815.1	inter_genus	Domibacillus	Tabrizicola	544	43.6879	
+GCA_001437435.1	GCA_008704535.1	inter_genus	Furfurilactobacillus	Streptomyces	333	43.6871	
+GCA_015999335.1	GCA_042656585.1	inter_genus	Tabrizicola	Thalassorhabdus	525	43.6859	
+GCA_000966185.1	GCA_013409785.1	inter_genus	Domibacillus	Microbacterium	553	43.6855	
+GCA_000292245.2	GCA_043556415.1	inter_genus	Alkalihalobacillus	Microbacterium	469	43.6832	
+GCA_012972675.1	GCA_030814065.1	inter_genus	Pontixanthobacter	Mesobacillus	480	43.6810	
+GCA_007754425.1	GCA_042656585.1	inter_genus	Gimesia	Thalassorhabdus	540	43.6787	
+GCA_003254155.1	GCA_015999335.1	inter_genus	Psychrobacillus	Tabrizicola	501	43.6766	
+GCA_006861795.1	GCA_034424525.1	inter_genus	Psychrobacillus	Sphingobium	531	43.6746	
+GCA_001639725.1	GCA_900636385.1	inter_genus	Marinomonas	Staphylococcus	429	43.6734	
+GCA_015999335.1	GCA_020734105.1	inter_genus	Tabrizicola	Alkalihalobacillus	563	43.6726	
+GCA_001643235.1	GCA_007754425.1	inter_genus	Domibacillus	Gimesia	509	43.6719	
+GCA_001437435.1	GCA_030065535.1	inter_genus	Furfurilactobacillus	Microbacterium	292	43.6716	
+GCA_000966185.1	GCA_900100925.1	inter_genus	Domibacillus	Actinopolyspora	611	43.6668	
+GCA_008704535.1	GCA_011008935.1	inter_genus	Streptomyces	Tabrizicola	646	43.6667	
+GCA_001906925.1	GCA_013328815.1	inter_genus	Domibacillus	Tabrizicola	515	43.6666	
+GCA_001906925.1	GCA_007754425.1	inter_genus	Domibacillus	Gimesia	510	43.6653	
+GCA_000966185.1	GCA_034424525.1	inter_genus	Domibacillus	Sphingobium	581	43.6637	
+GCA_009901525.1	GCA_015999335.1	inter_genus	Kordia	Tabrizicola	398	43.6616	
+GCA_003054265.1	GCA_020734105.1	inter_genus	Kordia	Alkalihalobacillus	501	43.6609	
+GCA_015999335.1	GCA_028610675.1	inter_genus	Tabrizicola	Alkalihalobacillus	528	43.6562	
+GCA_001906925.1	GCA_015999335.1	inter_genus	Domibacillus	Tabrizicola	508	43.6533	
+GCA_012932915.1	GCA_020734105.1	inter_genus	Antrihabitans	Alkalihalobacillus	601	43.6522	
+GCA_000970675.1	GCA_013409785.1	inter_genus	Domibacillus	Microbacterium	515	43.6522	
+GCA_000196115.1	GCA_012932915.1	inter_genus	Rhodopirellula	Antrihabitans	438	43.6518	
+GCA_001643235.1	GCA_009828095.1	inter_genus	Domibacillus	Pontixanthobacter	461	43.6499	
+GCA_000756655.1	GCA_003054265.1	inter_genus	Alcanivorax	Kordia	451	43.6492	
+GCA_009828095.1	GCA_030065535.1	inter_genus	Pontixanthobacter	Microbacterium	408	43.6473	
+GCA_009827395.1	GCA_047302405.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	493	43.6424	
+GCA_003574395.1	GCA_016481275.1	inter_genus	Tabrizicola	Antrihabitans	573	43.6417	
+GCA_000338295.1	GCA_012932915.1	inter_genus	Rhodopirellula	Antrihabitans	426	43.6415	
+GCA_009901525.1	GCA_020734105.1	inter_genus	Kordia	Alkalihalobacillus	495	43.6410	
+GCA_012972675.1	GCA_047302405.1	inter_genus	Pontixanthobacter	Alkalihalobacillus	489	43.6401	
+GCA_003054265.1	GCA_011008935.1	inter_genus	Kordia	Tabrizicola	395	43.6395	
+GCA_006861775.1	GCA_009827395.1	inter_genus	Psychrobacillus	Pontixanthobacter	468	43.6389	
+GCA_009827455.1	GCA_012932915.1	inter_genus	Pontixanthobacter	Antrihabitans	536	43.6379	
+GCA_000966185.1	GCA_043556415.1	inter_genus	Domibacillus	Microbacterium	501	43.6365	
+GCA_003254155.1	GCA_030065535.1	inter_genus	Psychrobacillus	Microbacterium	467	43.6358	
+GCA_030814065.1	GCA_034424525.1	inter_genus	Mesobacillus	Sphingobium	542	43.6349	
+GCA_008704535.1	GCA_013328815.1	inter_genus	Streptomyces	Tabrizicola	681	43.6341	0.493985
+GCA_009720525.1	GCA_020734105.1	inter_genus	Gimesia	Alkalihalobacillus	556	43.6336	
+GCA_008704535.1	GCA_047302405.1	inter_genus	Streptomyces	Alkalihalobacillus	669	43.6327	
+GCA_008973485.1	GCA_011008935.1	inter_genus	Psychrobacillus	Tabrizicola	518	43.6326	
+GCA_001005315.1	GCA_042656585.1	inter_genus	Kordia	Thalassorhabdus	453	43.6322	
+GCA_006861775.1	GCA_009901525.1	inter_genus	Psychrobacillus	Kordia	484	43.6316	
+GCA_019334345.1	GCA_042656585.1	inter_genus	Neohoeflea	Thalassorhabdus	553	43.6300	
+GCA_028610675.1	GCA_030065535.1	inter_genus	Alkalihalobacillus	Microbacterium	553	43.6298	
+GCA_000292245.2	GCA_013328815.1	inter_genus	Alkalihalobacillus	Tabrizicola	545	43.6294	
+GCA_000181475.1	GCA_014212135.1	inter_genus	Gimesia	Cohnella	610	43.6290	
+GCA_003054265.1	GCA_013328815.1	inter_genus	Kordia	Tabrizicola	396	43.6285	
+GCA_000756655.1	GCA_025960885.1	inter_genus	Alcanivorax	Microbacterium	416	43.6276	
+GCA_006861775.1	GCA_008297975.1	inter_genus	Psychrobacillus	Antrihabitans	587	43.6259	
+GCA_007754425.1	GCA_020734105.1	inter_genus	Gimesia	Alkalihalobacillus	565	43.6251	
+GCA_001643235.1	GCA_900100925.1	inter_genus	Domibacillus	Actinopolyspora	564	43.6225	
+GCA_009827395.1	GCA_012932915.1	inter_genus	Pontixanthobacter	Antrihabitans	565	43.6207	
+GCA_001643235.1	GCA_007748195.1	inter_genus	Domibacillus	Gimesia	525	43.6202	
+GCA_001643235.1	GCA_011008935.1	inter_genus	Domibacillus	Tabrizicola	517	43.6195	
+GCA_008704535.1	GCA_015999335.1	inter_genus	Streptomyces	Tabrizicola	669	43.6193	0.449332
+GCA_030065535.1	GCA_030814065.1	inter_genus	Microbacterium	Mesobacillus	497	43.6167	
+GCA_013328815.1	GCA_020734105.1	inter_genus	Tabrizicola	Alkalihalobacillus	570	43.6161	
+GCA_013409785.1	GCA_042656585.1	inter_genus	Microbacterium	Thalassorhabdus	504	43.6145	
+GCA_025960885.1	GCA_028610675.1	inter_genus	Microbacterium	Alkalihalobacillus	579	43.6140	
+GCA_014212135.1	GCA_014651475.1	inter_genus	Cohnella	Mesonia	460	43.6128	
+GCA_000966185.1	GCA_007748195.1	inter_genus	Domibacillus	Gimesia	558	43.6077	
+GCA_003574395.1	GCA_006861775.1	inter_genus	Tabrizicola	Psychrobacillus	547	43.6049	
+GCA_000338295.1	GCA_041537905.1	inter_genus	Rhodopirellula	Ruegeria	523	43.6029	
+GCA_001643235.1	GCA_009720525.1	inter_genus	Domibacillus	Gimesia	510	43.6022	
+GCA_003054265.1	GCA_003574395.1	inter_genus	Kordia	Tabrizicola	397	43.5990	
+GCA_009827455.1	GCA_013409785.1	inter_genus	Pontixanthobacter	Microbacterium	421	43.5955	
+GCA_042656585.1	GCA_043556415.1	inter_genus	Thalassorhabdus	Microbacterium	444	43.5953	
+GCA_009827395.1	GCA_030814065.1	inter_genus	Pontixanthobacter	Mesobacillus	485	43.5948	
+GCA_009601165.1	GCA_013409785.1	inter_genus	Alcanivorax	Microbacterium	441	43.5916	
+GCA_002727185.1	GCA_012932915.1	inter_genus	Rhodopirellula	Antrihabitans	442	43.5910	
+GCA_000970675.1	GCA_009901525.1	inter_genus	Domibacillus	Kordia	449	43.5909	
+GCA_000292245.2	GCA_011008935.1	inter_genus	Alkalihalobacillus	Tabrizicola	534	43.5897	
+GCA_001643235.1	GCA_013409785.1	inter_genus	Domibacillus	Microbacterium	500	43.5866	
+GCA_003574395.1	GCA_008704535.1	inter_genus	Tabrizicola	Streptomyces	618	43.5854	
+GCA_000154725.1	GCA_000756655.1	inter_genus	Kordia	Alcanivorax	461	43.5842	
+GCA_013328815.1	GCA_042656585.1	inter_genus	Tabrizicola	Thalassorhabdus	523	43.5832	
+GCA_001643235.1	GCA_012972675.1	inter_genus	Domibacillus	Pontixanthobacter	457	43.5827	
+GCA_009827455.1	GCA_030065535.1	inter_genus	Pontixanthobacter	Microbacterium	408	43.5824	
+GCA_000154725.1	GCA_013328815.1	inter_genus	Kordia	Tabrizicola	399	43.5810	
+GCA_006861795.1	GCA_043556415.1	inter_genus	Psychrobacillus	Microbacterium	455	43.5804	
+GCA_003254155.1	GCA_025960885.1	inter_genus	Psychrobacillus	Microbacterium	492	43.5803	
+GCA_030814065.1	GCA_900100925.1	inter_genus	Mesobacillus	Actinopolyspora	569	43.5780	
+GCA_003574395.1	GCA_028610675.1	inter_genus	Tabrizicola	Alkalihalobacillus	522	43.5762	
+GCA_000338295.1	GCA_014212135.1	inter_genus	Rhodopirellula	Cohnella	558	43.5756	
+GCA_000970675.1	GCA_009720525.1	inter_genus	Domibacillus	Gimesia	504	43.5754	
+GCA_008297975.1	GCA_034424525.1	inter_genus	Antrihabitans	Sphingobium	669	43.5741	
+GCA_015999335.1	GCA_030814065.1	inter_genus	Tabrizicola	Mesobacillus	578	43.5740	
+GCA_000154725.1	GCA_015999335.1	inter_genus	Kordia	Tabrizicola	398	43.5739	
+GCA_001906925.1	GCA_041537905.1	inter_genus	Domibacillus	Ruegeria	524	43.5716	
+GCA_001906925.1	GCA_011008935.1	inter_genus	Domibacillus	Tabrizicola	506	43.5672	
+GCA_003054265.1	GCA_041537905.1	inter_genus	Kordia	Ruegeria	438	43.5658	
+GCA_008973485.1	GCA_025960885.1	inter_genus	Psychrobacillus	Microbacterium	527	43.5638	
+GCA_001005315.1	GCA_001639725.1	inter_genus	Kordia	Marinomonas	469	43.5631	
+GCA_001643235.1	GCA_043556415.1	inter_genus	Domibacillus	Microbacterium	460	43.5615	
+GCA_015999335.1	GCA_016481275.1	inter_genus	Tabrizicola	Antrihabitans	595	43.5610	
+GCA_009720525.1	GCA_042656585.1	inter_genus	Gimesia	Thalassorhabdus	541	43.5599	
+GCA_011008935.1	GCA_020734105.1	inter_genus	Tabrizicola	Alkalihalobacillus	556	43.5597	
+GCA_000196115.1	GCA_042656585.1	inter_genus	Rhodopirellula	Thalassorhabdus	482	43.5585	
+GCA_020734105.1	GCA_034424525.1	inter_genus	Alkalihalobacillus	Sphingobium	554	43.5561	
+GCA_006861795.1	GCA_900100925.1	inter_genus	Psychrobacillus	Actinopolyspora	570	43.5554	
+GCA_014212135.1	GCA_900142325.1	inter_genus	Cohnella	Epilithonimonas	513	43.5552	
+GCA_001639725.1	GCA_025960885.1	inter_genus	Marinomonas	Microbacterium	463	43.5549	
+GCA_015999335.1	GCA_043944905.1	inter_genus	Tabrizicola	Antrihabitans	593	43.5535	
+GCA_006861775.1	GCA_015999335.1	inter_genus	Psychrobacillus	Tabrizicola	570	43.5518	
+GCA_011008935.1	GCA_042656585.1	inter_genus	Tabrizicola	Thalassorhabdus	523	43.5509	
+GCA_003054265.1	GCA_009601165.1	inter_genus	Kordia	Alcanivorax	471	43.5507	
+GCA_041537905.1	GCA_042656585.1	inter_genus	Ruegeria	Thalassorhabdus	581	43.5503	
+GCA_006861795.1	GCA_009901525.1	inter_genus	Psychrobacillus	Kordia	501	43.5493	
+GCA_014212135.1	GCA_900100925.1	inter_genus	Cohnella	Actinopolyspora	657	43.5484	
+GCA_000009365.1	GCA_001437435.1	inter_genus	Alcanivorax	Furfurilactobacillus	290	43.5483	
+GCA_002727185.1	GCA_019334345.1	inter_genus	Rhodopirellula	Neohoeflea	470	43.5474	
+GCA_014212135.1	GCA_030065535.1	inter_genus	Cohnella	Microbacterium	623	43.5467	
+GCA_000196115.1	GCA_019334345.1	inter_genus	Rhodopirellula	Neohoeflea	451	43.5428	
+GCA_006861775.1	GCA_041537905.1	inter_genus	Psychrobacillus	Ruegeria	585	43.5378	
+GCA_006861795.1	GCA_012972675.1	inter_genus	Psychrobacillus	Pontixanthobacter	467	43.5358	
+GCA_000966185.1	GCA_009720525.1	inter_genus	Domibacillus	Gimesia	551	43.5341	
+GCA_001906925.1	GCA_034424525.1	inter_genus	Domibacillus	Sphingobium	525	43.5331	
+GCA_000756655.1	GCA_001437435.1	inter_genus	Alcanivorax	Furfurilactobacillus	291	43.5323	
+GCA_009827455.1	GCA_016481275.1	inter_genus	Pontixanthobacter	Antrihabitans	533	43.5310	
+GCA_025960885.1	GCA_030814065.1	inter_genus	Microbacterium	Mesobacillus	540	43.5306	
+GCA_014212135.1	GCA_034424525.1	inter_genus	Cohnella	Sphingobium	669	43.5272	
+GCA_009827395.1	GCA_016481275.1	inter_genus	Pontixanthobacter	Antrihabitans	557	43.5271	
+GCA_000181475.1	GCA_001643235.1	inter_genus	Gimesia	Domibacillus	519	43.5270	
+GCA_011008935.1	GCA_043944905.1	inter_genus	Tabrizicola	Antrihabitans	578	43.5251	
+GCA_003574395.1	GCA_043944905.1	inter_genus	Tabrizicola	Antrihabitans	545	43.5215	
+GCA_000181475.1	GCA_042656585.1	inter_genus	Gimesia	Thalassorhabdus	541	43.5201	
+GCA_000970675.1	GCA_007754425.1	inter_genus	Domibacillus	Gimesia	508	43.5197	
+GCA_009601165.1	GCA_900100925.1	inter_genus	Alcanivorax	Actinopolyspora	494	43.5186	
+GCA_000970675.1	GCA_015999335.1	inter_genus	Domibacillus	Tabrizicola	570	43.5186	
+GCA_012932915.1	GCA_900636385.1	inter_genus	Antrihabitans	Staphylococcus	416	43.5168	
+GCA_007748195.1	GCA_014212135.1	inter_genus	Gimesia	Cohnella	614	43.5161	
+GCA_014212135.1	GCA_042654505.1	inter_genus	Cohnella	Epilithonimonas	543	43.5158	
+GCA_006861795.1	GCA_015999335.1	inter_genus	Psychrobacillus	Tabrizicola	559	43.5156	
+GCA_042650985.1	GCA_900636385.1	inter_genus	Epilithonimonas	Staphylococcus	395	43.5144	
+GCA_012972675.1	GCA_043944905.1	inter_genus	Pontixanthobacter	Antrihabitans	519	43.5143	
+GCA_009828095.1	GCA_012932915.1	inter_genus	Pontixanthobacter	Antrihabitans	549	43.5140	
+GCA_014212135.1	GCA_042650985.1	inter_genus	Cohnella	Epilithonimonas	549	43.5131	
+GCA_009601165.1	GCA_900636385.1	inter_genus	Alcanivorax	Staphylococcus	415	43.5128	
+GCA_007748195.1	GCA_042656585.1	inter_genus	Gimesia	Thalassorhabdus	542	43.5124	
+GCA_000338295.1	GCA_042656585.1	inter_genus	Rhodopirellula	Thalassorhabdus	486	43.5115	
+GCA_009827395.1	GCA_030065535.1	inter_genus	Pontixanthobacter	Microbacterium	410	43.5102	
+GCA_006861795.1	GCA_025960885.1	inter_genus	Psychrobacillus	Microbacterium	553	43.5096	
+GCA_001643235.1	GCA_034424525.1	inter_genus	Domibacillus	Sphingobium	539	43.5076	
+GCA_025960885.1	GCA_047302405.1	inter_genus	Microbacterium	Alkalihalobacillus	598	43.5069	
+GCA_000009365.1	GCA_009901525.1	inter_genus	Alcanivorax	Kordia	444	43.5059	
+GCA_012972675.1	GCA_016481275.1	inter_genus	Pontixanthobacter	Antrihabitans	535	43.5013	
+GCA_001639725.1	GCA_016481275.1	inter_genus	Marinomonas	Antrihabitans	558	43.4998	
+GCA_008973485.1	GCA_043556415.1	inter_genus	Psychrobacillus	Microbacterium	448	43.4982	
+GCA_000009365.1	GCA_025960885.1	inter_genus	Alcanivorax	Microbacterium	415	43.4937	
+GCA_000154725.1	GCA_011008935.1	inter_genus	Kordia	Tabrizicola	392	43.4936	
+GCA_008973485.1	GCA_034424525.1	inter_genus	Psychrobacillus	Sphingobium	497	43.4926	
+GCA_000966185.1	GCA_007754425.1	inter_genus	Domibacillus	Gimesia	555	43.4923	
+GCA_009720525.1	GCA_009827395.1	inter_genus	Gimesia	Pontixanthobacter	413	43.4913	
+GCA_015999335.1	GCA_043556415.1	inter_genus	Tabrizicola	Microbacterium	446	43.4874	
+GCA_001005315.1	GCA_011008935.1	inter_genus	Kordia	Tabrizicola	396	43.4874	
+GCA_003574395.1	GCA_030065535.1	inter_genus	Tabrizicola	Microbacterium	485	43.4870	
+GCA_034424525.1	GCA_043944905.1	inter_genus	Sphingobium	Antrihabitans	671	43.4858	
+GCA_011008935.1	GCA_016481275.1	inter_genus	Tabrizicola	Antrihabitans	616	43.4856	
+GCA_008973485.1	GCA_013328815.1	inter_genus	Psychrobacillus	Tabrizicola	538	43.4794	
+GCA_001437435.1	GCA_043556415.1	inter_genus	Furfurilactobacillus	Microbacterium	278	43.4788	
+GCA_020734105.1	GCA_042654505.1	inter_genus	Alkalihalobacillus	Epilithonimonas	493	43.4773	
+GCA_001643235.1	GCA_025960885.1	inter_genus	Domibacillus	Microbacterium	546	43.4771	
+GCA_016481275.1	GCA_900636385.1	inter_genus	Antrihabitans	Staphylococcus	414	43.4771	
+GCA_001639725.1	GCA_014651475.1	inter_genus	Marinomonas	Mesonia	456	43.4761	
+GCA_001906925.1	GCA_019334345.1	inter_genus	Domibacillus	Neohoeflea	503	43.4736	
+GCA_008297975.1	GCA_020734105.1	inter_genus	Antrihabitans	Alkalihalobacillus	605	43.4722	
+GCA_030065535.1	GCA_034424525.1	inter_genus	Microbacterium	Sphingobium	525	43.4718	
+GCA_002727185.1	GCA_041537905.1	inter_genus	Rhodopirellula	Ruegeria	541	43.4713	
+GCA_003597125.1	GCA_013409785.1	inter_genus	Alcanivorax	Microbacterium	447	43.4705	
+GCA_000756655.1	GCA_900100925.1	inter_genus	Alcanivorax	Actinopolyspora	488	43.4701	
+GCA_008704535.1	GCA_034424525.1	inter_genus	Streptomyces	Sphingobium	693	43.4700	
+GCA_001639725.1	GCA_012932915.1	inter_genus	Marinomonas	Antrihabitans	556	43.4676	
+GCA_043556415.1	GCA_047302405.1	inter_genus	Microbacterium	Alkalihalobacillus	501	43.4675	
+GCA_000009365.1	GCA_014651475.1	inter_genus	Alcanivorax	Mesonia	463	43.4674	
+GCA_009827395.1	GCA_013409785.1	inter_genus	Pontixanthobacter	Microbacterium	445	43.4649	
+GCA_009827395.1	GCA_025960885.1	inter_genus	Pontixanthobacter	Microbacterium	411	43.4642	
+GCA_000970675.1	GCA_003574395.1	inter_genus	Domibacillus	Tabrizicola	550	43.4642	
+GCA_007748195.1	GCA_009828095.1	inter_genus	Gimesia	Pontixanthobacter	407	43.4641	
+GCA_008973485.1	GCA_015999335.1	inter_genus	Psychrobacillus	Tabrizicola	541	43.4638	
+GCA_006861795.1	GCA_041537905.1	inter_genus	Psychrobacillus	Ruegeria	574	43.4551	
+GCA_003054265.1	GCA_900636385.1	inter_genus	Kordia	Staphylococcus	373	43.4544	
+GCA_013328815.1	GCA_043944905.1	inter_genus	Tabrizicola	Antrihabitans	624	43.4538	
+GCA_004365655.1	GCA_900636385.1	inter_genus	Epilithonimonas	Staphylococcus	370	43.4538	
+GCA_006861775.1	GCA_030065535.1	inter_genus	Psychrobacillus	Microbacterium	518	43.4537	
+GCA_016481275.1	GCA_019334345.1	inter_genus	Antrihabitans	Neohoeflea	637	43.4527	
+GCA_009827455.1	GCA_900636385.1	inter_genus	Pontixanthobacter	Staphylococcus	336	43.4527	
+GCA_000756655.1	GCA_030065535.1	inter_genus	Alcanivorax	Microbacterium	422	43.4505	
+GCA_000756655.1	GCA_008704535.1	inter_genus	Alcanivorax	Streptomyces	574	43.4503	
+GCA_047302405.1	GCA_900100925.1	inter_genus	Alkalihalobacillus	Actinopolyspora	616	43.4500	
+GCA_006861795.1	GCA_013328815.1	inter_genus	Psychrobacillus	Tabrizicola	557	43.4492	
+GCA_000009365.1	GCA_900100925.1	inter_genus	Alcanivorax	Actinopolyspora	493	43.4487	
+GCA_000154725.1	GCA_014212135.1	inter_genus	Kordia	Cohnella	480	43.4462	
+GCA_000196115.1	GCA_001643235.1	inter_genus	Rhodopirellula	Domibacillus	469	43.4458	
+GCA_003574395.1	GCA_047302405.1	inter_genus	Tabrizicola	Alkalihalobacillus	552	43.4440	
+GCA_000756655.1	GCA_001005315.1	inter_genus	Alcanivorax	Kordia	462	43.4422	
+GCA_000338295.1	GCA_043944905.1	inter_genus	Rhodopirellula	Antrihabitans	431	43.4399	
+GCA_009828095.1	GCA_900636385.1	inter_genus	Pontixanthobacter	Staphylococcus	355	43.4361	
+GCA_013328815.1	GCA_014651475.1	inter_genus	Tabrizicola	Mesonia	410	43.4359	
+GCA_013409785.1	GCA_900636385.1	inter_genus	Microbacterium	Staphylococcus	387	43.4328	
+GCA_030814065.1	GCA_041537905.1	inter_genus	Mesobacillus	Ruegeria	583	43.4321	
+GCA_000338295.1	GCA_020734105.1	inter_genus	Rhodopirellula	Alkalihalobacillus	502	43.4297	
+GCA_000181475.1	GCA_000970675.1	inter_genus	Gimesia	Domibacillus	519	43.4297	
+GCA_002727185.1	GCA_003254155.1	inter_genus	Rhodopirellula	Psychrobacillus	433	43.4270	
+GCA_015999335.1	GCA_900100925.1	inter_genus	Tabrizicola	Actinopolyspora	579	43.4269	
+GCA_014651475.1	GCA_041537905.1	inter_genus	Mesonia	Ruegeria	432	43.4248	
+GCA_000154725.1	GCA_900636385.1	inter_genus	Kordia	Staphylococcus	377	43.4233	
+GCA_000970675.1	GCA_002727185.1	inter_genus	Domibacillus	Rhodopirellula	482	43.4224	
+GCA_014651475.1	GCA_015999335.1	inter_genus	Mesonia	Tabrizicola	407	43.4216	
+GCA_013409785.1	GCA_028610675.1	inter_genus	Microbacterium	Alkalihalobacillus	557	43.4208	
+GCA_030065535.1	GCA_900636385.1	inter_genus	Microbacterium	Staphylococcus	390	43.4208	
+GCA_001639725.1	GCA_009901525.1	inter_genus	Marinomonas	Kordia	475	43.4206	
+GCA_009901525.1	GCA_013328815.1	inter_genus	Kordia	Tabrizicola	411	43.4200	
+GCA_002727185.1	GCA_042656585.1	inter_genus	Rhodopirellula	Thalassorhabdus	492	43.4191	
+GCA_008973485.1	GCA_012972675.1	inter_genus	Psychrobacillus	Pontixanthobacter	440	43.4182	
+GCA_013409785.1	GCA_020734105.1	inter_genus	Microbacterium	Alkalihalobacillus	531	43.4175	
+GCA_000009365.1	GCA_013409785.1	inter_genus	Alcanivorax	Microbacterium	430	43.4149	
+GCA_013409785.1	GCA_015999335.1	inter_genus	Microbacterium	Tabrizicola	525	43.4143	
+GCA_020966775.1	GCA_030814065.1	inter_genus	Rhodopirellula	Mesobacillus	471	43.4136	
+GCA_013409785.1	GCA_047302405.1	inter_genus	Microbacterium	Alkalihalobacillus	568	43.4129	
+GCA_020966775.1	GCA_042656585.1	inter_genus	Rhodopirellula	Thalassorhabdus	494	43.4113	
+GCA_006861775.1	GCA_019334345.1	inter_genus	Psychrobacillus	Neohoeflea	580	43.4098	
+GCA_000181475.1	GCA_020734105.1	inter_genus	Gimesia	Alkalihalobacillus	567	43.4090	
+GCA_013409785.1	GCA_030814065.1	inter_genus	Microbacterium	Mesobacillus	528	43.4078	
+GCA_003254155.1	GCA_011008935.1	inter_genus	Psychrobacillus	Tabrizicola	499	43.4070	
+GCA_000970675.1	GCA_020966775.1	inter_genus	Domibacillus	Rhodopirellula	478	43.4061	
+GCA_000181475.1	GCA_014651475.1	inter_genus	Gimesia	Mesonia	447	43.4060	
+GCA_002727185.1	GCA_014212135.1	inter_genus	Rhodopirellula	Cohnella	572	43.4051	
+GCA_001643235.1	GCA_019334345.1	inter_genus	Domibacillus	Neohoeflea	509	43.4047	
+GCA_000196115.1	GCA_041537905.1	inter_genus	Rhodopirellula	Ruegeria	519	43.4044	
+GCA_028610675.1	GCA_900100925.1	inter_genus	Alkalihalobacillus	Actinopolyspora	578	43.4026	
+GCA_000970675.1	GCA_007748195.1	inter_genus	Domibacillus	Gimesia	515	43.4014	
+GCA_009827395.1	GCA_900636385.1	inter_genus	Pontixanthobacter	Staphylococcus	350	43.4009	
+GCA_000338295.1	GCA_019334345.1	inter_genus	Rhodopirellula	Neohoeflea	456	43.4002	
+GCA_009828095.1	GCA_016481275.1	inter_genus	Pontixanthobacter	Antrihabitans	545	43.3972	
+GCA_007754425.1	GCA_009828095.1	inter_genus	Gimesia	Pontixanthobacter	426	43.3965	
+GCA_012972675.1	GCA_013409785.1	inter_genus	Pontixanthobacter	Microbacterium	427	43.3958	
+GCA_001005315.1	GCA_009601165.1	inter_genus	Kordia	Alcanivorax	473	43.3949	
+GCA_003254155.1	GCA_020966775.1	inter_genus	Psychrobacillus	Rhodopirellula	428	43.3911	
+GCA_000338295.1	GCA_030814065.1	inter_genus	Rhodopirellula	Mesobacillus	487	43.3908	
+GCA_012932915.1	GCA_019334345.1	inter_genus	Antrihabitans	Neohoeflea	634	43.3905	
+GCA_000338295.1	GCA_003254155.1	inter_genus	Rhodopirellula	Psychrobacillus	426	43.3901	
+GCA_000756655.1	GCA_014651475.1	inter_genus	Alcanivorax	Mesonia	478	43.3864	
+GCA_012932915.1	GCA_015999335.1	inter_genus	Antrihabitans	Tabrizicola	622	43.3863	
+GCA_011008935.1	GCA_012932915.1	inter_genus	Tabrizicola	Antrihabitans	624	43.3859	
+GCA_015999335.1	GCA_030065535.1	inter_genus	Tabrizicola	Microbacterium	517	43.3847	
+GCA_003574395.1	GCA_012932915.1	inter_genus	Tabrizicola	Antrihabitans	589	43.3844	
+GCA_000292245.2	GCA_019334345.1	inter_genus	Alkalihalobacillus	Neohoeflea	547	43.3821	
+GCA_008973485.1	GCA_041537905.1	inter_genus	Psychrobacillus	Ruegeria	547	43.3810	
+GCA_009827455.1	GCA_025960885.1	inter_genus	Pontixanthobacter	Microbacterium	416	43.3800	
+GCA_000966185.1	GCA_011008935.1	inter_genus	Domibacillus	Tabrizicola	568	43.3798	
+GCA_001643235.1	GCA_030065535.1	inter_genus	Domibacillus	Microbacterium	506	43.3783	
+GCA_001005315.1	GCA_013328815.1	inter_genus	Kordia	Tabrizicola	399	43.3772	
+GCA_000338295.1	GCA_001643235.1	inter_genus	Rhodopirellula	Domibacillus	465	43.3757	
+GCA_003054265.1	GCA_019334345.1	inter_genus	Kordia	Neohoeflea	389	43.3740	
+GCA_009827395.1	GCA_043944905.1	inter_genus	Pontixanthobacter	Antrihabitans	541	43.3736	
+GCA_001005315.1	GCA_003597125.1	inter_genus	Kordia	Alcanivorax	464	43.3720	
+GCA_020966775.1	GCA_041537905.1	inter_genus	Rhodopirellula	Ruegeria	518	43.3685	
+GCA_000196115.1	GCA_003254155.1	inter_genus	Rhodopirellula	Psychrobacillus	428	43.3682	
+GCA_007754425.1	GCA_009827395.1	inter_genus	Gimesia	Pontixanthobacter	418	43.3675	
+GCA_003597125.1	GCA_900100925.1	inter_genus	Alcanivorax	Actinopolyspora	504	43.3651	
+GCA_043556415.1	GCA_900636385.1	inter_genus	Microbacterium	Staphylococcus	352	43.3639	
+GCA_004365655.1	GCA_014212135.1	inter_genus	Epilithonimonas	Cohnella	503	43.3630	
+GCA_001906925.1	GCA_002727185.1	inter_genus	Domibacillus	Rhodopirellula	464	43.3621	
+GCA_015999335.1	GCA_047302405.1	inter_genus	Tabrizicola	Alkalihalobacillus	570	43.3605	
+GCA_006861795.1	GCA_011008935.1	inter_genus	Psychrobacillus	Tabrizicola	532	43.3562	
+GCA_009601165.1	GCA_014651475.1	inter_genus	Alcanivorax	Mesonia	471	43.3554	
+GCA_001437435.1	GCA_016481275.1	inter_genus	Furfurilactobacillus	Antrihabitans	335	43.3537	
+GCA_001005315.1	GCA_003574395.1	inter_genus	Kordia	Tabrizicola	406	43.3534	
+GCA_000966185.1	GCA_019334345.1	inter_genus	Domibacillus	Neohoeflea	563	43.3533	
+GCA_003597125.1	GCA_009901525.1	inter_genus	Alcanivorax	Kordia	461	43.3512	
+GCA_015999335.1	GCA_020966775.1	inter_genus	Tabrizicola	Rhodopirellula	462	43.3511	
+GCA_019334345.1	GCA_030814065.1	inter_genus	Neohoeflea	Mesobacillus	573	43.3503	
+GCA_900100925.1	GCA_900636385.1	inter_genus	Actinopolyspora	Staphylococcus	415	43.3489	
+GCA_000338295.1	GCA_001906925.1	inter_genus	Rhodopirellula	Domibacillus	460	43.3476	
+GCA_009720525.1	GCA_030814065.1	inter_genus	Gimesia	Mesobacillus	523	43.3457	
+GCA_007748195.1	GCA_014651475.1	inter_genus	Gimesia	Mesonia	434	43.3456	
+GCA_003597125.1	GCA_014651475.1	inter_genus	Alcanivorax	Mesonia	458	43.3452	
+GCA_001639725.1	GCA_004365655.1	inter_genus	Marinomonas	Epilithonimonas	428	43.3451	
+GCA_007748195.1	GCA_009827395.1	inter_genus	Gimesia	Pontixanthobacter	415	43.3441	
+GCA_003254155.1	GCA_019334345.1	inter_genus	Psychrobacillus	Neohoeflea	507	43.3428	
+GCA_008973485.1	GCA_019334345.1	inter_genus	Psychrobacillus	Neohoeflea	519	43.3418	
+GCA_008297975.1	GCA_900636385.1	inter_genus	Antrihabitans	Staphylococcus	419	43.3408	
+GCA_020734105.1	GCA_043556415.1	inter_genus	Alkalihalobacillus	Microbacterium	460	43.3407	
+GCA_009901525.1	GCA_042656585.1	inter_genus	Kordia	Thalassorhabdus	466	43.3386	
+GCA_001005315.1	GCA_014212135.1	inter_genus	Kordia	Cohnella	481	43.3385	
+GCA_007754425.1	GCA_014651475.1	inter_genus	Gimesia	Mesonia	444	43.3374	
+GCA_000196115.1	GCA_001906925.1	inter_genus	Rhodopirellula	Domibacillus	466	43.3330	
+GCA_013328815.1	GCA_900100925.1	inter_genus	Tabrizicola	Actinopolyspora	542	43.3321	
+GCA_012972675.1	GCA_030065535.1	inter_genus	Pontixanthobacter	Microbacterium	415	43.3306	
+GCA_008297975.1	GCA_012972675.1	inter_genus	Antrihabitans	Pontixanthobacter	503	43.3300	
+GCA_003597125.1	GCA_043556415.1	inter_genus	Alcanivorax	Microbacterium	391	43.3286	
+GCA_000756655.1	GCA_009901525.1	inter_genus	Alcanivorax	Kordia	462	43.3281	
+GCA_003254155.1	GCA_013409785.1	inter_genus	Psychrobacillus	Microbacterium	494	43.3277	
+GCA_014212135.1	GCA_019334345.1	inter_genus	Cohnella	Neohoeflea	613	43.3274	
+GCA_006861775.1	GCA_043556415.1	inter_genus	Psychrobacillus	Microbacterium	460	43.3261	
+GCA_000009365.1	GCA_001005315.1	inter_genus	Alcanivorax	Kordia	448	43.3246	
+GCA_008973485.1	GCA_009901525.1	inter_genus	Psychrobacillus	Kordia	493	43.3241	
+GCA_030814065.1	GCA_043556415.1	inter_genus	Mesobacillus	Microbacterium	463	43.3227	
+GCA_006861795.1	GCA_019334345.1	inter_genus	Psychrobacillus	Neohoeflea	566	43.3224	
+GCA_000181475.1	GCA_030814065.1	inter_genus	Gimesia	Mesobacillus	529	43.3216	
+GCA_000292245.2	GCA_034424525.1	inter_genus	Alkalihalobacillus	Sphingobium	554	43.3204	
+GCA_020734105.1	GCA_900142325.1	inter_genus	Alkalihalobacillus	Epilithonimonas	472	43.3161	
+GCA_009828095.1	GCA_043944905.1	inter_genus	Pontixanthobacter	Antrihabitans	522	43.3161	
+GCA_000338295.1	GCA_000970675.1	inter_genus	Rhodopirellula	Domibacillus	483	43.3141	
+GCA_003054265.1	GCA_009827455.1	inter_genus	Kordia	Pontixanthobacter	423	43.3125	
+GCA_006861775.1	GCA_013328815.1	inter_genus	Psychrobacillus	Tabrizicola	571	43.3091	
+GCA_000338295.1	GCA_011008935.1	inter_genus	Rhodopirellula	Tabrizicola	444	43.3043	
+GCA_025960885.1	GCA_900636385.1	inter_genus	Microbacterium	Staphylococcus	404	43.3040	
+GCA_001643235.1	GCA_002727185.1	inter_genus	Domibacillus	Rhodopirellula	474	43.3023	
+GCA_034424525.1	GCA_047302405.1	inter_genus	Sphingobium	Alkalihalobacillus	578	43.3016	
+GCA_009901525.1	GCA_041537905.1	inter_genus	Kordia	Ruegeria	440	43.2993	
+GCA_042654505.1	GCA_900636385.1	inter_genus	Epilithonimonas	Staphylococcus	389	43.2987	
+GCA_001639725.1	GCA_030065535.1	inter_genus	Marinomonas	Microbacterium	454	43.2987	
+GCA_000970675.1	GCA_019334345.1	inter_genus	Domibacillus	Neohoeflea	553	43.2980	
+GCA_011008935.1	GCA_047302405.1	inter_genus	Tabrizicola	Alkalihalobacillus	564	43.2968	
+GCA_014212135.1	GCA_041537905.1	inter_genus	Cohnella	Ruegeria	670	43.2961	
+GCA_000756655.1	GCA_013409785.1	inter_genus	Alcanivorax	Microbacterium	453	43.2958	
+GCA_008297975.1	GCA_013328815.1	inter_genus	Antrihabitans	Tabrizicola	617	43.2942	
+GCA_020966775.1	GCA_028610675.1	inter_genus	Rhodopirellula	Alkalihalobacillus	499	43.2938	
+GCA_003597125.1	GCA_004365655.1	inter_genus	Alcanivorax	Epilithonimonas	386	43.2933	
+GCA_003054265.1	GCA_009828095.1	inter_genus	Kordia	Pontixanthobacter	428	43.2930	
+GCA_001005315.1	GCA_019334345.1	inter_genus	Kordia	Neohoeflea	393	43.2901	
+GCA_020734105.1	GCA_025960885.1	inter_genus	Alkalihalobacillus	Microbacterium	546	43.2897	
+GCA_000196115.1	GCA_030814065.1	inter_genus	Rhodopirellula	Mesobacillus	479	43.2894	
+GCA_000196115.1	GCA_006861775.1	inter_genus	Rhodopirellula	Psychrobacillus	455	43.2879	
+GCA_014212135.1	GCA_043556415.1	inter_genus	Cohnella	Microbacterium	605	43.2869	
+GCA_000338295.1	GCA_008704535.1	inter_genus	Rhodopirellula	Streptomyces	472	43.2845	
+GCA_000196115.1	GCA_014212135.1	inter_genus	Rhodopirellula	Cohnella	576	43.2816	
+GCA_000338295.1	GCA_000966185.1	inter_genus	Rhodopirellula	Domibacillus	509	43.2809	
+GCA_008297975.1	GCA_009828095.1	inter_genus	Antrihabitans	Pontixanthobacter	517	43.2809	
+GCA_001639725.1	GCA_043944905.1	inter_genus	Marinomonas	Antrihabitans	567	43.2804	
+GCA_001906925.1	GCA_020966775.1	inter_genus	Domibacillus	Rhodopirellula	474	43.2804	
+GCA_000196115.1	GCA_020734105.1	inter_genus	Rhodopirellula	Alkalihalobacillus	504	43.2788	
+GCA_009827395.1	GCA_014651475.1	inter_genus	Pontixanthobacter	Mesonia	410	43.2780	
+GCA_000338295.1	GCA_015999335.1	inter_genus	Rhodopirellula	Tabrizicola	482	43.2776	
+GCA_000181475.1	GCA_009827455.1	inter_genus	Gimesia	Pontixanthobacter	427	43.2745	
+GCA_000154725.1	GCA_012972675.1	inter_genus	Kordia	Pontixanthobacter	411	43.2713	
+GCA_000196115.1	GCA_000970675.1	inter_genus	Rhodopirellula	Domibacillus	486	43.2693	
+GCA_009828095.1	GCA_013409785.1	inter_genus	Pontixanthobacter	Microbacterium	439	43.2692	
+GCA_000292245.2	GCA_041537905.1	inter_genus	Alkalihalobacillus	Ruegeria	570	43.2668	
+GCA_019334345.1	GCA_028610675.1	inter_genus	Neohoeflea	Alkalihalobacillus	528	43.2640	
+GCA_012972675.1	GCA_900636385.1	inter_genus	Pontixanthobacter	Staphylococcus	336	43.2628	
+GCA_007748195.1	GCA_009827455.1	inter_genus	Gimesia	Pontixanthobacter	417	43.2626	
+GCA_001437435.1	GCA_013409785.1	inter_genus	Furfurilactobacillus	Microbacterium	321	43.2623	
+GCA_006861775.1	GCA_011008935.1	inter_genus	Psychrobacillus	Tabrizicola	551	43.2623	
+GCA_006861775.1	GCA_025960885.1	inter_genus	Psychrobacillus	Microbacterium	555	43.2620	
+GCA_041537905.1	GCA_900142325.1	inter_genus	Ruegeria	Epilithonimonas	419	43.2613	
+GCA_003254155.1	GCA_007754425.1	inter_genus	Psychrobacillus	Gimesia	480	43.2610	
+GCA_000970675.1	GCA_041537905.1	inter_genus	Domibacillus	Ruegeria	571	43.2578	
+GCA_000966185.1	GCA_041537905.1	inter_genus	Domibacillus	Ruegeria	618	43.2553	
+GCA_011008935.1	GCA_014651475.1	inter_genus	Tabrizicola	Mesonia	392	43.2518	
+GCA_000338295.1	GCA_014651475.1	inter_genus	Rhodopirellula	Mesonia	462	43.2485	
+GCA_003574395.1	GCA_008297975.1	inter_genus	Tabrizicola	Antrihabitans	550	43.2476	
+GCA_000154725.1	GCA_009828095.1	inter_genus	Kordia	Pontixanthobacter	432	43.2475	
+GCA_013328815.1	GCA_030065535.1	inter_genus	Tabrizicola	Microbacterium	510	43.2453	
+GCA_000338295.1	GCA_006861775.1	inter_genus	Rhodopirellula	Psychrobacillus	454	43.2434	
+GCA_011008935.1	GCA_020966775.1	inter_genus	Tabrizicola	Rhodopirellula	444	43.2405	
+GCA_002727185.1	GCA_030814065.1	inter_genus	Rhodopirellula	Mesobacillus	482	43.2396	
+GCA_019334345.1	GCA_043944905.1	inter_genus	Neohoeflea	Antrihabitans	611	43.2390	
+GCA_000154725.1	GCA_003574395.1	inter_genus	Kordia	Tabrizicola	408	43.2279	
+GCA_003574395.1	GCA_014651475.1	inter_genus	Tabrizicola	Mesonia	403	43.2268	
+GCA_000970675.1	GCA_011008935.1	inter_genus	Domibacillus	Tabrizicola	553	43.2262	
+GCA_001005315.1	GCA_009720525.1	inter_genus	Kordia	Gimesia	464	43.2233	
+GCA_008973485.1	GCA_013409785.1	inter_genus	Psychrobacillus	Microbacterium	521	43.2223	
+GCA_000292245.2	GCA_007748195.1	inter_genus	Alkalihalobacillus	Gimesia	563	43.2218	
+GCA_002727185.1	GCA_008704535.1	inter_genus	Rhodopirellula	Streptomyces	490	43.2196	
+GCA_001639725.1	GCA_043556415.1	inter_genus	Marinomonas	Microbacterium	406	43.2185	
+GCA_009827455.1	GCA_043944905.1	inter_genus	Pontixanthobacter	Antrihabitans	522	43.2178	
+GCA_008297975.1	GCA_009827395.1	inter_genus	Antrihabitans	Pontixanthobacter	525	43.2177	
+GCA_013328815.1	GCA_020966775.1	inter_genus	Tabrizicola	Rhodopirellula	470	43.2164	
+GCA_003254155.1	GCA_007748195.1	inter_genus	Psychrobacillus	Gimesia	479	43.2146	
+GCA_000181475.1	GCA_009828095.1	inter_genus	Gimesia	Pontixanthobacter	430	43.2142	
+GCA_009827455.1	GCA_014651475.1	inter_genus	Pontixanthobacter	Mesonia	415	43.2133	
+GCA_014651475.1	GCA_900636385.1	inter_genus	Mesonia	Staphylococcus	406	43.2128	
+GCA_006861775.1	GCA_007754425.1	inter_genus	Psychrobacillus	Gimesia	518	43.2104	
+GCA_007754425.1	GCA_009827455.1	inter_genus	Gimesia	Pontixanthobacter	428	43.2103	
+GCA_009828095.1	GCA_014651475.1	inter_genus	Pontixanthobacter	Mesonia	422	43.2090	
+GCA_001005315.1	GCA_041537905.1	inter_genus	Kordia	Ruegeria	456	43.2086	
+GCA_008297975.1	GCA_009827455.1	inter_genus	Antrihabitans	Pontixanthobacter	512	43.2078	
+GCA_028610675.1	GCA_034424525.1	inter_genus	Alkalihalobacillus	Sphingobium	561	43.2068	
+GCA_001639725.1	GCA_008704535.1	inter_genus	Marinomonas	Streptomyces	545	43.2061	
+GCA_003054265.1	GCA_012972675.1	inter_genus	Kordia	Pontixanthobacter	416	43.2046	
+GCA_000196115.1	GCA_016481275.1	inter_genus	Rhodopirellula	Antrihabitans	441	43.2041	
+GCA_000966185.1	GCA_020966775.1	inter_genus	Domibacillus	Rhodopirellula	523	43.1996	
+GCA_008704535.1	GCA_020966775.1	inter_genus	Streptomyces	Rhodopirellula	472	43.1977	
+GCA_003574395.1	GCA_020966775.1	inter_genus	Tabrizicola	Rhodopirellula	462	43.1950	
+GCA_000338295.1	GCA_013328815.1	inter_genus	Rhodopirellula	Tabrizicola	472	43.1930	
+GCA_008704535.1	GCA_019334345.1	inter_genus	Streptomyces	Neohoeflea	623	43.1878	
+GCA_009827395.1	GCA_900100925.1	inter_genus	Pontixanthobacter	Actinopolyspora	463	43.1864	
+GCA_004365655.1	GCA_041537905.1	inter_genus	Epilithonimonas	Ruegeria	404	43.1854	
+GCA_011008935.1	GCA_900100925.1	inter_genus	Tabrizicola	Actinopolyspora	555	43.1840	
+GCA_003597125.1	GCA_900142325.1	inter_genus	Alcanivorax	Epilithonimonas	396	43.1833	
+GCA_000154725.1	GCA_009827395.1	inter_genus	Kordia	Pontixanthobacter	421	43.1827	
+GCA_000154725.1	GCA_009827455.1	inter_genus	Kordia	Pontixanthobacter	437	43.1810	
+GCA_000292245.2	GCA_020966775.1	inter_genus	Alkalihalobacillus	Rhodopirellula	498	43.1805	
+GCA_001639725.1	GCA_042650985.1	inter_genus	Marinomonas	Epilithonimonas	470	43.1798	
+GCA_007748195.1	GCA_030814065.1	inter_genus	Gimesia	Mesobacillus	535	43.1796	
+GCA_019334345.1	GCA_020966775.1	inter_genus	Neohoeflea	Rhodopirellula	448	43.1779	
+GCA_001437435.1	GCA_008297975.1	inter_genus	Furfurilactobacillus	Antrihabitans	349	43.1748	
+GCA_041537905.1	GCA_042650985.1	inter_genus	Ruegeria	Epilithonimonas	431	43.1740	
+GCA_000338295.1	GCA_028610675.1	inter_genus	Rhodopirellula	Alkalihalobacillus	498	43.1731	
+GCA_009601165.1	GCA_009901525.1	inter_genus	Alcanivorax	Kordia	467	43.1700	
+GCA_003254155.1	GCA_009720525.1	inter_genus	Psychrobacillus	Gimesia	481	43.1696	
+GCA_012972675.1	GCA_014651475.1	inter_genus	Pontixanthobacter	Mesonia	410	43.1666	
+GCA_900142325.1	GCA_900636385.1	inter_genus	Epilithonimonas	Staphylococcus	376	43.1665	
+GCA_009828095.1	GCA_025960885.1	inter_genus	Pontixanthobacter	Microbacterium	424	43.1658	
+GCA_000966185.1	GCA_002727185.1	inter_genus	Domibacillus	Rhodopirellula	520	43.1633	
+GCA_001643235.1	GCA_041537905.1	inter_genus	Domibacillus	Ruegeria	551	43.1593	
+GCA_001005315.1	GCA_900636385.1	inter_genus	Kordia	Staphylococcus	374	43.1588	
+GCA_020734105.1	GCA_020966775.1	inter_genus	Alkalihalobacillus	Rhodopirellula	517	43.1553	
+GCA_007754425.1	GCA_030814065.1	inter_genus	Gimesia	Mesobacillus	535	43.1529	
+GCA_025960885.1	GCA_034424525.1	inter_genus	Microbacterium	Sphingobium	567	43.1526	
+GCA_000181475.1	GCA_047302405.1	inter_genus	Gimesia	Alkalihalobacillus	580	43.1510	
+GCA_009901525.1	GCA_014212135.1	inter_genus	Kordia	Cohnella	485	43.1507	
+GCA_015999335.1	GCA_900636385.1	inter_genus	Tabrizicola	Staphylococcus	389	43.1499	
+GCA_007748195.1	GCA_047302405.1	inter_genus	Gimesia	Alkalihalobacillus	588	43.1486	
+GCA_008297975.1	GCA_011008935.1	inter_genus	Antrihabitans	Tabrizicola	581	43.1465	
+GCA_000181475.1	GCA_003254155.1	inter_genus	Gimesia	Psychrobacillus	475	43.1455	
+GCA_001643235.1	GCA_020966775.1	inter_genus	Domibacillus	Rhodopirellula	488	43.1439	
+GCA_006861795.1	GCA_013409785.1	inter_genus	Psychrobacillus	Microbacterium	548	43.1416	
+GCA_015999335.1	GCA_025960885.1	inter_genus	Tabrizicola	Microbacterium	552	43.1393	
+GCA_000292245.2	GCA_000338295.1	inter_genus	Alkalihalobacillus	Rhodopirellula	508	43.1382	
+GCA_000181475.1	GCA_006861775.1	inter_genus	Gimesia	Psychrobacillus	518	43.1375	
+GCA_000196115.1	GCA_009827455.1	inter_genus	Rhodopirellula	Pontixanthobacter	423	43.1364	
+GCA_007754425.1	GCA_008973485.1	inter_genus	Gimesia	Psychrobacillus	504	43.1347	
+GCA_001005315.1	GCA_009828095.1	inter_genus	Kordia	Pontixanthobacter	430	43.1337	
+GCA_002727185.1	GCA_015999335.1	inter_genus	Rhodopirellula	Tabrizicola	494	43.1330	
+GCA_002727185.1	GCA_020734105.1	inter_genus	Rhodopirellula	Alkalihalobacillus	518	43.1326	
+GCA_002727185.1	GCA_008973485.1	inter_genus	Rhodopirellula	Psychrobacillus	447	43.1315	
+GCA_000196115.1	GCA_013328815.1	inter_genus	Rhodopirellula	Tabrizicola	465	43.1310	
+GCA_012932915.1	GCA_041537905.1	inter_genus	Antrihabitans	Ruegeria	673	43.1303	
+GCA_019334345.1	GCA_020734105.1	inter_genus	Neohoeflea	Alkalihalobacillus	600	43.1302	
+GCA_008704535.1	GCA_009720525.1	inter_genus	Streptomyces	Gimesia	517	43.1300	
+GCA_000196115.1	GCA_028610675.1	inter_genus	Rhodopirellula	Alkalihalobacillus	502	43.1297	
+GCA_000181475.1	GCA_000292245.2	inter_genus	Gimesia	Alkalihalobacillus	567	43.1280	
+GCA_008297975.1	GCA_015999335.1	inter_genus	Antrihabitans	Tabrizicola	582	43.1280	
+GCA_000181475.1	GCA_009827395.1	inter_genus	Gimesia	Pontixanthobacter	424	43.1276	
+GCA_003574395.1	GCA_900636385.1	inter_genus	Tabrizicola	Staphylococcus	385	43.1249	
+GCA_000292245.2	GCA_009720525.1	inter_genus	Alkalihalobacillus	Gimesia	574	43.1249	
+GCA_000338295.1	GCA_016481275.1	inter_genus	Rhodopirellula	Antrihabitans	435	43.1244	
+GCA_009720525.1	GCA_009827455.1	inter_genus	Gimesia	Pontixanthobacter	429	43.1238	
+GCA_000196115.1	GCA_000966185.1	inter_genus	Rhodopirellula	Domibacillus	517	43.1232	
+GCA_000009365.1	GCA_004365655.1	inter_genus	Alcanivorax	Epilithonimonas	381	43.1184	
+GCA_004365655.1	GCA_015999335.1	inter_genus	Epilithonimonas	Tabrizicola	388	43.1183	
+GCA_009720525.1	GCA_009828095.1	inter_genus	Gimesia	Pontixanthobacter	437	43.1142	
+GCA_002727185.1	GCA_014651475.1	inter_genus	Rhodopirellula	Mesonia	459	43.1131	
+GCA_000338295.1	GCA_006861795.1	inter_genus	Rhodopirellula	Psychrobacillus	444	43.1117	
+GCA_002727185.1	GCA_013328815.1	inter_genus	Rhodopirellula	Tabrizicola	476	43.1107	
+GCA_003597125.1	GCA_042650985.1	inter_genus	Alcanivorax	Epilithonimonas	417	43.1103	
+GCA_000154725.1	GCA_007748195.1	inter_genus	Kordia	Gimesia	479	43.1092	
+GCA_000181475.1	GCA_008973485.1	inter_genus	Gimesia	Psychrobacillus	492	43.1089	
+GCA_028610675.1	GCA_041537905.1	inter_genus	Alkalihalobacillus	Ruegeria	574	43.1089	
+GCA_000756655.1	GCA_042654505.1	inter_genus	Alcanivorax	Epilithonimonas	402	43.1087	
+GCA_001437435.1	GCA_001639725.1	inter_genus	Furfurilactobacillus	Marinomonas	304	43.1059	
+GCA_002727185.1	GCA_006861775.1	inter_genus	Rhodopirellula	Psychrobacillus	464	43.1058	
+GCA_000196115.1	GCA_047302405.1	inter_genus	Rhodopirellula	Alkalihalobacillus	519	43.1017	
+GCA_009720525.1	GCA_012932915.1	inter_genus	Gimesia	Antrihabitans	477	43.1004	
+GCA_009827455.1	GCA_043556415.1	inter_genus	Pontixanthobacter	Microbacterium	372	43.0992	
+GCA_003574395.1	GCA_009901525.1	inter_genus	Tabrizicola	Kordia	411	43.0983	
+GCA_015999335.1	GCA_900142325.1	inter_genus	Tabrizicola	Epilithonimonas	403	43.0938	
+GCA_009827455.1	GCA_020966775.1	inter_genus	Pontixanthobacter	Rhodopirellula	422	43.0931	
+GCA_012972675.1	GCA_025960885.1	inter_genus	Pontixanthobacter	Microbacterium	422	43.0929	
+GCA_000009365.1	GCA_043556415.1	inter_genus	Alcanivorax	Microbacterium	381	43.0924	
+GCA_006861775.1	GCA_009720525.1	inter_genus	Psychrobacillus	Gimesia	511	43.0924	
+GCA_007754425.1	GCA_047302405.1	inter_genus	Gimesia	Alkalihalobacillus	588	43.0913	
+GCA_003054265.1	GCA_009827395.1	inter_genus	Kordia	Pontixanthobacter	422	43.0886	
+GCA_009601165.1	GCA_043556415.1	inter_genus	Alcanivorax	Microbacterium	391	43.0854	
+GCA_009901525.1	GCA_011008935.1	inter_genus	Kordia	Tabrizicola	400	43.0805	
+GCA_008704535.1	GCA_009828095.1	inter_genus	Streptomyces	Pontixanthobacter	532	43.0799	
+GCA_000196115.1	GCA_006861795.1	inter_genus	Rhodopirellula	Psychrobacillus	449	43.0793	
+GCA_014651475.1	GCA_019334345.1	inter_genus	Mesonia	Neohoeflea	401	43.0771	
+GCA_000338295.1	GCA_012972675.1	inter_genus	Rhodopirellula	Pontixanthobacter	433	43.0769	
+GCA_000338295.1	GCA_008973485.1	inter_genus	Rhodopirellula	Psychrobacillus	444	43.0743	
+GCA_000292245.2	GCA_007754425.1	inter_genus	Alkalihalobacillus	Gimesia	567	43.0725	
+GCA_006861775.1	GCA_020966775.1	inter_genus	Psychrobacillus	Rhodopirellula	458	43.0712	
+GCA_020966775.1	GCA_047302405.1	inter_genus	Rhodopirellula	Alkalihalobacillus	518	43.0699	
+GCA_006861795.1	GCA_020966775.1	inter_genus	Psychrobacillus	Rhodopirellula	446	43.0684	
+GCA_008973485.1	GCA_020966775.1	inter_genus	Psychrobacillus	Rhodopirellula	445	43.0661	
+GCA_041537905.1	GCA_043944905.1	inter_genus	Ruegeria	Antrihabitans	651	43.0656	
+GCA_007754425.1	GCA_028610675.1	inter_genus	Gimesia	Alkalihalobacillus	569	43.0652	
+GCA_020734105.1	GCA_041537905.1	inter_genus	Alkalihalobacillus	Ruegeria	641	43.0649	
+GCA_041537905.1	GCA_042654505.1	inter_genus	Ruegeria	Epilithonimonas	432	43.0646	
+GCA_002727185.1	GCA_028610675.1	inter_genus	Rhodopirellula	Alkalihalobacillus	509	43.0631	
+GCA_003574395.1	GCA_043556415.1	inter_genus	Tabrizicola	Microbacterium	429	43.0613	
+GCA_003574395.1	GCA_900100925.1	inter_genus	Tabrizicola	Actinopolyspora	518	43.0595	
+GCA_001639725.1	GCA_900142325.1	inter_genus	Marinomonas	Epilithonimonas	450	43.0587	
+GCA_006861775.1	GCA_007748195.1	inter_genus	Psychrobacillus	Gimesia	524	43.0574	
+GCA_000196115.1	GCA_000292245.2	inter_genus	Rhodopirellula	Alkalihalobacillus	504	43.0524	
+GCA_000196115.1	GCA_014651475.1	inter_genus	Rhodopirellula	Mesonia	454	43.0520	
+GCA_019334345.1	GCA_900100925.1	inter_genus	Neohoeflea	Actinopolyspora	582	43.0442	
+GCA_000181475.1	GCA_028610675.1	inter_genus	Gimesia	Alkalihalobacillus	582	43.0412	
+GCA_000338295.1	GCA_009827455.1	inter_genus	Rhodopirellula	Pontixanthobacter	427	43.0403	
+GCA_000196115.1	GCA_012972675.1	inter_genus	Rhodopirellula	Pontixanthobacter	430	43.0398	
+GCA_019334345.1	GCA_047302405.1	inter_genus	Neohoeflea	Alkalihalobacillus	582	43.0375	
+GCA_014651475.1	GCA_034424525.1	inter_genus	Mesonia	Sphingobium	461	43.0345	
+GCA_000181475.1	GCA_001005315.1	inter_genus	Gimesia	Kordia	474	43.0333	
+GCA_007748195.1	GCA_008973485.1	inter_genus	Gimesia	Psychrobacillus	504	43.0310	
+GCA_002727185.1	GCA_043944905.1	inter_genus	Rhodopirellula	Antrihabitans	450	43.0289	
+GCA_000154725.1	GCA_019334345.1	inter_genus	Kordia	Neohoeflea	396	43.0278	
+GCA_000196115.1	GCA_015999335.1	inter_genus	Rhodopirellula	Tabrizicola	476	43.0271	
+GCA_000154725.1	GCA_001437435.1	inter_genus	Kordia	Furfurilactobacillus	250	43.0264	
+GCA_001437435.1	GCA_012932915.1	inter_genus	Furfurilactobacillus	Antrihabitans	334	43.0249	
+GCA_001639725.1	GCA_013409785.1	inter_genus	Marinomonas	Microbacterium	453	43.0247	
+GCA_008704535.1	GCA_009827395.1	inter_genus	Streptomyces	Pontixanthobacter	530	43.0225	
+GCA_001639725.1	GCA_008297975.1	inter_genus	Marinomonas	Antrihabitans	540	43.0207	
+GCA_001005315.1	GCA_007754425.1	inter_genus	Kordia	Gimesia	480	43.0196	
+GCA_001437435.1	GCA_003574395.1	inter_genus	Furfurilactobacillus	Tabrizicola	273	43.0194	
+GCA_008704535.1	GCA_012972675.1	inter_genus	Streptomyces	Pontixanthobacter	504	43.0192	
+GCA_007748195.1	GCA_028610675.1	inter_genus	Gimesia	Alkalihalobacillus	573	43.0185	
+GCA_009828095.1	GCA_900100925.1	inter_genus	Pontixanthobacter	Actinopolyspora	462	43.0173	
+GCA_000196115.1	GCA_008704535.1	inter_genus	Rhodopirellula	Streptomyces	489	43.0168	
+GCA_000338295.1	GCA_013409785.1	inter_genus	Rhodopirellula	Microbacterium	399	43.0140	
+GCA_009720525.1	GCA_016481275.1	inter_genus	Gimesia	Antrihabitans	469	43.0124	
+GCA_020966775.1	GCA_043944905.1	inter_genus	Rhodopirellula	Antrihabitans	428	43.0098	
+GCA_004365655.1	GCA_009601165.1	inter_genus	Epilithonimonas	Alcanivorax	400	43.0087	
+GCA_000009365.1	GCA_900142325.1	inter_genus	Alcanivorax	Epilithonimonas	390	43.0085	
+GCA_001437435.1	GCA_013328815.1	inter_genus	Furfurilactobacillus	Tabrizicola	286	43.0049	
+GCA_009827395.1	GCA_043556415.1	inter_genus	Pontixanthobacter	Microbacterium	371	43.0013	
+GCA_002727185.1	GCA_034424525.1	inter_genus	Rhodopirellula	Sphingobium	571	43.0009	
+GCA_012972675.1	GCA_043556415.1	inter_genus	Pontixanthobacter	Microbacterium	372	42.9987	
+GCA_000338295.1	GCA_047302405.1	inter_genus	Rhodopirellula	Alkalihalobacillus	526	42.9985	
+GCA_011008935.1	GCA_030065535.1	inter_genus	Tabrizicola	Microbacterium	500	42.9914	
+GCA_000196115.1	GCA_008973485.1	inter_genus	Rhodopirellula	Psychrobacillus	444	42.9905	
+GCA_011008935.1	GCA_043556415.1	inter_genus	Tabrizicola	Microbacterium	433	42.9894	
+GCA_001639725.1	GCA_900100925.1	inter_genus	Marinomonas	Actinopolyspora	504	42.9893	
+GCA_013328815.1	GCA_025960885.1	inter_genus	Tabrizicola	Microbacterium	563	42.9885	
+GCA_000196115.1	GCA_043944905.1	inter_genus	Rhodopirellula	Antrihabitans	447	42.9837	
+GCA_016481275.1	GCA_041537905.1	inter_genus	Antrihabitans	Ruegeria	662	42.9798	
+GCA_002727185.1	GCA_011008935.1	inter_genus	Rhodopirellula	Tabrizicola	457	42.9786	
+GCA_002727185.1	GCA_009827455.1	inter_genus	Rhodopirellula	Pontixanthobacter	436	42.9784	
+GCA_001437435.1	GCA_003054265.1	inter_genus	Furfurilactobacillus	Kordia	251	42.9777	
+GCA_019334345.1	GCA_025960885.1	inter_genus	Neohoeflea	Microbacterium	505	42.9766	
+GCA_002727185.1	GCA_012972675.1	inter_genus	Rhodopirellula	Pontixanthobacter	438	42.9765	
+GCA_009720525.1	GCA_047302405.1	inter_genus	Gimesia	Alkalihalobacillus	594	42.9756	
+GCA_003054265.1	GCA_020966775.1	inter_genus	Kordia	Rhodopirellula	451	42.9727	
+GCA_000196115.1	GCA_034424525.1	inter_genus	Rhodopirellula	Sphingobium	546	42.9718	
+GCA_012972675.1	GCA_020966775.1	inter_genus	Pontixanthobacter	Rhodopirellula	431	42.9689	
+GCA_006861795.1	GCA_009720525.1	inter_genus	Psychrobacillus	Gimesia	515	42.9685	
+GCA_007754425.1	GCA_012972675.1	inter_genus	Gimesia	Pontixanthobacter	425	42.9664	
+GCA_006861795.1	GCA_007748195.1	inter_genus	Psychrobacillus	Gimesia	522	42.9659	
+GCA_000181475.1	GCA_008704535.1	inter_genus	Gimesia	Streptomyces	528	42.9646	
+GCA_000338295.1	GCA_034424525.1	inter_genus	Rhodopirellula	Sphingobium	556	42.9640	
+GCA_002727185.1	GCA_016481275.1	inter_genus	Rhodopirellula	Antrihabitans	453	42.9609	
+GCA_009827395.1	GCA_020966775.1	inter_genus	Pontixanthobacter	Rhodopirellula	427	42.9581	
+GCA_007754425.1	GCA_016481275.1	inter_genus	Gimesia	Antrihabitans	477	42.9570	
+GCA_000181475.1	GCA_006861795.1	inter_genus	Gimesia	Psychrobacillus	524	42.9559	
+GCA_000338295.1	GCA_003574395.1	inter_genus	Rhodopirellula	Tabrizicola	471	42.9548	
+GCA_000196115.1	GCA_011008935.1	inter_genus	Rhodopirellula	Tabrizicola	444	42.9529	
+GCA_009601165.1	GCA_042650985.1	inter_genus	Alcanivorax	Epilithonimonas	435	42.9522	
+GCA_000181475.1	GCA_034424525.1	inter_genus	Gimesia	Sphingobium	538	42.9494	
+GCA_001639725.1	GCA_042654505.1	inter_genus	Marinomonas	Epilithonimonas	466	42.9489	
+GCA_001437435.1	GCA_025960885.1	inter_genus	Furfurilactobacillus	Microbacterium	323	42.9474	
+GCA_008297975.1	GCA_041537905.1	inter_genus	Antrihabitans	Ruegeria	614	42.9469	
+GCA_012972675.1	GCA_900100925.1	inter_genus	Pontixanthobacter	Actinopolyspora	442	42.9464	
+GCA_009901525.1	GCA_900636385.1	inter_genus	Kordia	Staphylococcus	385	42.9452	
+GCA_003054265.1	GCA_007748195.1	inter_genus	Kordia	Gimesia	480	42.9442	
+GCA_001005315.1	GCA_012972675.1	inter_genus	Kordia	Pontixanthobacter	421	42.9432	
+GCA_007748195.1	GCA_012972675.1	inter_genus	Gimesia	Pontixanthobacter	418	42.9409	
+GCA_000756655.1	GCA_004365655.1	inter_genus	Alcanivorax	Epilithonimonas	395	42.9390	
+GCA_013409785.1	GCA_034424525.1	inter_genus	Microbacterium	Sphingobium	573	42.9379	
+GCA_008297975.1	GCA_019334345.1	inter_genus	Antrihabitans	Neohoeflea	617	42.9337	
+GCA_009720525.1	GCA_041537905.1	inter_genus	Gimesia	Ruegeria	551	42.9334	
+GCA_009601165.1	GCA_042654505.1	inter_genus	Alcanivorax	Epilithonimonas	413	42.9308	
+GCA_003054265.1	GCA_009720525.1	inter_genus	Kordia	Gimesia	483	42.9290	
+GCA_009827455.1	GCA_900100925.1	inter_genus	Pontixanthobacter	Actinopolyspora	459	42.9290	
+GCA_002727185.1	GCA_009827395.1	inter_genus	Rhodopirellula	Pontixanthobacter	433	42.9286	
+GCA_003054265.1	GCA_034424525.1	inter_genus	Kordia	Sphingobium	451	42.9286	
+GCA_006861795.1	GCA_007754425.1	inter_genus	Psychrobacillus	Gimesia	526	42.9285	
+GCA_000196115.1	GCA_030065535.1	inter_genus	Rhodopirellula	Microbacterium	375	42.9267	
+GCA_008973485.1	GCA_009720525.1	inter_genus	Psychrobacillus	Gimesia	505	42.9261	
+GCA_002727185.1	GCA_003574395.1	inter_genus	Rhodopirellula	Tabrizicola	478	42.9253	
+GCA_002727185.1	GCA_006861795.1	inter_genus	Rhodopirellula	Psychrobacillus	457	42.9249	
+GCA_002727185.1	GCA_030065535.1	inter_genus	Rhodopirellula	Microbacterium	381	42.9236	
+GCA_003597125.1	GCA_042654505.1	inter_genus	Alcanivorax	Epilithonimonas	411	42.9219	
+GCA_000338295.1	GCA_009827395.1	inter_genus	Rhodopirellula	Pontixanthobacter	424	42.9217	
+GCA_000338295.1	GCA_900636385.1	inter_genus	Rhodopirellula	Staphylococcus	362	42.9174	
+GCA_009827455.1	GCA_009901525.1	inter_genus	Pontixanthobacter	Kordia	430	42.9172	
+GCA_000181475.1	GCA_016481275.1	inter_genus	Gimesia	Antrihabitans	470	42.9168	
+GCA_014651475.1	GCA_020966775.1	inter_genus	Mesonia	Rhodopirellula	451	42.9162	
+GCA_000154725.1	GCA_034424525.1	inter_genus	Kordia	Sphingobium	451	42.9162	
+GCA_009828095.1	GCA_020966775.1	inter_genus	Pontixanthobacter	Rhodopirellula	439	42.9157	
+GCA_000154725.1	GCA_000181475.1	inter_genus	Kordia	Gimesia	484	42.9140	
+GCA_009720525.1	GCA_028610675.1	inter_genus	Gimesia	Alkalihalobacillus	576	42.9113	
+GCA_001005315.1	GCA_009827455.1	inter_genus	Kordia	Pontixanthobacter	440	42.9109	
+GCA_000292245.2	GCA_002727185.1	inter_genus	Alkalihalobacillus	Rhodopirellula	517	42.9070	
+GCA_000009365.1	GCA_042650985.1	inter_genus	Alcanivorax	Epilithonimonas	406	42.9069	
+GCA_000196115.1	GCA_009827395.1	inter_genus	Rhodopirellula	Pontixanthobacter	421	42.9038	
+GCA_001005315.1	GCA_020966775.1	inter_genus	Kordia	Rhodopirellula	450	42.9024	
+GCA_020966775.1	GCA_030065535.1	inter_genus	Rhodopirellula	Microbacterium	365	42.9019	
+GCA_000181475.1	GCA_012932915.1	inter_genus	Gimesia	Antrihabitans	481	42.9019	
+GCA_008704535.1	GCA_009827455.1	inter_genus	Streptomyces	Pontixanthobacter	516	42.8967	
+GCA_019334345.1	GCA_043556415.1	inter_genus	Neohoeflea	Microbacterium	423	42.8908	
+GCA_000181475.1	GCA_012972675.1	inter_genus	Gimesia	Pontixanthobacter	420	42.8893	
+GCA_001437435.1	GCA_015999335.1	inter_genus	Furfurilactobacillus	Tabrizicola	298	42.8883	
+GCA_013328815.1	GCA_900636385.1	inter_genus	Tabrizicola	Staphylococcus	404	42.8881	
+GCA_019334345.1	GCA_030065535.1	inter_genus	Neohoeflea	Microbacterium	476	42.8863	
+GCA_008704535.1	GCA_014651475.1	inter_genus	Streptomyces	Mesonia	401	42.8815	
+GCA_007754425.1	GCA_012932915.1	inter_genus	Gimesia	Antrihabitans	486	42.8798	
+GCA_000181475.1	GCA_041537905.1	inter_genus	Gimesia	Ruegeria	537	42.8790	
+GCA_002727185.1	GCA_047302405.1	inter_genus	Rhodopirellula	Alkalihalobacillus	530	42.8779	
+GCA_013409785.1	GCA_019334345.1	inter_genus	Microbacterium	Neohoeflea	522	42.8751	
+GCA_041537905.1	GCA_900100925.1	inter_genus	Ruegeria	Actinopolyspora	608	42.8750	
+GCA_006861775.1	GCA_013409785.1	inter_genus	Psychrobacillus	Microbacterium	555	42.8692	
+GCA_000181475.1	GCA_003054265.1	inter_genus	Gimesia	Kordia	480	42.8677	
+GCA_000181475.1	GCA_900636385.1	inter_genus	Gimesia	Staphylococcus	389	42.8671	
+GCA_000196115.1	GCA_003574395.1	inter_genus	Rhodopirellula	Tabrizicola	470	42.8668	
+GCA_015999335.1	GCA_042654505.1	inter_genus	Tabrizicola	Epilithonimonas	421	42.8644	
+GCA_000338295.1	GCA_009828095.1	inter_genus	Rhodopirellula	Pontixanthobacter	443	42.8641	
+GCA_000154725.1	GCA_009720525.1	inter_genus	Kordia	Gimesia	479	42.8637	
+GCA_013328815.1	GCA_043556415.1	inter_genus	Tabrizicola	Microbacterium	476	42.8590	
+GCA_003054265.1	GCA_008704535.1	inter_genus	Kordia	Streptomyces	396	42.8558	
+GCA_020966775.1	GCA_900636385.1	inter_genus	Rhodopirellula	Staphylococcus	362	42.8528	
+GCA_009601165.1	GCA_900142325.1	inter_genus	Alcanivorax	Epilithonimonas	405	42.8504	
+GCA_002727185.1	GCA_900100925.1	inter_genus	Rhodopirellula	Actinopolyspora	434	42.8479	
+GCA_007754425.1	GCA_008704535.1	inter_genus	Gimesia	Streptomyces	525	42.8478	
+GCA_000756655.1	GCA_043556415.1	inter_genus	Alcanivorax	Microbacterium	400	42.8468	
+GCA_015999335.1	GCA_042650985.1	inter_genus	Tabrizicola	Epilithonimonas	413	42.8462	
+GCA_016481275.1	GCA_020966775.1	inter_genus	Antrihabitans	Rhodopirellula	444	42.8462	
+GCA_009720525.1	GCA_009901525.1	inter_genus	Gimesia	Kordia	489	42.8382	
+GCA_009720525.1	GCA_012972675.1	inter_genus	Gimesia	Pontixanthobacter	430	42.8353	
+GCA_007748195.1	GCA_012932915.1	inter_genus	Gimesia	Antrihabitans	472	42.8318	
+GCA_008297975.1	GCA_020966775.1	inter_genus	Antrihabitans	Rhodopirellula	427	42.8314	
+GCA_034424525.1	GCA_900636385.1	inter_genus	Sphingobium	Staphylococcus	402	42.8286	
+GCA_009828095.1	GCA_043556415.1	inter_genus	Pontixanthobacter	Microbacterium	385	42.8275	
+GCA_007748195.1	GCA_041537905.1	inter_genus	Gimesia	Ruegeria	543	42.8258	
+GCA_001005315.1	GCA_009827395.1	inter_genus	Kordia	Pontixanthobacter	430	42.8251	
+GCA_000154725.1	GCA_000338295.1	inter_genus	Kordia	Rhodopirellula	463	42.8184	
+GCA_034424525.1	GCA_043556415.1	inter_genus	Sphingobium	Microbacterium	494	42.8182	
+GCA_000154725.1	GCA_007754425.1	inter_genus	Kordia	Gimesia	497	42.8145	
+GCA_019334345.1	GCA_900636385.1	inter_genus	Neohoeflea	Staphylococcus	396	42.8116	
+GCA_011008935.1	GCA_025960885.1	inter_genus	Tabrizicola	Microbacterium	539	42.8111	
+GCA_000196115.1	GCA_003054265.1	inter_genus	Rhodopirellula	Kordia	460	42.8100	
+GCA_009901525.1	GCA_019334345.1	inter_genus	Kordia	Neohoeflea	395	42.8096	
+GCA_001437435.1	GCA_009827395.1	inter_genus	Furfurilactobacillus	Pontixanthobacter	251	42.8096	
+GCA_020966775.1	GCA_034424525.1	inter_genus	Rhodopirellula	Sphingobium	555	42.8079	
+GCA_013328815.1	GCA_013409785.1	inter_genus	Tabrizicola	Microbacterium	550	42.8065	
+GCA_000338295.1	GCA_003054265.1	inter_genus	Rhodopirellula	Kordia	461	42.8046	
+GCA_000196115.1	GCA_008297975.1	inter_genus	Rhodopirellula	Antrihabitans	430	42.7984	
+GCA_000196115.1	GCA_013409785.1	inter_genus	Rhodopirellula	Microbacterium	405	42.7975	
+GCA_000196115.1	GCA_009828095.1	inter_genus	Rhodopirellula	Pontixanthobacter	446	42.7919	
+GCA_008704535.1	GCA_041537905.1	inter_genus	Streptomyces	Ruegeria	686	42.7904	
+GCA_009827395.1	GCA_009901525.1	inter_genus	Pontixanthobacter	Kordia	429	42.7897	
+GCA_002727185.1	GCA_008297975.1	inter_genus	Rhodopirellula	Antrihabitans	441	42.7846	
+GCA_000756655.1	GCA_042650985.1	inter_genus	Alcanivorax	Epilithonimonas	414	42.7754	
+GCA_001437435.1	GCA_900100925.1	inter_genus	Furfurilactobacillus	Actinopolyspora	308	42.7750	
+GCA_013328815.1	GCA_900142325.1	inter_genus	Tabrizicola	Epilithonimonas	410	42.7705	
+GCA_002727185.1	GCA_009828095.1	inter_genus	Rhodopirellula	Pontixanthobacter	450	42.7704	
+GCA_003574395.1	GCA_013409785.1	inter_genus	Tabrizicola	Microbacterium	517	42.7702	
+GCA_007748195.1	GCA_013328815.1	inter_genus	Gimesia	Tabrizicola	486	42.7685	
+GCA_001437435.1	GCA_041537905.1	inter_genus	Furfurilactobacillus	Ruegeria	288	42.7684	
+GCA_009720525.1	GCA_034424525.1	inter_genus	Gimesia	Sphingobium	538	42.7669	
+GCA_011008935.1	GCA_900636385.1	inter_genus	Tabrizicola	Staphylococcus	388	42.7662	
+GCA_001437435.1	GCA_009828095.1	inter_genus	Furfurilactobacillus	Pontixanthobacter	254	42.7657	
+GCA_000338295.1	GCA_008297975.1	inter_genus	Rhodopirellula	Antrihabitans	422	42.7645	
+GCA_004365655.1	GCA_009827395.1	inter_genus	Epilithonimonas	Pontixanthobacter	365	42.7608	
+GCA_001437435.1	GCA_011008935.1	inter_genus	Furfurilactobacillus	Tabrizicola	289	42.7592	
+GCA_000154725.1	GCA_008704535.1	inter_genus	Kordia	Streptomyces	416	42.7591	
+GCA_009901525.1	GCA_020966775.1	inter_genus	Kordia	Rhodopirellula	447	42.7582	
+GCA_007748195.1	GCA_008704535.1	inter_genus	Gimesia	Streptomyces	516	42.7581	
+GCA_008297975.1	GCA_009720525.1	inter_genus	Antrihabitans	Gimesia	469	42.7580	
+GCA_002727185.1	GCA_013409785.1	inter_genus	Rhodopirellula	Microbacterium	413	42.7569	
+GCA_000338295.1	GCA_030065535.1	inter_genus	Rhodopirellula	Microbacterium	381	42.7549	
+GCA_000181475.1	GCA_008297975.1	inter_genus	Gimesia	Antrihabitans	455	42.7538	
+GCA_002727185.1	GCA_003054265.1	inter_genus	Rhodopirellula	Kordia	462	42.7481	
+GCA_041537905.1	GCA_047302405.1	inter_genus	Ruegeria	Alkalihalobacillus	621	42.7480	
+GCA_034424525.1	GCA_900100925.1	inter_genus	Sphingobium	Actinopolyspora	626	42.7470	
+GCA_003054265.1	GCA_007754425.1	inter_genus	Kordia	Gimesia	495	42.7463	
+GCA_004365655.1	GCA_013328815.1	inter_genus	Epilithonimonas	Tabrizicola	393	42.7445	
+GCA_003574395.1	GCA_009720525.1	inter_genus	Tabrizicola	Gimesia	494	42.7403	
+GCA_000338295.1	GCA_900100925.1	inter_genus	Rhodopirellula	Actinopolyspora	435	42.7377	
+GCA_001437435.1	GCA_042654505.1	inter_genus	Furfurilactobacillus	Epilithonimonas	266	42.7361	
+GCA_007754425.1	GCA_008297975.1	inter_genus	Gimesia	Antrihabitans	463	42.7335	
+GCA_007748195.1	GCA_900636385.1	inter_genus	Gimesia	Staphylococcus	406	42.7320	
+GCA_003574395.1	GCA_025960885.1	inter_genus	Tabrizicola	Microbacterium	519	42.7287	
+GCA_009827395.1	GCA_042654505.1	inter_genus	Pontixanthobacter	Epilithonimonas	383	42.7272	
+GCA_000154725.1	GCA_000196115.1	inter_genus	Kordia	Rhodopirellula	467	42.7233	
+GCA_020966775.1	GCA_900142325.1	inter_genus	Rhodopirellula	Epilithonimonas	382	42.7228	
+GCA_000756655.1	GCA_900142325.1	inter_genus	Alcanivorax	Epilithonimonas	398	42.7198	
+GCA_000009365.1	GCA_042654505.1	inter_genus	Alcanivorax	Epilithonimonas	407	42.7189	
+GCA_014651475.1	GCA_016481275.1	inter_genus	Mesonia	Antrihabitans	389	42.7172	
+GCA_001005315.1	GCA_034424525.1	inter_genus	Kordia	Sphingobium	455	42.7165	
+GCA_000338295.1	GCA_001437435.1	inter_genus	Rhodopirellula	Furfurilactobacillus	242	42.7149	
+GCA_009901525.1	GCA_012972675.1	inter_genus	Kordia	Pontixanthobacter	429	42.7133	
+GCA_008704535.1	GCA_042654505.1	inter_genus	Streptomyces	Epilithonimonas	419	42.7126	
+GCA_007754425.1	GCA_900636385.1	inter_genus	Gimesia	Staphylococcus	397	42.7091	
+GCA_009720525.1	GCA_042654505.1	inter_genus	Gimesia	Epilithonimonas	431	42.7067	
+GCA_009828095.1	GCA_009901525.1	inter_genus	Pontixanthobacter	Kordia	433	42.6961	
+GCA_002727185.1	GCA_900636385.1	inter_genus	Rhodopirellula	Staphylococcus	368	42.6940	
+GCA_013409785.1	GCA_020966775.1	inter_genus	Microbacterium	Rhodopirellula	394	42.6906	
+GCA_007748195.1	GCA_016481275.1	inter_genus	Gimesia	Antrihabitans	466	42.6785	
+GCA_030065535.1	GCA_041537905.1	inter_genus	Microbacterium	Ruegeria	516	42.6785	
+GCA_000196115.1	GCA_025960885.1	inter_genus	Rhodopirellula	Microbacterium	404	42.6767	
+GCA_011008935.1	GCA_013409785.1	inter_genus	Tabrizicola	Microbacterium	526	42.6751	
+GCA_000154725.1	GCA_020966775.1	inter_genus	Kordia	Rhodopirellula	457	42.6720	
+GCA_013328815.1	GCA_042650985.1	inter_genus	Tabrizicola	Epilithonimonas	422	42.6680	
+GCA_007754425.1	GCA_043944905.1	inter_genus	Gimesia	Antrihabitans	478	42.6665	
+GCA_009720525.1	GCA_043944905.1	inter_genus	Gimesia	Antrihabitans	499	42.6645	
+GCA_001437435.1	GCA_019334345.1	inter_genus	Furfurilactobacillus	Neohoeflea	284	42.6599	
+GCA_009720525.1	GCA_900100925.1	inter_genus	Gimesia	Actinopolyspora	483	42.6538	
+GCA_000181475.1	GCA_009901525.1	inter_genus	Gimesia	Kordia	489	42.6517	
+GCA_004365655.1	GCA_011008935.1	inter_genus	Epilithonimonas	Tabrizicola	377	42.6432	
+GCA_000181475.1	GCA_043944905.1	inter_genus	Gimesia	Antrihabitans	481	42.6430	
+GCA_000196115.1	GCA_900636385.1	inter_genus	Rhodopirellula	Staphylococcus	368	42.6424	
+GCA_003574395.1	GCA_900142325.1	inter_genus	Tabrizicola	Epilithonimonas	391	42.6412	
+GCA_011008935.1	GCA_900142325.1	inter_genus	Tabrizicola	Epilithonimonas	395	42.6403	
+GCA_003574395.1	GCA_042654505.1	inter_genus	Tabrizicola	Epilithonimonas	407	42.6398	
+GCA_014651475.1	GCA_043944905.1	inter_genus	Mesonia	Antrihabitans	387	42.6398	
+GCA_041537905.1	GCA_900636385.1	inter_genus	Ruegeria	Staphylococcus	422	42.6382	
+GCA_009720525.1	GCA_013409785.1	inter_genus	Gimesia	Microbacterium	416	42.6339	
+GCA_000154725.1	GCA_002727185.1	inter_genus	Kordia	Rhodopirellula	473	42.6326	
+GCA_000338295.1	GCA_001005315.1	inter_genus	Rhodopirellula	Kordia	467	42.6300	
+GCA_008704535.1	GCA_900142325.1	inter_genus	Streptomyces	Epilithonimonas	410	42.6290	
+GCA_020966775.1	GCA_900100925.1	inter_genus	Rhodopirellula	Actinopolyspora	434	42.6286	
+GCA_009827395.1	GCA_900142325.1	inter_genus	Pontixanthobacter	Epilithonimonas	377	42.6273	
+GCA_004365655.1	GCA_007754425.1	inter_genus	Epilithonimonas	Gimesia	398	42.6259	
+GCA_007748195.1	GCA_008297975.1	inter_genus	Gimesia	Antrihabitans	446	42.6258	
+GCA_003574395.1	GCA_042650985.1	inter_genus	Tabrizicola	Epilithonimonas	401	42.6217	
+GCA_003574395.1	GCA_007748195.1	inter_genus	Tabrizicola	Gimesia	481	42.6214	
+GCA_013409785.1	GCA_041537905.1	inter_genus	Microbacterium	Ruegeria	566	42.6196	
+GCA_001437435.1	GCA_004365655.1	inter_genus	Furfurilactobacillus	Epilithonimonas	255	42.6165	
+GCA_000181475.1	GCA_030065535.1	inter_genus	Gimesia	Microbacterium	371	42.6164	
+GCA_013328815.1	GCA_042654505.1	inter_genus	Tabrizicola	Epilithonimonas	423	42.6139	
+GCA_019334345.1	GCA_042654505.1	inter_genus	Neohoeflea	Epilithonimonas	400	42.6125	
+GCA_034424525.1	GCA_900142325.1	inter_genus	Sphingobium	Epilithonimonas	471	42.6096	
+GCA_000196115.1	GCA_001437435.1	inter_genus	Rhodopirellula	Furfurilactobacillus	250	42.6088	
+GCA_007754425.1	GCA_041537905.1	inter_genus	Gimesia	Ruegeria	545	42.6059	
+GCA_009720525.1	GCA_011008935.1	inter_genus	Gimesia	Tabrizicola	491	42.6055	
+GCA_007754425.1	GCA_042654505.1	inter_genus	Gimesia	Epilithonimonas	428	42.6051	
+GCA_000181475.1	GCA_042654505.1	inter_genus	Gimesia	Epilithonimonas	427	42.6033	
+GCA_009827395.1	GCA_042650985.1	inter_genus	Pontixanthobacter	Epilithonimonas	394	42.6018	
+GCA_007754425.1	GCA_034424525.1	inter_genus	Gimesia	Sphingobium	531	42.5938	
+GCA_001437435.1	GCA_020966775.1	inter_genus	Furfurilactobacillus	Rhodopirellula	244	42.5902	
+GCA_007754425.1	GCA_900100925.1	inter_genus	Gimesia	Actinopolyspora	469	42.5812	
+GCA_001005315.1	GCA_007748195.1	inter_genus	Kordia	Gimesia	494	42.5794	
+GCA_003574395.1	GCA_004365655.1	inter_genus	Tabrizicola	Epilithonimonas	385	42.5779	
+GCA_004365655.1	GCA_009828095.1	inter_genus	Epilithonimonas	Pontixanthobacter	370	42.5714	
+GCA_000181475.1	GCA_004365655.1	inter_genus	Gimesia	Epilithonimonas	401	42.5683	
+GCA_007748195.1	GCA_015999335.1	inter_genus	Gimesia	Tabrizicola	482	42.5668	
+GCA_019334345.1	GCA_042650985.1	inter_genus	Neohoeflea	Epilithonimonas	394	42.5668	
+GCA_000196115.1	GCA_001005315.1	inter_genus	Rhodopirellula	Kordia	464	42.5642	
+GCA_000338295.1	GCA_025960885.1	inter_genus	Rhodopirellula	Microbacterium	413	42.5547	
+GCA_000154725.1	GCA_043944905.1	inter_genus	Kordia	Antrihabitans	386	42.5508	
+GCA_020966775.1	GCA_042650985.1	inter_genus	Rhodopirellula	Epilithonimonas	418	42.5467	
+GCA_009827455.1	GCA_900142325.1	inter_genus	Pontixanthobacter	Epilithonimonas	366	42.5464	
+GCA_009720525.1	GCA_900636385.1	inter_genus	Gimesia	Staphylococcus	398	42.5455	
+GCA_000196115.1	GCA_009901525.1	inter_genus	Rhodopirellula	Kordia	464	42.5440	
+GCA_007748195.1	GCA_034424525.1	inter_genus	Gimesia	Sphingobium	506	42.5425	
+GCA_001005315.1	GCA_001437435.1	inter_genus	Kordia	Furfurilactobacillus	256	42.5422	
+GCA_000181475.1	GCA_900142325.1	inter_genus	Gimesia	Epilithonimonas	402	42.5413	
+GCA_000196115.1	GCA_043556415.1	inter_genus	Rhodopirellula	Microbacterium	363	42.5402	
+GCA_001437435.1	GCA_900142325.1	inter_genus	Furfurilactobacillus	Epilithonimonas	258	42.5388	
+GCA_004365655.1	GCA_019334345.1	inter_genus	Epilithonimonas	Neohoeflea	368	42.5364	
+GCA_003574395.1	GCA_007754425.1	inter_genus	Tabrizicola	Gimesia	490	42.5361	
+GCA_004365655.1	GCA_009720525.1	inter_genus	Epilithonimonas	Gimesia	401	42.5344	
+GCA_009828095.1	GCA_042650985.1	inter_genus	Pontixanthobacter	Epilithonimonas	415	42.5318	
+GCA_000181475.1	GCA_013328815.1	inter_genus	Gimesia	Tabrizicola	504	42.5306	
+GCA_041537905.1	GCA_043556415.1	inter_genus	Ruegeria	Microbacterium	451	42.5235	
+GCA_009720525.1	GCA_019334345.1	inter_genus	Gimesia	Neohoeflea	484	42.5194	
+GCA_000338295.1	GCA_900142325.1	inter_genus	Rhodopirellula	Epilithonimonas	401	42.5187	
+GCA_020966775.1	GCA_042654505.1	inter_genus	Rhodopirellula	Epilithonimonas	402	42.5147	
+GCA_020966775.1	GCA_043556415.1	inter_genus	Rhodopirellula	Microbacterium	357	42.5106	
+GCA_000338295.1	GCA_009901525.1	inter_genus	Rhodopirellula	Kordia	476	42.5088	
+GCA_000181475.1	GCA_003574395.1	inter_genus	Gimesia	Tabrizicola	491	42.5051	
+GCA_000338295.1	GCA_042654505.1	inter_genus	Rhodopirellula	Epilithonimonas	411	42.5039	
+GCA_007754425.1	GCA_013409785.1	inter_genus	Gimesia	Microbacterium	405	42.5017	
+GCA_001005315.1	GCA_008704535.1	inter_genus	Kordia	Streptomyces	412	42.5010	
+GCA_011008935.1	GCA_042650985.1	inter_genus	Tabrizicola	Epilithonimonas	401	42.5005	
+GCA_001437435.1	GCA_009827455.1	inter_genus	Furfurilactobacillus	Pontixanthobacter	255	42.5004	
+GCA_001005315.1	GCA_002727185.1	inter_genus	Kordia	Rhodopirellula	472	42.4985	
+GCA_001437435.1	GCA_014651475.1	inter_genus	Furfurilactobacillus	Mesonia	262	42.4981	
+GCA_009720525.1	GCA_030065535.1	inter_genus	Gimesia	Microbacterium	378	42.4976	
+GCA_009720525.1	GCA_015999335.1	inter_genus	Gimesia	Tabrizicola	519	42.4892	
+GCA_025960885.1	GCA_041537905.1	inter_genus	Microbacterium	Ruegeria	552	42.4828	
+GCA_009720525.1	GCA_042650985.1	inter_genus	Gimesia	Epilithonimonas	442	42.4826	
+GCA_007754425.1	GCA_011008935.1	inter_genus	Gimesia	Tabrizicola	488	42.4791	
+GCA_007748195.1	GCA_043944905.1	inter_genus	Gimesia	Antrihabitans	464	42.4739	
+GCA_007748195.1	GCA_009901525.1	inter_genus	Gimesia	Kordia	489	42.4718	
+GCA_000181475.1	GCA_011008935.1	inter_genus	Gimesia	Tabrizicola	482	42.4658	
+GCA_001437435.1	GCA_012972675.1	inter_genus	Furfurilactobacillus	Pontixanthobacter	257	42.4619	
+GCA_020966775.1	GCA_025960885.1	inter_genus	Rhodopirellula	Microbacterium	412	42.4519	
+GCA_008297975.1	GCA_014651475.1	inter_genus	Antrihabitans	Mesonia	377	42.4488	
+GCA_000154725.1	GCA_012932915.1	inter_genus	Kordia	Antrihabitans	389	42.4481	
+GCA_009827455.1	GCA_042650985.1	inter_genus	Pontixanthobacter	Epilithonimonas	399	42.4409	
+GCA_004365655.1	GCA_012972675.1	inter_genus	Epilithonimonas	Pontixanthobacter	366	42.4407	
+GCA_008704535.1	GCA_042650985.1	inter_genus	Streptomyces	Epilithonimonas	436	42.4388	
+GCA_009720525.1	GCA_013328815.1	inter_genus	Gimesia	Tabrizicola	521	42.4376	
+GCA_001437435.1	GCA_002727185.1	inter_genus	Furfurilactobacillus	Rhodopirellula	256	42.4348	
+GCA_011008935.1	GCA_042654505.1	inter_genus	Tabrizicola	Epilithonimonas	403	42.4318	
+GCA_000338295.1	GCA_043556415.1	inter_genus	Rhodopirellula	Microbacterium	362	42.4182	
+GCA_012932915.1	GCA_900142325.1	inter_genus	Antrihabitans	Epilithonimonas	390	42.4154	
+GCA_007754425.1	GCA_030065535.1	inter_genus	Gimesia	Microbacterium	367	42.4134	
+GCA_009720525.1	GCA_043556415.1	inter_genus	Gimesia	Microbacterium	358	42.4128	
+GCA_012972675.1	GCA_042650985.1	inter_genus	Pontixanthobacter	Epilithonimonas	397	42.4118	
+GCA_009901525.1	GCA_012932915.1	inter_genus	Kordia	Antrihabitans	380	42.4079	
+GCA_009828095.1	GCA_042654505.1	inter_genus	Pontixanthobacter	Epilithonimonas	404	42.4074	
+GCA_004365655.1	GCA_009827455.1	inter_genus	Epilithonimonas	Pontixanthobacter	362	42.4052	
+GCA_004365655.1	GCA_008704535.1	inter_genus	Epilithonimonas	Streptomyces	393	42.4031	
+GCA_004365655.1	GCA_025960885.1	inter_genus	Epilithonimonas	Microbacterium	315	42.3987	
+GCA_012972675.1	GCA_900142325.1	inter_genus	Pontixanthobacter	Epilithonimonas	373	42.3973	
+GCA_002727185.1	GCA_043556415.1	inter_genus	Rhodopirellula	Microbacterium	365	42.3967	
+GCA_014651475.1	GCA_030065535.1	inter_genus	Mesonia	Microbacterium	317	42.3934	
+GCA_000196115.1	GCA_900100925.1	inter_genus	Rhodopirellula	Actinopolyspora	444	42.3932	
+GCA_009827455.1	GCA_042654505.1	inter_genus	Pontixanthobacter	Epilithonimonas	383	42.3932	
+GCA_000181475.1	GCA_001437435.1	inter_genus	Gimesia	Furfurilactobacillus	252	42.3929	
+GCA_009720525.1	GCA_025960885.1	inter_genus	Gimesia	Microbacterium	391	42.3887	
+GCA_016481275.1	GCA_900142325.1	inter_genus	Antrihabitans	Epilithonimonas	385	42.3852	
+GCA_000181475.1	GCA_013409785.1	inter_genus	Gimesia	Microbacterium	415	42.3812	
+GCA_034424525.1	GCA_042654505.1	inter_genus	Sphingobium	Epilithonimonas	499	42.3808	
+GCA_001005315.1	GCA_043944905.1	inter_genus	Kordia	Antrihabitans	382	42.3783	
+GCA_000196115.1	GCA_042654505.1	inter_genus	Rhodopirellula	Epilithonimonas	413	42.3782	
+GCA_003054265.1	GCA_043944905.1	inter_genus	Kordia	Antrihabitans	393	42.3774	
+GCA_009828095.1	GCA_900142325.1	inter_genus	Pontixanthobacter	Epilithonimonas	391	42.3770	
+GCA_002727185.1	GCA_025960885.1	inter_genus	Rhodopirellula	Microbacterium	423	42.3761	
+GCA_019334345.1	GCA_900142325.1	inter_genus	Neohoeflea	Epilithonimonas	389	42.3730	
+GCA_003054265.1	GCA_012932915.1	inter_genus	Kordia	Antrihabitans	387	42.3690	
+GCA_012972675.1	GCA_042654505.1	inter_genus	Pontixanthobacter	Epilithonimonas	382	42.3673	
+GCA_007754425.1	GCA_042650985.1	inter_genus	Gimesia	Epilithonimonas	437	42.3664	
+GCA_007748195.1	GCA_042654505.1	inter_genus	Gimesia	Epilithonimonas	412	42.3650	
+GCA_012932915.1	GCA_014651475.1	inter_genus	Antrihabitans	Mesonia	388	42.3637	
+GCA_007748195.1	GCA_900100925.1	inter_genus	Gimesia	Actinopolyspora	479	42.3587	
+GCA_007748195.1	GCA_011008935.1	inter_genus	Gimesia	Tabrizicola	488	42.3572	
+GCA_000181475.1	GCA_900100925.1	inter_genus	Gimesia	Actinopolyspora	473	42.3562	
+GCA_000181475.1	GCA_025960885.1	inter_genus	Gimesia	Microbacterium	392	42.3510	
+GCA_002727185.1	GCA_009901525.1	inter_genus	Rhodopirellula	Kordia	475	42.3486	
+GCA_007754425.1	GCA_015999335.1	inter_genus	Gimesia	Tabrizicola	502	42.3466	
+GCA_007754425.1	GCA_019334345.1	inter_genus	Gimesia	Neohoeflea	472	42.3443	
+GCA_003054265.1	GCA_016481275.1	inter_genus	Kordia	Antrihabitans	394	42.3421	
+GCA_009901525.1	GCA_034424525.1	inter_genus	Kordia	Sphingobium	455	42.3387	
+GCA_007754425.1	GCA_009901525.1	inter_genus	Gimesia	Kordia	506	42.3360	
+GCA_001437435.1	GCA_007754425.1	inter_genus	Furfurilactobacillus	Gimesia	252	42.3329	
+GCA_007754425.1	GCA_043556415.1	inter_genus	Gimesia	Microbacterium	359	42.3212	
+GCA_014651475.1	GCA_025960885.1	inter_genus	Mesonia	Microbacterium	364	42.3085	
+GCA_009901525.1	GCA_016481275.1	inter_genus	Kordia	Antrihabitans	393	42.3056	
+GCA_002727185.1	GCA_900142325.1	inter_genus	Rhodopirellula	Epilithonimonas	411	42.3044	
+GCA_001437435.1	GCA_009901525.1	inter_genus	Furfurilactobacillus	Kordia	261	42.3034	
+GCA_009720525.1	GCA_900142325.1	inter_genus	Gimesia	Epilithonimonas	414	42.3005	
+GCA_007748195.1	GCA_030065535.1	inter_genus	Gimesia	Microbacterium	377	42.2979	
+GCA_007754425.1	GCA_900142325.1	inter_genus	Gimesia	Epilithonimonas	412	42.2973	
+GCA_001437435.1	GCA_034424525.1	inter_genus	Furfurilactobacillus	Sphingobium	296	42.2973	
+GCA_007754425.1	GCA_013328815.1	inter_genus	Gimesia	Tabrizicola	515	42.2913	
+GCA_001437435.1	GCA_007748195.1	inter_genus	Furfurilactobacillus	Gimesia	252	42.2877	
+GCA_000154725.1	GCA_016481275.1	inter_genus	Kordia	Antrihabitans	394	42.2830	
+GCA_004365655.1	GCA_020966775.1	inter_genus	Epilithonimonas	Rhodopirellula	385	42.2800	
+GCA_034424525.1	GCA_042650985.1	inter_genus	Sphingobium	Epilithonimonas	517	42.2772	
+GCA_000181475.1	GCA_019334345.1	inter_genus	Gimesia	Neohoeflea	490	42.2739	
+GCA_008704535.1	GCA_009901525.1	inter_genus	Streptomyces	Kordia	420	42.2593	
+GCA_000196115.1	GCA_900142325.1	inter_genus	Rhodopirellula	Epilithonimonas	406	42.2571	
+GCA_030065535.1	GCA_900142325.1	inter_genus	Microbacterium	Epilithonimonas	316	42.2528	
+GCA_001005315.1	GCA_025960885.1	inter_genus	Kordia	Microbacterium	339	42.2475	
+GCA_002727185.1	GCA_042654505.1	inter_genus	Rhodopirellula	Epilithonimonas	418	42.2474	
+GCA_003054265.1	GCA_025960885.1	inter_genus	Kordia	Microbacterium	351	42.2305	
+GCA_014651475.1	GCA_043556415.1	inter_genus	Mesonia	Microbacterium	298	42.2302	
+GCA_007754425.1	GCA_025960885.1	inter_genus	Gimesia	Microbacterium	389	42.2249	
+GCA_007748195.1	GCA_025960885.1	inter_genus	Gimesia	Microbacterium	383	42.2240	
+GCA_007748195.1	GCA_013409785.1	inter_genus	Gimesia	Microbacterium	415	42.2173	
+GCA_000338295.1	GCA_042650985.1	inter_genus	Rhodopirellula	Epilithonimonas	428	42.2091	
+GCA_004365655.1	GCA_012932915.1	inter_genus	Epilithonimonas	Antrihabitans	369	42.2035	
+GCA_043944905.1	GCA_900142325.1	inter_genus	Antrihabitans	Epilithonimonas	384	42.2023	
+GCA_002727185.1	GCA_042650985.1	inter_genus	Rhodopirellula	Epilithonimonas	433	42.2009	
+GCA_001005315.1	GCA_012932915.1	inter_genus	Kordia	Antrihabitans	388	42.1997	
+GCA_000181475.1	GCA_042650985.1	inter_genus	Gimesia	Epilithonimonas	452	42.1985	
+GCA_009901525.1	GCA_043944905.1	inter_genus	Kordia	Antrihabitans	390	42.1938	
+GCA_000154725.1	GCA_013409785.1	inter_genus	Kordia	Microbacterium	333	42.1898	
+GCA_014651475.1	GCA_900100925.1	inter_genus	Mesonia	Actinopolyspora	389	42.1895	
+GCA_004365655.1	GCA_034424525.1	inter_genus	Epilithonimonas	Sphingobium	477	42.1857	
+GCA_000154725.1	GCA_025960885.1	inter_genus	Kordia	Microbacterium	345	42.1722	
+GCA_001437435.1	GCA_009720525.1	inter_genus	Furfurilactobacillus	Gimesia	256	42.1699	
+GCA_000181475.1	GCA_015999335.1	inter_genus	Gimesia	Tabrizicola	516	42.1653	
+GCA_003054265.1	GCA_008297975.1	inter_genus	Kordia	Antrihabitans	378	42.1638	
+GCA_007748195.1	GCA_043556415.1	inter_genus	Gimesia	Microbacterium	363	42.1554	
+GCA_025960885.1	GCA_900142325.1	inter_genus	Microbacterium	Epilithonimonas	346	42.1512	
+GCA_025960885.1	GCA_042650985.1	inter_genus	Microbacterium	Epilithonimonas	367	42.1499	
+GCA_000154725.1	GCA_043556415.1	inter_genus	Kordia	Microbacterium	292	42.1360	
+GCA_007748195.1	GCA_042650985.1	inter_genus	Gimesia	Epilithonimonas	429	42.1319	
+GCA_000154725.1	GCA_030065535.1	inter_genus	Kordia	Microbacterium	323	42.1303	
+GCA_025960885.1	GCA_042654505.1	inter_genus	Microbacterium	Epilithonimonas	368	42.1283	
+GCA_004365655.1	GCA_007748195.1	inter_genus	Epilithonimonas	Gimesia	400	42.1210	
+GCA_004365655.1	GCA_016481275.1	inter_genus	Epilithonimonas	Antrihabitans	372	42.1086	
+GCA_042654505.1	GCA_043944905.1	inter_genus	Epilithonimonas	Antrihabitans	397	42.1086	
+GCA_000338295.1	GCA_004365655.1	inter_genus	Rhodopirellula	Epilithonimonas	391	42.1051	
+GCA_007748195.1	GCA_019334345.1	inter_genus	Gimesia	Neohoeflea	464	42.1034	
+GCA_030065535.1	GCA_042654505.1	inter_genus	Microbacterium	Epilithonimonas	335	42.0979	
+GCA_000196115.1	GCA_004365655.1	inter_genus	Rhodopirellula	Epilithonimonas	392	42.0969	
+GCA_001005315.1	GCA_016481275.1	inter_genus	Kordia	Antrihabitans	394	42.0931	
+GCA_004365655.1	GCA_043944905.1	inter_genus	Epilithonimonas	Antrihabitans	362	42.0914	
+GCA_000154725.1	GCA_008297975.1	inter_genus	Kordia	Antrihabitans	375	42.0909	
+GCA_013409785.1	GCA_042654505.1	inter_genus	Microbacterium	Epilithonimonas	353	42.0867	
+GCA_004365655.1	GCA_030065535.1	inter_genus	Epilithonimonas	Microbacterium	307	42.0863	
+GCA_000181475.1	GCA_043556415.1	inter_genus	Gimesia	Microbacterium	372	42.0728	
+GCA_012932915.1	GCA_042650985.1	inter_genus	Antrihabitans	Epilithonimonas	422	42.0725	
+GCA_016481275.1	GCA_042650985.1	inter_genus	Antrihabitans	Epilithonimonas	418	42.0713	
+GCA_000196115.1	GCA_042650985.1	inter_genus	Rhodopirellula	Epilithonimonas	439	42.0661	
+GCA_003054265.1	GCA_013409785.1	inter_genus	Kordia	Microbacterium	349	42.0579	
+GCA_001005315.1	GCA_030065535.1	inter_genus	Kordia	Microbacterium	322	42.0503	
+GCA_008297975.1	GCA_009901525.1	inter_genus	Antrihabitans	Kordia	375	42.0488	
+GCA_042650985.1	GCA_043944905.1	inter_genus	Epilithonimonas	Antrihabitans	405	42.0474	
+GCA_043556415.1	GCA_900142325.1	inter_genus	Microbacterium	Epilithonimonas	293	42.0423	
+GCA_002727185.1	GCA_004365655.1	inter_genus	Rhodopirellula	Epilithonimonas	394	42.0368	
+GCA_007748195.1	GCA_900142325.1	inter_genus	Gimesia	Epilithonimonas	396	42.0341	
+GCA_016481275.1	GCA_042654505.1	inter_genus	Antrihabitans	Epilithonimonas	410	42.0010	
+GCA_001437435.1	GCA_042650985.1	inter_genus	Furfurilactobacillus	Epilithonimonas	277	41.9877	
+GCA_030065535.1	GCA_042650985.1	inter_genus	Microbacterium	Epilithonimonas	344	41.9805	
+GCA_009901525.1	GCA_025960885.1	inter_genus	Kordia	Microbacterium	345	41.9325	
+GCA_001005315.1	GCA_043556415.1	inter_genus	Kordia	Microbacterium	295	41.9308	
+GCA_000154725.1	GCA_900100925.1	inter_genus	Kordia	Actinopolyspora	364	41.9104	
+GCA_012932915.1	GCA_042654505.1	inter_genus	Antrihabitans	Epilithonimonas	411	41.9092	
+GCA_003054265.1	GCA_030065535.1	inter_genus	Kordia	Microbacterium	330	41.8973	
+GCA_001005315.1	GCA_008297975.1	inter_genus	Kordia	Antrihabitans	372	41.8906	
+GCA_042654505.1	GCA_043556415.1	inter_genus	Epilithonimonas	Microbacterium	304	41.8704	
+GCA_003054265.1	GCA_043556415.1	inter_genus	Kordia	Microbacterium	296	41.8605	
+GCA_003054265.1	GCA_900100925.1	inter_genus	Kordia	Actinopolyspora	366	41.8555	
+GCA_001005315.1	GCA_013409785.1	inter_genus	Kordia	Microbacterium	351	41.8504	
+GCA_042654505.1	GCA_900100925.1	inter_genus	Epilithonimonas	Actinopolyspora	378	41.8397	
+GCA_004365655.1	GCA_900100925.1	inter_genus	Epilithonimonas	Actinopolyspora	344	41.8381	
+GCA_009901525.1	GCA_013409785.1	inter_genus	Kordia	Microbacterium	351	41.8123	
+GCA_013409785.1	GCA_014651475.1	inter_genus	Microbacterium	Mesonia	353	41.7955	
+GCA_013409785.1	GCA_042650985.1	inter_genus	Microbacterium	Epilithonimonas	353	41.7836	
+GCA_004365655.1	GCA_043556415.1	inter_genus	Epilithonimonas	Microbacterium	280	41.7718	
+GCA_009901525.1	GCA_030065535.1	inter_genus	Kordia	Microbacterium	325	41.7671	
+GCA_013409785.1	GCA_900142325.1	inter_genus	Microbacterium	Epilithonimonas	337	41.7421	
+GCA_900100925.1	GCA_900142325.1	inter_genus	Actinopolyspora	Epilithonimonas	361	41.7332	
+GCA_001005315.1	GCA_900100925.1	inter_genus	Kordia	Actinopolyspora	367	41.6809	
+GCA_042650985.1	GCA_043556415.1	inter_genus	Epilithonimonas	Microbacterium	312	41.6667	
+GCA_008297975.1	GCA_042654505.1	inter_genus	Antrihabitans	Epilithonimonas	398	41.6608	
+GCA_008297975.1	GCA_900142325.1	inter_genus	Antrihabitans	Epilithonimonas	381	41.6467	
+GCA_004365655.1	GCA_013409785.1	inter_genus	Epilithonimonas	Microbacterium	321	41.6330	
+GCA_042650985.1	GCA_900100925.1	inter_genus	Epilithonimonas	Actinopolyspora	391	41.5980	
+GCA_004365655.1	GCA_008297975.1	inter_genus	Epilithonimonas	Antrihabitans	369	41.5808	
+GCA_009901525.1	GCA_900100925.1	inter_genus	Kordia	Actinopolyspora	363	41.5579	
+GCA_009901525.1	GCA_043556415.1	inter_genus	Kordia	Microbacterium	304	41.5434	
+GCA_008297975.1	GCA_042650985.1	inter_genus	Antrihabitans	Epilithonimonas	421	41.2197	

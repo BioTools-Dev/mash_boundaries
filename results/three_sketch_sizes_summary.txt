@@ -1,0 +1,16 @@
+s = 1000 frente a s = 10 000 frente a s = 100 000, a igual cobertura, escenario novel_species
+
+llamadas   s = 1000                      s = 10 000                    s = 100 000                 
+4000       corte  0.050    3907   94.83%  corte  0.050    3893   94.89%  corte  0.050    3899   94.90%
+8000       corte  0.075    7839   95.98%  corte  0.075    7814   96.01%  corte  0.075    7831   95.98%
+12000      corte  0.105   12339   95.93%  corte  0.105   12257   95.86%  corte  0.105   12269   95.81%
+15000      corte  0.125   15236   95.92%  corte  0.125   15218   95.92%  corte  0.125   15185   95.91%
+18500      corte  0.145   18226   95.22%  corte  0.150   18803   95.25%  corte  0.150   18742   95.27%
+21000      corte  0.165   21379   93.88%  corte  0.165   20861   94.54%  corte  0.165   20774   94.55%
+23500      corte  0.185   23725   92.06%  corte  0.185   23341   93.03%  corte  0.185   23251   93.13%
+26500      corte  0.215   26856   88.63%  corte  0.220   26623   90.16%  corte  0.220   26538   90.28%
+29000      corte  0.245   29129   84.81%  corte  0.270   29060   87.28%  corte  0.270   29017   87.56%
+
+s = 1000               alcance máximo: 29826 llamadas, 83.00 % de precisión
+s = 10 000             alcance máximo: 29949 llamadas, 85.22 % de precisión
+s = 100 000            alcance máximo: 29947 llamadas, 85.44 % de precisión

@@ -1,0 +1,66 @@
+skani pairs with an ANI: 682384
+Mash edges in the window: 44214890
+ANI pairs absent from the Mash window: 23642 (3.4646 %)
+genomes with at least one ANI neighbour: 25837 of 30209
+
+Coverage of the Mash bands by the ANI axis (all classes):
+Mash band          mash pairs       with ANI     cov % median ANI
+0.00-0.05               20671          20671   100.00%     99.97
+0.05-0.08               18576          18576   100.00%     91.56
+0.08-0.12               47365          47329    99.92%     87.26
+0.12-0.15               62303          61500    98.71%     83.91
+0.15-0.20              297673         246382    82.77%     83.22
+0.20-0.25              718072         240223    33.45%     82.14
+0.25-0.30             1093265          22786     2.08%     81.62
+0.30-0.40             8554076           1174     0.01%     81.86
+
+Leave-one-out on the ANI axis, scenario novel_species, by floor on the
+alignment fraction:
+                          af >= 5                af >= 15                af >= 50
+ANI cutoff      calls   precision       calls   precision       calls   precision
+98.0              962      88.77%         957      89.34%         955      89.32%
+96.0             1990      90.05%        1961      91.43%        1954      91.40%
+95.0             3064      91.74%        3012      93.26%        3001      93.24%
+94.0             4731      93.55%        4665      94.79%        4653      94.78%
+93.0             6264      94.14%        6177      95.37%        6141      95.34%
+92.0             7267      94.32%        7157      95.54%        7079      95.56%
+90.0            10277      94.36%       10101      95.44%        9494      95.42%
+88.0            12822      94.70%       12624      95.68%       10466      95.48%
+86.0            15419      94.86%       15102      95.77%       10530      95.51%
+85.0            16761      94.83%       16293      95.70%       10530      95.51%
+83.0            20049      94.52%       18397      95.61%       10530      95.51%
+80.0            23116      94.01%       18611      95.62%       10530      95.51%
+
+queries with no usable ANI neighbour, by floor and scenario:
+  af >= 5    as_reported        4626 silent,  25583 with a call
+  af >= 5    no_self_strain     4903 silent,  25306 with a call
+  af >= 5    novel_species      7090 silent,  23119 with a call
+  af >= 15   as_reported        7189 silent,  23020 with a call
+  af >= 15   no_self_strain     7643 silent,  22566 with a call
+  af >= 15   novel_species     11598 silent,  18611 with a call
+  af >= 50   as_reported       11345 silent,  18864 with a call
+  af >= 50   no_self_strain    12035 silent,  18174 with a call
+  af >= 50   novel_species     19679 silent,  10530 with a call
+
+Both axes, scenario novel_species, on the queries both can answer:
+  queries answered by Mash: 29743
+  queries answered by ANI : 23119
+  answered by both        : 22714
+  same nearest neighbour  : 13971 (61.51 %)
+  Mash-only queries       : 7029, of which same genus 62.90 %
+  on the shared queries, precision of the call at the same coverage:
+    Mash 94.68 %    ANI 94.06 %
+  where the two pick a different neighbour (8743 queries), they still
+    agree on the genus verdict in 8366 of them (95.69 %)
+  the 7029 queries only Mash answers sit at Mash distance
+    q1 0.208  median 0.246  q3 0.292 — beyond any usable cutoff
+
+Matched call volume, scenario novel_species:
+Mash cutoff     calls  precision   ANI, af >= 5                ANI, af >= 15               ANI, af >= 50             
+0.05             3618     94.80%   ANI>=94.5    3880   93.04%  ANI>=94.5    3823   94.30%  ANI>=94.5    3807   94.27%
+0.07             7100     95.59%   ANI>=92.0    7267   94.32%  ANI>=92.0    7157   95.54%  ANI>=92.0    7079   95.56%
+0.08             8747     95.58%   ANI>=91.0    8676   94.31%  ANI>=91.0    8554   95.50%  ANI>=90.5    9050   95.43%
+0.10            11884     95.98%   ANI>=88.5   12186   94.65%  ANI>=88.5   11993   95.68%  ANI>=86.5   10530   95.51%
+0.12            14718     96.03%   ANI>=86.5   14767   94.84%  ANI>=86.5   14494   95.78%  ANI>=86.5   10530   95.51%
+0.15            18427     95.74%   ANI>=84.0   18319   94.75%  ANI>=83.0   18397   95.61%  ANI>=86.5   10530   95.51%
+0.20            23163     94.98%   ANI>=79.5   23119   94.01%  ANI>=81.5   18611   95.62%  ANI>=86.5   10530   95.51%

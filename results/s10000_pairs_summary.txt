@@ -1,0 +1,43 @@
+Bacterial pair census (recomputed): same_strain 1691  same_species 14521  congeneric 1777246  inter_genus 424365957
+
+Pairwise view, all reported pairs, by band:
+band                    pairs     same sp.   congeneric  inter-genus     P(sp.|d)  P(gen.|d)
+0.00-0.05               21744        15993         5418          333       73.55%     98.47%
+0.05-0.08               14708          430        14045          233        2.92%     98.42%
+0.08-0.13               69567           52        68269         1246        0.07%     98.21%
+0.13-0.15              106075           30       102119         3926        0.03%     96.30%
+0.15-0.20              976322           17       756324       219981        0.00%     77.47%
+0.20-0.25             2617840           10       465977      2151853        0.00%     17.80%
+0.25-0.40            97030052            6       365227     96664819        0.00%      0.38%
+
+P(same species | d) falls below one half in the bin starting at 0.030 (to 0.402 there)
+P(same genus | d) falls below one half in the bin starting at 0.205 (to 0.431 there)
+
+What a cutoff on a pair list would deliver (cumulative, all reported pairs):
+d <=                pairs     same genus    precision
+0.05                21744          21411       98.47%
+0.08                36452          35886       98.45%
+0.12                84390          82992       98.34%
+0.13               106019         104207       98.29%
+0.15               212094         206356       97.29%
+0.20              1188416         962697       81.01%
+0.25              3806256        1428684       37.54%
+
+Window: the reported pairs are 99.58 % of all congeneric prokaryotic pairs
+
+Macro over genera (equal weight per genus), genera with >= 20 pairs in the band:
+domain     band           genera      micro      macro                IC 95 %   Q1 / med / Q3
+Bacteria   0.00-0.05         160     97.14%     98.10% [    96.73%,     99.23%]   100.0 / 100.0 / 100.0 %
+Bacteria   0.05-0.08         107     97.69%     95.81% [    93.23%,     97.85%]   100.0 / 100.0 / 100.0 %
+Bacteria   0.08-0.13         240     96.93%     90.63% [    87.60%,     93.32%]   96.6 / 100.0 / 100.0 %
+Bacteria   0.13-0.15         230     93.50%     80.69% [    76.46%,     84.78%]   76.1 / 100.0 / 100.0 %
+Bacteria   0.15-0.20         836     63.83%     29.73% [    27.17%,     32.23%]   0.0 / 7.1 / 60.1 %
+Bacteria   0.20-0.25        1953     10.15%      7.40% [     6.51%,      8.34%]   0.0 / 0.0 / 1.4 %
+Bacteria   0.25-0.40        4012      0.19%      0.03% [     0.02%,      0.04%]   0.0 / 0.0 / 0.0 %
+Archaea    0.00-0.05           3    100.00%    100.00% [   100.00%,    100.00%]   100.0 / 100.0 / 100.0 %
+Archaea    0.05-0.08           3    100.00%    100.00% [   100.00%,    100.00%]   100.0 / 100.0 / 100.0 %
+Archaea    0.08-0.13          10     99.34%     98.78% [    96.88%,    100.00%]   99.2 / 100.0 / 100.0 %
+Archaea    0.13-0.15          12     98.91%     99.55% [    98.76%,    100.00%]   100.0 / 100.0 / 100.0 %
+Archaea    0.15-0.20          70     22.69%     21.35% [    13.90%,     29.45%]   0.0 / 3.6 / 33.3 %
+Archaea    0.20-0.25          94      0.35%      5.88% [     2.04%,     10.54%]   0.0 / 0.0 / 0.0 %
+Archaea    0.25-0.40         188      0.03%      0.22% [     0.13%,      0.32%]   0.0 / 0.0 / 0.0 %

@@ -1,0 +1,28 @@
+target_calls	axis	cutoff	calls	precision
+4000	proteomas k=7	0.0500	3618	94.8038
+4000	proteomas k=9	0.0450	3771	94.9350
+4000	ANI por alineamiento	94.5000	3823	94.2977
+8000	proteomas k=7	0.0750	7850	95.5924
+8000	proteomas k=9	0.0700	8354	95.4992
+8000	ANI por alineamiento	91.5000	8051	95.5285
+12000	proteomas k=7	0.1000	11884	95.9778
+12000	proteomas k=9	0.0900	11768	95.9296
+12000	ANI por alineamiento	88.5000	11993	95.6808
+15000	proteomas k=7	0.1200	14718	96.0321
+15000	proteomas k=9	0.1100	14965	95.9171
+15000	ANI por alineamiento	86.0000	15102	95.7688
+18500	proteomas k=7	0.1500	18427	95.7399
+18500	proteomas k=9	0.1350	18345	95.7318
+18500	ANI por alineamiento	82.5000	18539	95.6093
+21000	proteomas k=7	0.1750	20996	95.6039
+21000	proteomas k=9	0.1600	21115	95.4251
+21000	ANI por alineamiento			
+23500	proteomas k=7	0.2050	23487	94.8099
+23500	proteomas k=9	0.1850	23403	94.7314
+23500	ANI por alineamiento			
+26500	proteomas k=7	0.2550	26602	92.7712
+26500	proteomas k=9	0.2300	26570	92.7926
+26500	ANI por alineamiento			
+29000	proteomas k=7	0.3450	29025	89.0680
+29000	proteomas k=9	0.3100	28986	89.1189
+29000	ANI por alineamiento			

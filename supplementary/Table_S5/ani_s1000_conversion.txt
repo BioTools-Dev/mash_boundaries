@@ -1,0 +1,15 @@
+corrected conversion, fitted on the band medians of every pair
+range      0 < d <= 0.130, 25 bands of width 0.005
+fit        ANI = 1 - 1.1359 d   (rounded: 1 - 1.14 d, off by at most 0.36 points)
+inverse    d = 0.8803 (1 - ANI)
+stated     ANI = 1 - 1.12 d, off by at most 0.32 points
+  d = 0.020   ANI = 97.76 %   (1 - d would give 98.00 %)
+  d = 0.043   ANI = 95.18 %   (1 - d would give 95.70 %)
+  d = 0.050   ANI = 94.40 %   (1 - d would give 95.00 %)
+  d = 0.080   ANI = 91.04 %   (1 - d would give 92.00 %)
+  d = 0.100   ANI = 88.80 %   (1 - d would give 90.00 %)
+  d = 0.130   ANI = 85.44 %   (1 - d would give 87.00 %)
+  ANI = 95.0 %   d = 0.0446
+  ANI = 92.0 %   d = 0.0714
+  ANI = 90.0 %   d = 0.0893
+  ANI = 86.0 %   d = 0.1250

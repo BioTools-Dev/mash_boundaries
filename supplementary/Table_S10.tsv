@@ -1,0 +1,534 @@
+query	nearest_type_strain	nearest_type_species	mash_dist	call	ncbi_name	revised_species	agrees_with_revision
+GCF_000153625.3	GCA_000153625.1	Fusobacterium polymorphum	0.000000	Fusobacterium polymorphum	Fusobacterium polymorphum ATCC 10953	Fusobacterium polymorphum	1
+GCF_000158195.2	GCA_900450765.1	Fusobacterium necrogenes	0.090492		Fusobacterium mortiferum ATCC 9817	Fusobacterium mortiferum	
+GCF_000158215.3	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.040255	Fusobacterium pseudoperiodonticum	Fusobacterium periodonticum 2_1_31	Fusobacterium pseudoperiodonticum	1
+GCF_000158235.1	GCA_003019695.1	Fusobacterium gonidiaformans	0.015272	Fusobacterium gonidiaformans	Fusobacterium gonidiaformans 3-1-5R	Fusobacterium gonidiaformans	1
+GCF_000158255.2	GCA_900450795.1	Fusobacterium vincentii	0.019951	Fusobacterium vincentii	Fusobacterium vincentii 4_1_13	Fusobacterium vincentii	1
+GCF_000158275.2	GCA_056823795.1	Fusobacterium animalis	0.032301	Fusobacterium animalis	Fusobacterium animalis 7_1	Fusobacterium animalis	1
+GCF_000158315.2	GCA_000158315.2	Fusobacterium ulcerans	0.000000	Fusobacterium ulcerans	Fusobacterium ulcerans ATCC 49185	Fusobacterium ulcerans	1
+GCF_000158835.2	GCA_000158835.2	Fusobacterium gonidiaformans	0.000000	Fusobacterium gonidiaformans	Fusobacterium gonidiaformans ATCC 25563	Fusobacterium gonidiaformans	1
+GCF_000159915.2	GCA_900637705.1	Fusobacterium varium	0.000686	Fusobacterium varium	Fusobacterium varium ATCC 27725	Fusobacterium varium	1
+GCF_000160475.1	GCA_000160475.1	Fusobacterium periodonticum	0.000000	Fusobacterium periodonticum	Fusobacterium periodonticum ATCC 33693	Fusobacterium periodonticum	1
+GCF_000162235.2	GCA_900450795.1	Fusobacterium vincentii	0.020653	Fusobacterium vincentii	Fusobacterium vincentii 3_1_36A2	Fusobacterium vincentii	1
+GCF_000162355.2	GCA_056823795.1	Fusobacterium animalis	0.030736	Fusobacterium animalis	Fusobacterium animalis 3_1_33	Fusobacterium animalis	1
+GCF_000163915.2	GCA_900450795.1	Fusobacterium vincentii	0.018435	Fusobacterium vincentii	Fusobacterium vincentii 3_1_27	Fusobacterium vincentii	1
+GCF_000163935.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.046351		Fusobacterium periodonticum 1_1_41FAA	Fusobacterium pseudoperiodonticum	
+GCF_000178895.1	GCA_031191795.1	Fusobacterium nucleatum	0.011961	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 23726	Fusobacterium nucleatum	1
+GCF_000218645.2	GCA_056823795.1	Fusobacterium animalis	0.032427	Fusobacterium animalis	Fusobacterium animalis 21_1A	Fusobacterium animalis	1
+GCF_000218655.1	GCA_056823795.1	Fusobacterium animalis	0.034080	Fusobacterium animalis	Fusobacterium animalis 11_3_2	Fusobacterium animalis	1
+GCF_000235465.1	GCA_000160475.1	Fusobacterium periodonticum	0.070752		Fusobacterium sp. oral taxon 370 str. F0437	Fusobacterium sp. oral taxon 370	
+GCF_000242975.1	GCA_056823795.1	Fusobacterium animalis	0.031346	Fusobacterium animalis	Fusobacterium animalis F0419	Fusobacterium animalis	1
+GCF_000242995.2	GCA_003019675.1	Fusobacterium ulcerans	0.016629	Fusobacterium ulcerans	Fusobacterium ulcerans 12-1B	Fusobacterium ulcerans	1
+GCF_000262225.1	GCA_000262225.1	Fusobacterium necrophorum	0.000000	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme ATCC 51357	Fusobacterium necrophorum	1
+GCF_000273605.1	GCA_056823795.1	Fusobacterium animalis	0.031305	Fusobacterium animalis	Fusobacterium animalis F0419	Fusobacterium animalis	1
+GCF_000273625.1	GCA_056823795.1	Fusobacterium animalis	0.032291	Fusobacterium animalis	Fusobacterium animalis 7_1	Fusobacterium animalis	1
+GCF_000279975.1	GCA_000279975.1	Fusobacterium vincentii	0.000000	Fusobacterium vincentii	Fusobacterium vincentii ATCC 51190	Fusobacterium vincentii	1
+GCF_000292935.1	GCA_000292935.1	Fusobacterium hwasookii	0.000000	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F128	Fusobacterium hwasookii	1
+GCF_000292975.1	GCA_008801775.1	Fusobacterium necrophorum	0.016725	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme Fnf 1007	Fusobacterium necrophorum	1
+GCF_000297655.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.040905	Fusobacterium pseudoperiodonticum	Fusobacterium periodonticum D10	Fusobacterium pseudoperiodonticum	1
+GCF_000347315.1	GCA_000279975.1	Fusobacterium vincentii	0.019068	Fusobacterium vincentii	Fusobacterium nucleatum CC53	Fusobacterium vincentii	1
+GCF_000381725.1	GCA_000381725.1	Fusobacterium russii	0.000000	Fusobacterium russii	Fusobacterium russii ATCC 25533	Fusobacterium russii	1
+GCF_000400875.1	GCA_056823795.1	Fusobacterium animalis	0.031175	Fusobacterium animalis	Fusobacterium animalis 4_8	Fusobacterium animalis	1
+GCF_000455865.1	GCA_000292935.1	Fusobacterium hwasookii	0.021410	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F145	Fusobacterium hwasookii	1
+GCF_000455885.1	GCA_000292935.1	Fusobacterium hwasookii	0.019410	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F174	Fusobacterium hwasookii	1
+GCF_000455905.1	GCA_000292935.1	Fusobacterium hwasookii	0.022594	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F206	Fusobacterium hwasookii	1
+GCF_000455925.1	GCA_000292935.1	Fusobacterium hwasookii	0.022953	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F300	Fusobacterium hwasookii	1
+GCF_000455945.1	GCA_031191795.1	Fusobacterium nucleatum	0.009270	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ChDC F316	Fusobacterium nucleatum	1
+GCF_000455965.1	GCA_900450795.1	Fusobacterium vincentii	0.017951	Fusobacterium vincentii	Fusobacterium vincentii ChDC F8	Fusobacterium vincentii	1
+GCF_000455985.1	GCA_056823795.1	Fusobacterium animalis	0.031681	Fusobacterium animalis	Fusobacterium animalis ChDC F324	Fusobacterium animalis	1
+GCF_000479205.1	GCA_900450795.1	Fusobacterium vincentii	0.002597	Fusobacterium vincentii	Fusobacterium nucleatum CTI-7	Fusobacterium vincentii	1
+GCF_000479225.1	GCA_056823795.1	Fusobacterium animalis	0.033749	Fusobacterium animalis	Fusobacterium nucleatum CTI-5	Fusobacterium animalis	1
+GCF_000479245.1	GCA_056823795.1	Fusobacterium animalis	0.032062	Fusobacterium animalis	Fusobacterium nucleatum CTI-3	Fusobacterium animalis	1
+GCF_000479265.1	GCA_031191795.1	Fusobacterium nucleatum	0.010633	Fusobacterium nucleatum	Fusobacterium nucleatum CTI-2	Fusobacterium nucleatum	1
+GCF_000479285.1	GCA_056823795.1	Fusobacterium animalis	0.031835	Fusobacterium animalis	Fusobacterium nucleatum CTI-1	Fusobacterium animalis	1
+GCF_000493815.1	GCA_026089295.1	Fusobacterium simiae	0.016370	Fusobacterium simiae	Fusobacterium nucleatum W1481	Fusobacterium simiae	1
+GCF_000524215.1	GCA_056823795.1	Fusobacterium animalis	0.031477	Fusobacterium animalis	Fusobacterium sp. CM1	Fusobacterium animalis	1
+GCF_000524235.1	GCA_001457555.1	Fusobacterium polymorphum	0.026631	Fusobacterium polymorphum	Fusobacterium sp. OBRC1	Fusobacterium polymorphum	1
+GCF_000524395.1	GCA_001457555.1	Fusobacterium polymorphum	0.035215	Fusobacterium polymorphum	Fusobacterium sp. CM22	Fusobacterium polymorphum	1
+GCF_000600355.1	GCA_008801775.1	Fusobacterium necrophorum	0.013600	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme B35	Fusobacterium necrophorum	1
+GCF_000622045.1	GCA_008801775.1	Fusobacterium necrophorum	0.014130	Fusobacterium necrophorum	Fusobacterium necrophorum HUN048	Fusobacterium necrophorum	1
+GCF_000622245.1	GCA_000622245.1	Fusobacterium perfoetens	0.000000	Fusobacterium perfoetens	Fusobacterium perfoetens ATCC 29250	Fusobacterium perfoetens	1
+GCF_000691645.1	GCA_900104395.1	Fusobacterium necrophorum	0.003611	Fusobacterium necrophorum	Fusobacterium necrophorum BL	Fusobacterium necrophorum	1
+GCF_000691665.1	GCA_900104395.1	Fusobacterium necrophorum	0.010564	Fusobacterium necrophorum	Fusobacterium necrophorum DJ-1	Fusobacterium necrophorum	1
+GCF_000691685.1	GCA_900104395.1	Fusobacterium necrophorum	0.011278	Fusobacterium necrophorum	Fusobacterium necrophorum BFTR-1	Fusobacterium necrophorum	1
+GCF_000691705.1	GCA_900104395.1	Fusobacterium necrophorum	0.012465	Fusobacterium necrophorum	Fusobacterium necrophorum DAB	Fusobacterium necrophorum	1
+GCF_000691745.1	GCA_900104395.1	Fusobacterium necrophorum	0.010441	Fusobacterium necrophorum	Fusobacterium necrophorum DJ-2	Fusobacterium necrophorum	1
+GCF_001296085.1	GCA_056823795.1	Fusobacterium animalis	0.029622	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_001296125.1	GCA_000279975.1	Fusobacterium vincentii	0.017588	Fusobacterium vincentii	Fusobacterium vincentii ChDC F8	Fusobacterium vincentii	1
+GCF_001296145.1	GCA_056823795.1	Fusobacterium animalis	0.031386	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_001296165.1	GCA_031191795.1	Fusobacterium nucleatum	0.008999	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ChDC F316	Fusobacterium nucleatum	1
+GCF_001433955.1	GCA_001457555.1	Fusobacterium polymorphum	0.029765	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_001455085.1	GCA_000292935.1	Fusobacterium hwasookii	0.022428	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F206	Fusobacterium hwasookii	1
+GCF_001455105.1	GCA_000292935.1	Fusobacterium hwasookii	0.022842	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F300	Fusobacterium hwasookii	1
+GCF_001455125.1	GCA_001457555.1	Fusobacterium polymorphum	0.027902	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_001455145.1	GCA_000292935.1	Fusobacterium hwasookii	0.019327	Fusobacterium hwasookii	Fusobacterium hwasookii ChDC F174	Fusobacterium hwasookii	1
+GCF_001457555.1	GCA_001457555.1	Fusobacterium polymorphum	0.000000	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_001510735.1	GCA_031191795.1	Fusobacterium nucleatum	0.010861	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum	Fusobacterium nucleatum	1
+GCF_001546395.1	GCA_003019695.1	Fusobacterium gonidiaformans	0.013282	Fusobacterium gonidiaformans	Fusobacterium equinum	Fusobacterium gonidiaformans	1
+GCF_001546435.1	GCA_056823795.1	Fusobacterium animalis	0.037510	Fusobacterium animalis	Fusobacterium nucleatum	Fusobacterium animalis	1
+GCF_001596475.1	GCA_008801775.1	Fusobacterium necrophorum	0.016432	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001596485.1	GCA_008801775.1	Fusobacterium necrophorum	0.005483	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001596495.1	GCA_008801775.1	Fusobacterium necrophorum	0.014257	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597305.1	GCA_008801775.1	Fusobacterium necrophorum	0.015697	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597315.1	GCA_008801775.1	Fusobacterium necrophorum	0.015562	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597325.1	GCA_008801775.1	Fusobacterium necrophorum	0.014318	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597335.1	GCA_008801775.1	Fusobacterium necrophorum	0.016097	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597385.1	GCA_008801775.1	Fusobacterium necrophorum	0.003393	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597395.1	GCA_008801775.1	Fusobacterium necrophorum	0.017103	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597405.1	GCA_008801775.1	Fusobacterium necrophorum	0.016663	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597445.1	GCA_008801775.1	Fusobacterium necrophorum	0.017092	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597465.1	GCA_008801775.1	Fusobacterium necrophorum	0.016828	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597475.1	GCA_008801775.1	Fusobacterium necrophorum	0.016164	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597485.1	GCA_008801775.1	Fusobacterium necrophorum	0.003219	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597525.1	GCA_008801775.1	Fusobacterium necrophorum	0.003584	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597545.1	GCA_008801775.1	Fusobacterium necrophorum	0.015784	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597565.1	GCA_008801775.1	Fusobacterium necrophorum	0.016555	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001597575.1	GCA_008801775.1	Fusobacterium necrophorum	0.016208	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_001810475.1	GCA_900637705.1	Fusobacterium varium	0.013030	Fusobacterium varium	Fusobacterium sp. HMSC073F01	Fusobacterium varium	1
+GCF_001810995.1	GCA_000182945.1	Fusobacterium vincentii	0.012126	Fusobacterium vincentii	Fusobacterium sp. HMSC064B12	Fusobacterium vincentii	1
+GCF_001813745.1	GCA_056823795.1	Fusobacterium animalis	0.031651	Fusobacterium animalis	Fusobacterium sp. HMSC065F01	Fusobacterium animalis	1
+GCF_001815715.1	GCA_001457555.1	Fusobacterium polymorphum	0.027495	Fusobacterium polymorphum	Fusobacterium sp. HMSC064B11	Fusobacterium polymorphum	1
+GCF_001854465.1	GCA_900450795.1	Fusobacterium vincentii	0.004962	Fusobacterium vincentii	Fusobacterium nucleatum	Fusobacterium vincentii	1
+GCF_002202115.1	GCA_001457555.1	Fusobacterium polymorphum	0.028965	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002204435.1	GCA_001457555.1	Fusobacterium polymorphum	0.031195	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002211605.1	GCA_031191795.1	Fusobacterium nucleatum	0.009027	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum	Fusobacterium nucleatum	1
+GCF_002211625.1	GCA_001457555.1	Fusobacterium polymorphum	0.028153	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002243405.1	GCA_055694045.1	Fusobacterium abscessus	0.018374	Fusobacterium abscessus	Fusobacterium sp. oral taxon 203	Fusobacterium nucleatum	0
+GCF_002573475.1	GCA_056823795.1	Fusobacterium animalis	0.031255	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_002573625.1	GCA_001457555.1	Fusobacterium polymorphum	0.044765		Fusobacterium polymorphum	Fusobacterium polymorphum	
+GCF_002591465.1	GCA_001457555.1	Fusobacterium polymorphum	0.027381	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591475.1	GCA_001457555.1	Fusobacterium polymorphum	0.033269	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591505.1	GCA_001457555.1	Fusobacterium polymorphum	0.035599	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591515.1	GCA_001457555.1	Fusobacterium polymorphum	0.036358	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591545.1	GCA_001457555.1	Fusobacterium polymorphum	0.035377	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591555.1	GCA_001457555.1	Fusobacterium polymorphum	0.040627	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591585.1	GCA_001457555.1	Fusobacterium polymorphum	0.034699	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002591645.1	GCA_035320945.1	Fusobacterium polymorphum	0.034597	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002749995.1	GCA_900450795.1	Fusobacterium vincentii	0.017706	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_002761915.1	GCA_001457555.1	Fusobacterium polymorphum	0.035798	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_002761935.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.027477	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002761955.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.000000	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002761995.1	GCA_008801775.1	Fusobacterium necrophorum	0.015730	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_002762005.1	GCA_056823795.1	Fusobacterium animalis	0.032301	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_002762015.1	GCA_056823795.1	Fusobacterium animalis	0.032187	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_002762025.1	GCA_008801775.1	Fusobacterium necrophorum	0.015724	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_002763595.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.027103	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763625.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.026420	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763695.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.042599	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763735.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.028716	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763775.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.029217	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763815.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.028670	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763875.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.036298	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763915.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.042481	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002763925.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.029217	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_002764055.1	GCA_900450795.1	Fusobacterium vincentii	0.017999	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_002884895.1	GCA_056823795.1	Fusobacterium animalis	0.031245	Fusobacterium animalis	Fusobacterium nucleatum	Fusobacterium animalis	1
+GCF_003019295.1	GCA_003019295.1	Fusobacterium nucleatum	0.000000	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Fusobacterium nucleatum	1
+GCF_003019315.1	GCA_900450765.1	Fusobacterium necrogenes	0.090492		Fusobacterium mortiferum ATCC 9817	Fusobacterium mortiferum	
+GCF_003019655.1	GCA_900637705.1	Fusobacterium varium	0.000589	Fusobacterium varium	Fusobacterium varium ATCC 27725	Fusobacterium varium	1
+GCF_003019675.1	GCA_003019675.1	Fusobacterium ulcerans	0.000000	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_003019695.1	GCA_003019695.1	Fusobacterium gonidiaformans	0.000000	Fusobacterium gonidiaformans	Fusobacterium gonidiaformans ATCC 25563	Fusobacterium gonidiaformans	1
+GCF_003019715.1	GCA_008801775.1	Fusobacterium necrophorum	0.014725	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_003019755.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.040133	Fusobacterium pseudoperiodonticum	Fusobacterium periodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_003019785.1	GCA_031191795.1	Fusobacterium nucleatum	0.011897	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 23726	Fusobacterium nucleatum	1
+GCF_003436335.1	GCA_900637705.1	Fusobacterium varium	0.011031	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_003438345.1	GCA_900450765.1	Fusobacterium necrogenes	0.086993		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_003463295.1	GCA_003019675.1	Fusobacterium ulcerans	0.014441	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_003470285.1	GCA_900450765.1	Fusobacterium necrogenes	0.088109		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_003470425.1	GCA_900637705.1	Fusobacterium varium	0.011194	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_003470805.1	GCA_900450765.1	Fusobacterium necrogenes	0.090383		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_003732505.1	GCA_008801775.1	Fusobacterium necrophorum	0.003378	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_003732525.1	GCA_008801775.1	Fusobacterium necrophorum	0.016459	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_003859915.1	GCA_016724785.1	Fusobacterium canifelinum	0.013924	Fusobacterium canifelinum	Fusobacterium canifelinum	Fusobacterium canifelinum	1
+GCF_004134945.1	GCA_008801775.1	Fusobacterium necrophorum	0.036143	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_004134955.1	GCA_008801775.1	Fusobacterium necrophorum	0.014715	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_008633215.1	GCA_049381025.1	Fusobacterium watanabei	0.010280	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_008801775.1	GCA_008801775.1	Fusobacterium necrophorum	0.000000	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_009696105.1	GCA_900450765.1	Fusobacterium necrogenes	0.088679		Fusobacterium sp. FSA-380-WT-2B	Fusobacterium mortiferum	
+GCF_010367435.1	GCA_000622245.1	Fusobacterium perfoetens	0.230110		Fusobacterium sp. IOR10	Fusobacterium sp. IOR10	
+GCF_012843705.1	GCA_000622245.1	Fusobacterium perfoetens	0.053568		Fusobacterium sp. FSA-380-WT-3A	Fusobacterium sp. FSA-380-WT-3A	
+GCF_014217355.1	GCA_014217355.1	Fusobacterium hwasookii	0.000000	Fusobacterium hwasookii	Fusobacterium hwasookii	Fusobacterium hwasookii	1
+GCF_014217375.1	GCA_000292935.1	Fusobacterium hwasookii	0.021347	Fusobacterium hwasookii	Fusobacterium hwasookii	Fusobacterium hwasookii	1
+GCF_014337255.1	GCA_014337255.1	Fusobacterium hominis	0.000000	Fusobacterium hominis	Fusobacterium hominis	Fusobacterium hominis	1
+GCF_015552935.1	GCA_026089295.1	Fusobacterium simiae	0.015092	Fusobacterium simiae	Fusobacterium sp. 1001295B_180824_G3	Fusobacterium simiae	1
+GCF_015555635.1	GCA_900637705.1	Fusobacterium varium	0.012293	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_016127595.1	GCA_016724785.1	Fusobacterium canifelinum	0.016275	Fusobacterium canifelinum	Fusobacterium canifelinum	Fusobacterium canifelinum	1
+GCF_016724785.1	GCA_016724785.1	Fusobacterium canifelinum	0.000000	Fusobacterium canifelinum	Fusobacterium canifelinum	Fusobacterium canifelinum	1
+GCF_016902335.1	GCA_900450765.1	Fusobacterium necrogenes	0.146116		Fusobacterium mortiferum	Fusobacterium sp. An425	
+GCF_018205305.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD4	Fusobacterium bovis	
+GCF_018205335.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD3	Fusobacterium bovis	
+GCF_018205345.1	GCA_014337255.1	Fusobacterium hominis	0.153298		Fusobacterium sp. DD2	Fusobacterium bovis	
+GCF_018205395.1	GCA_014337255.1	Fusobacterium hominis	0.161003		Fusobacterium sp. DD1	Fusobacterium bovis	
+GCF_018205455.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD6	Fusobacterium bovis	
+GCF_018205515.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD10	Fusobacterium bovis	
+GCF_018205555.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD13	Fusobacterium bovis	
+GCF_018205575.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD12	Fusobacterium bovis	
+GCF_018205755.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD14	Fusobacterium bovis	
+GCF_018205855.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD17	Fusobacterium bovis	
+GCF_018206035.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD25	Fusobacterium bovis	
+GCF_018206065.1	GCA_014337255.1	Fusobacterium hominis	0.159407		Fusobacterium sp. DD26	Fusobacterium bovis	
+GCF_018206095.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD29	Fusobacterium bovis	
+GCF_018206215.1	GCA_014337255.1	Fusobacterium hominis	0.159146		Fusobacterium sp. DD28	Fusobacterium bovis	
+GCF_018206505.1	GCA_008801775.1	Fusobacterium necrophorum	0.012555	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_018206575.1	GCA_014337255.1	Fusobacterium hominis	0.153528		Fusobacterium sp. DD40	Fusobacterium bovis	
+GCF_018206655.1	GCA_014337255.1	Fusobacterium hominis	0.153298		Fusobacterium sp. DD43	Fusobacterium bovis	
+GCF_018206885.1	GCA_014337255.1	Fusobacterium hominis	0.159146		Fusobacterium sp. DD45	Fusobacterium bovis	
+GCF_019551945.1	GCA_000292935.1	Fusobacterium hwasookii	0.021189	Fusobacterium hwasookii	Fusobacterium hwasookii	Fusobacterium hwasookii	1
+GCF_019552005.1	GCA_000279975.1	Fusobacterium vincentii	0.017665	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_019552045.1	GCA_001457555.1	Fusobacterium polymorphum	0.028497	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_019552065.1	GCA_001457555.1	Fusobacterium polymorphum	0.027060	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_019552085.1	GCA_056823795.1	Fusobacterium animalis	0.030776	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_019552105.1	GCA_056823795.1	Fusobacterium animalis	0.030815	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_019552125.1	GCA_056823795.1	Fusobacterium animalis	0.029367	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_020590195.1	GCA_003019675.1	Fusobacterium ulcerans	0.017606	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_020593925.1	GCA_003019675.1	Fusobacterium ulcerans	0.017576	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_021531475.1	GCA_000622245.1	Fusobacterium perfoetens	0.156865		Fusobacterium perfoetens	Fusobacterium sp. An888	
+GCF_021531595.1	GCA_000622245.1	Fusobacterium perfoetens	0.211692		Fusobacterium perfoetens	Fusobacterium sp. An877	
+GCF_021531635.1	GCA_900450765.1	Fusobacterium necrogenes	0.089736		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_021531855.1	GCA_900637705.1	Fusobacterium varium	0.011630	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_021532115.1	GCA_900450765.1	Fusobacterium necrogenes	0.089310		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_022340105.1	GCA_056823795.1	Fusobacterium animalis	0.030198	Fusobacterium animalis	Fusobacterium nucleatum	Fusobacterium animalis	1
+GCF_022340145.1	GCA_031191795.1	Fusobacterium nucleatum	0.010125	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_022340165.1	GCA_900450795.1	Fusobacterium vincentii	0.019365	Fusobacterium vincentii	Fusobacterium nucleatum	Fusobacterium vincentii	1
+GCF_023383525.1	GCA_056823795.1	Fusobacterium animalis	0.035988	Fusobacterium animalis	Fusobacterium nucleatum YWH7054	Fusobacterium animalis	1
+GCF_023383545.1	GCA_056823795.1	Fusobacterium animalis	0.036250	Fusobacterium animalis	Fusobacterium nucleatum YWH7053	Fusobacterium animalis	1
+GCF_023383575.1	GCA_056823795.1	Fusobacterium animalis	0.033096	Fusobacterium animalis	Fusobacterium nucleatum YWH7055	Fusobacterium animalis	1
+GCF_023383605.1	GCA_056823795.1	Fusobacterium animalis	0.035599	Fusobacterium animalis	Fusobacterium nucleatum YWH7056	Fusobacterium animalis	1
+GCF_023383645.1	GCA_056823795.1	Fusobacterium animalis	0.036770	Fusobacterium animalis	Fusobacterium nucleatum YWH7199	Fusobacterium animalis	1
+GCF_024140205.1	GCA_900450795.1	Fusobacterium vincentii	0.000057	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_024220095.1	GCA_001457555.1	Fusobacterium polymorphum	0.000237	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_026089295.1	GCA_026089295.1	Fusobacterium simiae	0.000000	Fusobacterium simiae	Fusobacterium simiae	Fusobacterium simiae	1
+GCF_027666755.1	GCA_900450765.1	Fusobacterium necrogenes	0.090004		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_027669435.1	GCA_900637705.1	Fusobacterium varium	0.011132	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_027672075.1	GCA_900637705.1	Fusobacterium varium	0.012414	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_027682085.1	GCA_001457555.1	Fusobacterium polymorphum	0.028497	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_027692185.1	GCA_014337255.1	Fusobacterium hominis	0.006611	Fusobacterium hominis	Fusobacterium hominis	Fusobacterium hominis	1
+GCF_028561705.1	GCA_026089295.1	Fusobacterium simiae	0.016420	Fusobacterium simiae	Fusobacterium simiae	Fusobacterium simiae	1
+GCF_028621975.1	GCA_900450795.1	Fusobacterium vincentii	0.018768	Fusobacterium vincentii	Fusobacterium nucleatum	Fusobacterium vincentii	1
+GCF_028621995.1	GCA_049381025.1	Fusobacterium watanabei	0.012288	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_028657925.1	GCA_056823795.1	Fusobacterium animalis	0.026027	Fusobacterium animalis	Fusobacterium nucleatum	Fusobacterium animalis	1
+GCF_028743415.1	GCA_056823795.1	Fusobacterium animalis	0.031336	Fusobacterium animalis	Fusobacterium nucleatum	Fusobacterium animalis	1
+GCF_029894495.1	GCA_003019675.1	Fusobacterium ulcerans	0.016308	Fusobacterium ulcerans	Fusobacterium sp. PH5-7	Fusobacterium ulcerans	1
+GCF_030180395.1	GCA_008801775.1	Fusobacterium necrophorum	0.003507	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180405.1	GCA_008801775.1	Fusobacterium necrophorum	0.016197	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180445.1	GCA_008801775.1	Fusobacterium necrophorum	0.015949	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180465.1	GCA_008801775.1	Fusobacterium necrophorum	0.016584	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180475.1	GCA_008801775.1	Fusobacterium necrophorum	0.003026	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180485.1	GCA_008801775.1	Fusobacterium necrophorum	0.015600	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180505.1	GCA_008801775.1	Fusobacterium necrophorum	0.003132	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180545.1	GCA_008801775.1	Fusobacterium necrophorum	0.015954	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180565.1	GCA_008801775.1	Fusobacterium necrophorum	0.016668	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180575.1	GCA_008801775.1	Fusobacterium necrophorum	0.014364	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180585.1	GCA_008801775.1	Fusobacterium necrophorum	0.015992	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180625.1	GCA_008801775.1	Fusobacterium necrophorum	0.015363	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180645.1	GCA_008801775.1	Fusobacterium necrophorum	0.015235	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180665.1	GCA_008801775.1	Fusobacterium necrophorum	0.013282	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180685.1	GCA_008801775.1	Fusobacterium necrophorum	0.015921	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180695.1	GCA_008801775.1	Fusobacterium necrophorum	0.015949	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180725.1	GCA_008801775.1	Fusobacterium necrophorum	0.015508	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180765.1	GCA_008801775.1	Fusobacterium necrophorum	0.018277	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180785.1	GCA_008801775.1	Fusobacterium necrophorum	0.014897	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180805.1	GCA_008801775.1	Fusobacterium necrophorum	0.013340	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180825.1	GCA_008801775.1	Fusobacterium necrophorum	0.016971	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180835.1	GCA_008801775.1	Fusobacterium necrophorum	0.015219	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180865.1	GCA_008801775.1	Fusobacterium necrophorum	0.018264	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180885.1	GCA_008801775.1	Fusobacterium necrophorum	0.015513	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180905.1	GCA_008801775.1	Fusobacterium necrophorum	0.017138	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_030180925.1	GCA_008801775.1	Fusobacterium necrophorum	0.016070	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_031191795.1	GCA_031191795.1	Fusobacterium nucleatum	0.000000	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_035320945.1	GCA_035320945.1	Fusobacterium polymorphum	0.000000	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_035321665.1	GCA_001457555.1	Fusobacterium polymorphum	0.030520	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_035321705.1	GCA_001457555.1	Fusobacterium polymorphum	0.025370	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_035321765.1	GCA_001457555.1	Fusobacterium polymorphum	0.026193	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_035321985.1	GCA_001457555.1	Fusobacterium polymorphum	0.032755	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_036323455.1	GCA_000279975.1	Fusobacterium vincentii	0.017969	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_036867555.1	GCA_900637705.1	Fusobacterium varium	0.002304	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_036907355.1	GCA_900637705.1	Fusobacterium varium	0.011603	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_037031305.1	GCA_001457555.1	Fusobacterium polymorphum	0.029937	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031325.1	GCA_001457555.1	Fusobacterium polymorphum	0.025362	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031345.1	GCA_001457555.1	Fusobacterium polymorphum	0.027242	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031365.1	GCA_001457555.1	Fusobacterium polymorphum	0.031014	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031385.1	GCA_001457555.1	Fusobacterium polymorphum	0.026879	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031405.1	GCA_035320945.1	Fusobacterium polymorphum	0.028910	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031425.1	GCA_001457555.1	Fusobacterium polymorphum	0.025566	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031435.1	GCA_001457555.1	Fusobacterium polymorphum	0.030805	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031465.1	GCA_001457555.1	Fusobacterium polymorphum	0.027434	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031485.1	GCA_001457555.1	Fusobacterium polymorphum	0.025177	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031505.1	GCA_001457555.1	Fusobacterium polymorphum	0.030490	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031525.1	GCA_001457555.1	Fusobacterium polymorphum	0.026294	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031545.1	GCA_001457555.1	Fusobacterium polymorphum	0.029254	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031565.1	GCA_001457555.1	Fusobacterium polymorphum	0.029928	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031585.1	GCA_001457555.1	Fusobacterium polymorphum	0.027857	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031605.1	GCA_001457555.1	Fusobacterium polymorphum	0.027760	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031625.1	GCA_001457555.1	Fusobacterium polymorphum	0.033519	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031645.1	GCA_001457555.1	Fusobacterium polymorphum	0.029937	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031665.1	GCA_001457555.1	Fusobacterium polymorphum	0.023138	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031685.1	GCA_001457555.1	Fusobacterium polymorphum	0.033606	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031705.1	GCA_001457555.1	Fusobacterium polymorphum	0.023212	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031725.1	GCA_001457555.1	Fusobacterium polymorphum	0.033032	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031745.1	GCA_001457555.1	Fusobacterium polymorphum	0.022485	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031765.1	GCA_001457555.1	Fusobacterium polymorphum	0.029679	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031785.1	GCA_001457555.1	Fusobacterium polymorphum	0.025161	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031805.1	GCA_001457555.1	Fusobacterium polymorphum	0.026035	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031825.1	GCA_001457555.1	Fusobacterium polymorphum	0.023227	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031845.1	GCA_001457555.1	Fusobacterium polymorphum	0.028369	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031865.1	GCA_001457555.1	Fusobacterium polymorphum	0.026218	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031885.1	GCA_001457555.1	Fusobacterium polymorphum	0.023227	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031905.1	GCA_035320945.1	Fusobacterium polymorphum	0.026185	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031925.1	GCA_001457555.1	Fusobacterium polymorphum	0.025354	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037031945.1	GCA_035320945.1	Fusobacterium polymorphum	0.026210	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032145.1	GCA_001457555.1	Fusobacterium polymorphum	0.031074	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032165.1	GCA_001457555.1	Fusobacterium polymorphum	0.032670	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032185.1	GCA_001457555.1	Fusobacterium polymorphum	0.027530	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032205.1	GCA_001457555.1	Fusobacterium polymorphum	0.027372	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032225.1	GCA_001457555.1	Fusobacterium polymorphum	0.029556	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032245.1	GCA_001457555.1	Fusobacterium polymorphum	0.033032	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032265.1	GCA_001457555.1	Fusobacterium polymorphum	0.023197	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032275.1	GCA_001457555.1	Fusobacterium polymorphum	0.024810	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032305.1	GCA_001457555.1	Fusobacterium polymorphum	0.029329	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032325.1	GCA_001457555.1	Fusobacterium polymorphum	0.025346	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032345.1	GCA_001457555.1	Fusobacterium polymorphum	0.028379	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032365.1	GCA_001457555.1	Fusobacterium polymorphum	0.027242	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032385.1	GCA_001457555.1	Fusobacterium polymorphum	0.025395	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032405.1	GCA_001457555.1	Fusobacterium polymorphum	0.026361	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032425.1	GCA_001457555.1	Fusobacterium polymorphum	0.026319	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032445.1	GCA_001457555.1	Fusobacterium polymorphum	0.023227	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032465.1	GCA_001457555.1	Fusobacterium polymorphum	0.028388	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032485.1	GCA_001457555.1	Fusobacterium polymorphum	0.026310	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032505.1	GCA_001457555.1	Fusobacterium polymorphum	0.025411	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032525.1	GCA_001457555.1	Fusobacterium polymorphum	0.026210	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032545.1	GCA_001457555.1	Fusobacterium polymorphum	0.030845	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037032565.1	GCA_001457555.1	Fusobacterium polymorphum	0.027636	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037577715.1	GCA_049381025.1	Fusobacterium watanabei	0.010373	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037577975.1	GCA_008801775.1	Fusobacterium necrophorum	0.015460	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_037578495.1	GCA_003019675.1	Fusobacterium ulcerans	0.016839	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_037888955.1	GCA_056823795.1	Fusobacterium animalis	0.030855	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037888965.1	GCA_001457555.1	Fusobacterium polymorphum	0.029423	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037888975.1	GCA_056823795.1	Fusobacterium animalis	0.030598	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037888985.1	GCA_001457555.1	Fusobacterium polymorphum	0.026939	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037888995.1	GCA_056823795.1	Fusobacterium animalis	0.031835	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037889005.1	GCA_031191795.1	Fusobacterium nucleatum	0.009186	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum	Fusobacterium nucleatum	1
+GCF_037889015.1	GCA_056823795.1	Fusobacterium animalis	0.031175	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037889025.1	GCA_001457555.1	Fusobacterium polymorphum	0.026118	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037889035.1	GCA_056823795.1	Fusobacterium animalis	0.030726	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037889045.1	GCA_056823795.1	Fusobacterium animalis	0.032145	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037889055.1	GCA_031191795.1	Fusobacterium nucleatum	0.011145	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889065.1	GCA_049381025.1	Fusobacterium watanabei	0.012583	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889075.1	GCA_016724785.1	Fusobacterium canifelinum	0.031447	Fusobacterium canifelinum	Fusobacterium canifelinum	Fusobacterium canifelinum	1
+GCF_037889085.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.033453	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_037889095.1	GCA_049381025.1	Fusobacterium watanabei	0.012668	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889105.1	GCA_049381025.1	Fusobacterium watanabei	0.011897	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889115.1	GCA_049381025.1	Fusobacterium watanabei	0.012108	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889125.1	GCA_031191795.1	Fusobacterium nucleatum	0.009282	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889135.1	GCA_049381025.1	Fusobacterium watanabei	0.010861	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889145.1	GCA_049381025.1	Fusobacterium watanabei	0.010680	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889155.1	GCA_049381025.1	Fusobacterium watanabei	0.011264	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889165.1	GCA_049381025.1	Fusobacterium watanabei	0.011906	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889175.1	GCA_031191795.1	Fusobacterium nucleatum	0.009979	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889185.1	GCA_049381025.1	Fusobacterium watanabei	0.011478	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889195.1	GCA_049381025.1	Fusobacterium watanabei	0.011172	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889205.1	GCA_049381025.1	Fusobacterium watanabei	0.012701	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889215.1	GCA_049381025.1	Fusobacterium watanabei	0.011698	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889225.1	GCA_049381025.1	Fusobacterium watanabei	0.012358	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889235.1	GCA_031191795.1	Fusobacterium nucleatum	0.010901	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889245.1	GCA_049381025.1	Fusobacterium watanabei	0.011938	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889255.1	GCA_055694045.1	Fusobacterium abscessus	0.019391	Fusobacterium abscessus	Fusobacterium nucleatum	Fusobacterium nucleatum	0
+GCF_037889265.1	GCA_049381025.1	Fusobacterium watanabei	0.008289	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889275.1	GCA_056823795.1	Fusobacterium animalis	0.033356	Fusobacterium animalis	Fusobacterium nucleatum	Fusobacterium animalis	1
+GCF_037889285.1	GCA_031191795.1	Fusobacterium nucleatum	0.010896	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889295.1	GCA_008801775.1	Fusobacterium necrophorum	0.016053	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_037889305.1	GCA_900637705.1	Fusobacterium varium	0.011916	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_037889315.1	GCA_055694045.1	Fusobacterium abscessus	0.019442	Fusobacterium abscessus	Fusobacterium nucleatum	Fusobacterium nucleatum	0
+GCF_037889325.1	GCA_031191795.1	Fusobacterium nucleatum	0.011036	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889335.1	GCA_049381025.1	Fusobacterium watanabei	0.009695	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889345.1	GCA_049381025.1	Fusobacterium watanabei	0.010577	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889355.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.026235	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_037889365.1	GCA_049381025.1	Fusobacterium watanabei	0.010996	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037889375.1	GCA_031191795.1	Fusobacterium nucleatum	0.011084	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037889385.1	GCA_055694045.1	Fusobacterium abscessus	0.019544	Fusobacterium abscessus	Fusobacterium nucleatum	Fusobacterium nucleatum	0
+GCF_037890135.1	GCA_055694045.1	Fusobacterium abscessus	0.018564	Fusobacterium abscessus	Fusobacterium nucleatum	Fusobacterium nucleatum	0
+GCF_037893335.1	GCA_056823795.1	Fusobacterium animalis	0.032979	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037893545.1	GCA_900450795.1	Fusobacterium vincentii	0.019352	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037893695.1	GCA_001457555.1	Fusobacterium polymorphum	0.025492	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037893865.1	GCA_001457555.1	Fusobacterium polymorphum	0.023723	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037895375.1	GCA_900450795.1	Fusobacterium vincentii	0.015883	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037897415.1	GCA_056823795.1	Fusobacterium animalis	0.031518	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897425.1	GCA_056823795.1	Fusobacterium animalis	0.031467	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897485.1	GCA_056823795.1	Fusobacterium animalis	0.033421	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897495.1	GCA_001457555.1	Fusobacterium polymorphum	0.027008	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037897505.1	GCA_056823795.1	Fusobacterium animalis	0.032281	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897515.1	GCA_056823795.1	Fusobacterium animalis	0.030520	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897535.1	GCA_056823795.1	Fusobacterium animalis	0.032575	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897545.1	GCA_056823795.1	Fusobacterium animalis	0.027715	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037897555.1	GCA_001457555.1	Fusobacterium polymorphum	0.027938	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037897565.1	GCA_001457555.1	Fusobacterium polymorphum	0.034721	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037897635.1	GCA_001457555.1	Fusobacterium polymorphum	0.028162	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037897925.1	GCA_001457555.1	Fusobacterium polymorphum	0.029784	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037898185.1	GCA_001457555.1	Fusobacterium polymorphum	0.036382	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037900345.1	GCA_037900345.1	Fusobacterium nucleatum	0.000000	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Fusobacterium nucleatum	1
+GCF_037900625.1	GCA_037900625.1	Fusobacterium polymorphum	0.000000	Fusobacterium polymorphum	Fusobacterium polymorphum ATCC 10953	Fusobacterium polymorphum	1
+GCF_037901015.1	GCA_000158315.2	Fusobacterium ulcerans	0.076993		Fusobacterium varium	Fusobacterium heteroulcerans	
+GCF_037904495.1	GCA_001457555.1	Fusobacterium polymorphum	0.035365	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037904575.1	GCA_056823795.1	Fusobacterium animalis	0.026956	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037904585.1	GCA_900450795.1	Fusobacterium vincentii	0.019821	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037904595.1	GCA_056823795.1	Fusobacterium animalis	0.031457	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037904605.1	GCA_001457555.1	Fusobacterium polymorphum	0.037249	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037904615.1	GCA_000279975.1	Fusobacterium vincentii	0.017677	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037904725.1	GCA_056823795.1	Fusobacterium animalis	0.030569	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037904935.1	GCA_001457555.1	Fusobacterium polymorphum	0.034551	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037905245.1	GCA_056823795.1	Fusobacterium animalis	0.031185	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037905975.1	GCA_001457555.1	Fusobacterium polymorphum	0.027346	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037906325.1	GCA_001457555.1	Fusobacterium polymorphum	0.033291	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037906355.1	GCA_056823795.1	Fusobacterium animalis	0.030955	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037906365.1	GCA_001457555.1	Fusobacterium polymorphum	0.026035	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037906395.1	GCA_056823795.1	Fusobacterium animalis	0.032281	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037906465.1	GCA_056823795.1	Fusobacterium animalis	0.030490	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037907055.1	GCA_056823795.1	Fusobacterium animalis	0.032797	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037908355.1	GCA_056823795.1	Fusobacterium animalis	0.032818	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037909675.1	GCA_056823795.1	Fusobacterium animalis	0.030885	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911025.1	GCA_056823795.1	Fusobacterium animalis	0.030441	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911815.1	GCA_056823795.1	Fusobacterium animalis	0.031549	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911825.1	GCA_900450795.1	Fusobacterium vincentii	0.018980	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037911835.1	GCA_900450795.1	Fusobacterium vincentii	0.018570	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037911845.1	GCA_056823795.1	Fusobacterium animalis	0.030285	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911855.1	GCA_056823795.1	Fusobacterium animalis	0.031477	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911865.1	GCA_900450795.1	Fusobacterium vincentii	0.017999	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_037911875.1	GCA_056823795.1	Fusobacterium animalis	0.030915	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911885.1	GCA_056823795.1	Fusobacterium animalis	0.031064	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911895.1	GCA_001457555.1	Fusobacterium polymorphum	0.027329	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037911905.1	GCA_056823795.1	Fusobacterium animalis	0.026768	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911915.1	GCA_056823795.1	Fusobacterium animalis	0.027190	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911925.1	GCA_056823795.1	Fusobacterium animalis	0.031549	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911935.1	GCA_056823795.1	Fusobacterium animalis	0.025968	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911945.1	GCA_056823795.1	Fusobacterium animalis	0.030178	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911955.1	GCA_056823795.1	Fusobacterium animalis	0.030363	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911965.1	GCA_001457555.1	Fusobacterium polymorphum	0.034778	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037911975.1	GCA_056823795.1	Fusobacterium animalis	0.030905	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037911985.1	GCA_001457555.1	Fusobacterium polymorphum	0.034281	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037911995.1	GCA_001457555.1	Fusobacterium polymorphum	0.034540	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037912005.1	GCA_001457555.1	Fusobacterium polymorphum	0.028901	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037912015.1	GCA_001457555.1	Fusobacterium polymorphum	0.034597	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_037912025.1	GCA_056823795.1	Fusobacterium animalis	0.031396	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037912275.1	GCA_056823795.1	Fusobacterium animalis	0.029632	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_037951365.1	GCA_031191795.1	Fusobacterium nucleatum	0.009748	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037952305.1	GCA_031191795.1	Fusobacterium nucleatum	0.008877	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037953125.1	GCA_031191795.1	Fusobacterium nucleatum	0.009499	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037953465.1	GCA_000158315.2	Fusobacterium ulcerans	0.075466		Fusobacterium varium	Fusobacterium heteroulcerans	
+GCF_037953935.1	GCA_049381025.1	Fusobacterium watanabei	0.009687	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037954595.1	GCA_049381025.1	Fusobacterium watanabei	0.012465	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037954885.1	GCA_049381025.1	Fusobacterium watanabei	0.011662	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037955165.1	GCA_049381025.1	Fusobacterium watanabei	0.012767	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_037955445.1	GCA_031191795.1	Fusobacterium nucleatum	0.008335	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_037955985.1	GCA_008801775.1	Fusobacterium necrophorum	0.015746	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_037956035.1	GCA_000158315.2	Fusobacterium ulcerans	0.076993		Fusobacterium ulcerans	Fusobacterium heteroulcerans	
+GCF_037975335.1	GCA_049381025.1	Fusobacterium watanabei	0.013267	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_040097185.1	GCA_900637705.1	Fusobacterium varium	0.011911	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_040199715.1	GCA_900450765.1	Fusobacterium necrogenes	0.170926		Fusobacterium sp. SYSU M8D902	Fusobacterium sp. SYSU M8D902	
+GCF_041027385.1	GCA_056823795.1	Fusobacterium animalis	0.031569	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041027405.1	GCA_056823795.1	Fusobacterium animalis	0.030925	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041027465.1	GCA_056823795.1	Fusobacterium animalis	0.032882	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041027495.1	GCA_900450795.1	Fusobacterium vincentii	0.019074	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_041027535.1	GCA_056823795.1	Fusobacterium animalis	0.030925	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041433815.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.043360		Fusobacterium periodonticum	Fusobacterium pseudoperiodonticum	
+GCF_041520925.1	GCA_056823795.1	Fusobacterium animalis	0.036806	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041520955.1	GCA_056823795.1	Fusobacterium animalis	0.032041	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041521005.1	GCA_056823795.1	Fusobacterium animalis	0.031124	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_041537885.1	GCA_031191795.1	Fusobacterium nucleatum	0.011242	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_042851185.1	GCA_003019675.1	Fusobacterium ulcerans	0.015166	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_043420975.1	GCA_900450795.1	Fusobacterium vincentii	0.002541	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_043421055.1	GCA_056823795.1	Fusobacterium animalis	0.033760	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_044987705.1	GCA_000622245.1	Fusobacterium perfoetens	0.228939		Fusobacterium sp. MFO224	Fusobacterium sp. MFO224	
+GCF_045159905.1	GCA_056823795.1	Fusobacterium animalis	0.033312	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_045159915.1	GCA_056823795.1	Fusobacterium animalis	0.030490	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_045159925.1	GCA_900450795.1	Fusobacterium vincentii	0.018011	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_045159935.1	GCA_056823795.1	Fusobacterium animalis	0.032543	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_045159945.1	GCA_056823795.1	Fusobacterium animalis	0.032522	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_045159955.1	GCA_056823795.1	Fusobacterium animalis	0.030569	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_045159965.1	GCA_000279975.1	Fusobacterium vincentii	0.018905	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_045159975.1	GCA_001457555.1	Fusobacterium polymorphum	0.027884	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_045159985.1	GCA_056823795.1	Fusobacterium animalis	0.030955	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_045159995.1	GCA_001457555.1	Fusobacterium polymorphum	0.027583	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_048313075.1	GCA_031191795.1	Fusobacterium nucleatum	0.010706	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_048313085.1	GCA_056823795.1	Fusobacterium animalis	0.032072	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_048313155.1	GCA_001457555.1	Fusobacterium polymorphum	0.027751	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_049380805.1	GCA_049381025.1	Fusobacterium watanabei	0.010905	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049380825.1	GCA_049381025.1	Fusobacterium watanabei	0.010896	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049380885.1	GCA_049381025.1	Fusobacterium watanabei	0.010861	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049380895.1	GCA_049381025.1	Fusobacterium watanabei	0.010758	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049380945.1	GCA_049381025.1	Fusobacterium watanabei	0.010209	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049380985.1	GCA_049381025.1	Fusobacterium watanabei	0.010901	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049381025.1	GCA_049381025.1	Fusobacterium watanabei	0.000000	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_049381045.1	GCA_049381025.1	Fusobacterium watanabei	0.006614	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_050219445.1	GCA_000622245.1	Fusobacterium perfoetens	0.226680		Fusobacterium sp. SB021	Fusobacterium sp. SB021	
+GCF_050219895.1	GCA_056823795.1	Fusobacterium animalis	0.032166	Fusobacterium animalis	Fusobacterium animalis	Fusobacterium animalis	1
+GCF_050231725.1	GCA_049381025.1	Fusobacterium watanabei	0.086053		Fusobacterium nucleatum	Fusobacterium sp. SB042	
+GCF_050232215.1	GCA_001457555.1	Fusobacterium polymorphum	0.035681	Fusobacterium polymorphum	Fusobacterium polymorphum	Fusobacterium polymorphum	1
+GCF_050232305.1	GCA_900450795.1	Fusobacterium vincentii	0.017981	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_050232845.1	GCA_900450795.1	Fusobacterium vincentii	0.019815	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_050233295.1	GCA_031191795.1	Fusobacterium nucleatum	0.009278	Fusobacterium nucleatum	Fusobacterium nucleatum	Fusobacterium nucleatum	1
+GCF_050233405.1	GCA_900450795.1	Fusobacterium vincentii	0.019821	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_050233865.1	GCA_000279975.1	Fusobacterium vincentii	0.017623	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_050233995.1	GCA_031191795.1	Fusobacterium nucleatum	0.011893	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 23726	Fusobacterium nucleatum	1
+GCF_050433865.1	GCA_000279975.1	Fusobacterium vincentii	0.273629		Fusobacterium sp. PH5-29	Fusobacterium sp. PH5-29	
+GCF_050434145.1	GCA_000279975.1	Fusobacterium vincentii	0.273629		Fusobacterium sp. PH5-44	Fusobacterium sp. PH5-29	
+GCF_050920715.1	GCA_050920715.1	Fusobacterium nucleatum	0.000000	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Fusobacterium nucleatum	1
+GCF_050920725.1	GCA_050920725.1	Fusobacterium polymorphum	0.000000	Fusobacterium polymorphum	Fusobacterium polymorphum ATCC 10953	Fusobacterium polymorphum	1
+GCF_900015295.1	GCA_014337255.1	Fusobacterium hominis	0.006486	Fusobacterium hominis	Fusobacterium sp.	Fusobacterium hominis	1
+GCF_900095705.1	GCA_900095705.1	Fusobacterium massiliense	0.000000	Fusobacterium massiliense	Fusobacterium massiliense	Fusobacterium massiliense	1
+GCF_900104395.1	GCA_900104395.1	Fusobacterium necrophorum	0.000000	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_900450765.1	GCA_900450765.1	Fusobacterium necrogenes	0.000000	Fusobacterium necrogenes	Fusobacterium necrogenes	Fusobacterium necrogenes	1
+GCF_900450795.1	GCA_900450795.1	Fusobacterium vincentii	0.000000	Fusobacterium vincentii	Fusobacterium vincentii	Fusobacterium vincentii	1
+GCF_900478315.1	GCA_003019675.1	Fusobacterium ulcerans	0.000048	Fusobacterium ulcerans	Fusobacterium ulcerans	Fusobacterium ulcerans	1
+GCF_900683735.1	GCA_000158315.2	Fusobacterium ulcerans	0.078582		Fusobacterium ulcerans ATCC 49185	Fusobacterium heteroulcerans	
+GCF_901873395.1	GCA_002761955.1	Fusobacterium pseudoperiodonticum	0.042378	Fusobacterium pseudoperiodonticum	Fusobacterium periodonticum	Fusobacterium pseudoperiodonticum	1
+GCF_901873415.1	GCA_000279975.1	Fusobacterium vincentii	0.020566	Fusobacterium vincentii	Fusobacterium nucleatum	Fusobacterium vincentii	1
+GCF_902381645.1	GCA_900450795.1	Fusobacterium vincentii	0.020653	Fusobacterium vincentii	Fusobacterium nucleatum	Fusobacterium vincentii	1
+GCF_902386295.1	GCA_008801775.1	Fusobacterium necrophorum	0.015730	Fusobacterium necrophorum	Fusobacterium necrophorum	Fusobacterium necrophorum	1
+GCF_902387585.1	GCA_900637705.1	Fusobacterium varium	0.000589	Fusobacterium varium	Fusobacterium varium	Fusobacterium varium	1
+GCF_902387645.1	GCA_900450765.1	Fusobacterium necrogenes	0.090492		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_903181465.1	GCA_900450765.1	Fusobacterium necrogenes	0.090112		Fusobacterium mortiferum	Fusobacterium mortiferum	
+GCF_964212675.1	GCA_008801775.1	Fusobacterium necrophorum	0.018258	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212685.1	GCA_008801775.1	Fusobacterium necrophorum	0.016037	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212695.1	GCA_008801775.1	Fusobacterium necrophorum	0.015134	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212705.1	GCA_008801775.1	Fusobacterium necrophorum	0.015686	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212715.1	GCA_008801775.1	Fusobacterium necrophorum	0.004317	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212725.1	GCA_008801775.1	Fusobacterium necrophorum	0.004185	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212735.1	GCA_008801775.1	Fusobacterium necrophorum	0.014165	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212745.1	GCA_008801775.1	Fusobacterium necrophorum	0.015283	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212755.1	GCA_008801775.1	Fusobacterium necrophorum	0.014704	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212765.1	GCA_008801775.1	Fusobacterium necrophorum	0.016004	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212775.1	GCA_008801775.1	Fusobacterium necrophorum	0.016342	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212785.1	GCA_008801775.1	Fusobacterium necrophorum	0.014699	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212795.1	GCA_008801775.1	Fusobacterium necrophorum	0.003478	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212805.1	GCA_008801775.1	Fusobacterium necrophorum	0.006007	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212815.1	GCA_008801775.1	Fusobacterium necrophorum	0.016908	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212825.1	GCA_008801775.1	Fusobacterium necrophorum	0.016059	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212835.1	GCA_008801775.1	Fusobacterium necrophorum	0.015960	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212845.1	GCA_008801775.1	Fusobacterium necrophorum	0.015883	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212855.1	GCA_008801775.1	Fusobacterium necrophorum	0.015460	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212865.1	GCA_008801775.1	Fusobacterium necrophorum	0.003425	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212875.1	GCA_008801775.1	Fusobacterium necrophorum	0.004209	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212885.1	GCA_008801775.1	Fusobacterium necrophorum	0.015752	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212895.1	GCA_008801775.1	Fusobacterium necrophorum	0.016241	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212905.1	GCA_008801775.1	Fusobacterium necrophorum	0.015411	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964212915.1	GCA_008801775.1	Fusobacterium necrophorum	0.010475	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964238755.1	GCA_056823795.1	Fusobacterium animalis	0.032872	Fusobacterium animalis	Fusobacterium animalis 21_1A	Fusobacterium animalis	1
+GCF_964238805.1	GCA_900637705.1	Fusobacterium varium	0.090329		Fusobacterium varium	Fusobacterium sp. CC00717	
+GCF_964238915.1	GCA_049381025.1	Fusobacterium watanabei	0.012260	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_964239035.1	GCA_049381025.1	Fusobacterium watanabei	0.012270	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_964241265.1	GCA_900450765.1	Fusobacterium necrogenes	0.088888		Fusobacterium mortiferum ATCC 9817	Fusobacterium mortiferum	
+GCF_964241285.1	GCA_900450765.1	Fusobacterium necrogenes	0.088941		Fusobacterium mortiferum ATCC 9817	Fusobacterium mortiferum	
+GCF_964241755.1	GCA_049381025.1	Fusobacterium watanabei	0.011304	Fusobacterium watanabei	Fusobacterium nucleatum	Fusobacterium watanabei	1
+GCF_964250655.1	GCA_900450765.1	Fusobacterium necrogenes	0.088264		Fusobacterium mortiferum ATCC 9817	Fusobacterium mortiferum	
+GCF_964259905.1	GCA_900637705.1	Fusobacterium varium	0.090329		Fusobacterium varium	Fusobacterium sp. CC00717	
+GCF_964277055.1	GCA_008801775.1	Fusobacterium necrophorum	0.004721	Fusobacterium necrophorum	Fusobacterium necrophorum subsp. funduliforme	Fusobacterium necrophorum	1
+GCF_964642115.1	GCA_964642115.1	Fusobacterium nucleatum	0.000000	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Fusobacterium nucleatum	1
+GCF_965119615.1	GCA_049381025.1	Fusobacterium watanabei	0.000057	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217465.1	GCA_049381025.1	Fusobacterium watanabei	0.010901	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217475.1	GCA_049381025.1	Fusobacterium watanabei	0.010905	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217485.1	GCA_049381025.1	Fusobacterium watanabei	0.010758	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217495.1	GCA_049381025.1	Fusobacterium watanabei	0.010209	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217505.1	GCA_049381025.1	Fusobacterium watanabei	0.010896	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217515.1	GCA_049381025.1	Fusobacterium watanabei	0.010861	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217525.1	GCA_049381025.1	Fusobacterium watanabei	0.006614	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1
+GCF_965217535.1	GCA_049381025.1	Fusobacterium watanabei	0.000000	Fusobacterium watanabei	Fusobacterium watanabei	Fusobacterium watanabei	1

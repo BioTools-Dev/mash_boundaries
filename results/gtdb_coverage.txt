@@ -1,0 +1,10 @@
+GTDB v232: 901341 genomes in the taxonomy tables
+
+lookup: 516 by GenBank accession, 28357 by RefSeq accession, 1336 not in GTDB
+coverage: 95.58 % of 30209 assemblies
+
+among the 28873 matched:
+  genus name differs from NCBI:     5610  (19.43 %)
+  species name differs from NCBI:   7202  (24.94 %)
+
+wrote data/gtdb_labels.tsv

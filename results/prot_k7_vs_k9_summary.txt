@@ -1,0 +1,16 @@
+proteomas k=7 frente a proteomas k=9 frente a ANI por alineamiento, a igual cobertura, escenario novel_species
+
+llamadas   proteomas k=7                 proteomas k=9                 ANI por alineamiento        
+4000       corte  0.050    3618   94.80%  corte  0.045    3771   94.94%  corte 94.500    3823   94.30%
+8000       corte  0.075    7850   95.59%  corte  0.070    8354   95.50%  corte 91.500    8051   95.53%
+12000      corte  0.100   11884   95.98%  corte  0.090   11768   95.93%  corte 88.500   11993   95.68%
+15000      corte  0.120   14718   96.03%  corte  0.110   14965   95.92%  corte 86.000   15102   95.77%
+18500      corte  0.150   18427   95.74%  corte  0.135   18345   95.73%  corte 82.500   18539   95.61%
+21000      corte  0.175   20996   95.60%  corte  0.160   21115   95.43%    — (el eje se acaba)       
+23500      corte  0.205   23487   94.81%  corte  0.185   23403   94.73%    — (el eje se acaba)       
+26500      corte  0.255   26602   92.77%  corte  0.230   26570   92.79%    — (el eje se acaba)       
+29000      corte  0.345   29025   89.07%  corte  0.310   28986   89.12%    — (el eje se acaba)       
+
+proteomas k=7          alcance máximo: 29743 llamadas, 87.17 % de precisión
+proteomas k=9          alcance máximo: 29644 llamadas, 87.40 % de precisión
+ANI por alineamiento   alcance máximo: 18611 llamadas, 95.62 % de precisión

@@ -1,0 +1,25 @@
+stratum          genomes species genera          pairs same strain    same sp.   congeneric inter-gen.
+------------------------------------------------------------------------------------------------------
+all prokaryotes    30209   21639   4204      456276736        1745       14795      1784904  454475292
+                   base rate inter-genus : congeneric = 255 : 1
+bacteria           29195   20858   4013      426159415        1691       14521      1777246  424365957
+                   base rate inter-genus : congeneric = 239 : 1
+bacteria, gold     20670   14930   3212      213614115        1169        9810      1244931  212358205
+                   base rate inter-genus : congeneric = 171 : 1
+archaea             1014     781    191         513591          54         274         7658     505605
+                   base rate inter-genus : congeneric = 66 : 1
+archaea, gold        675     536    150         227475          27         173         3779     223496
+                   base rate inter-genus : congeneric = 59 : 1
+
+bacterial genera: 4013 (2024 with >= 2 species)
+congeneric species-pairs contributed by the 10 largest genera: 70.4 %
+  Streptomyces       775 species    299925 pairs  (37.5 %)
+  Pseudomonas        379 species     71631 pairs  ( 9.0 %)
+  Flavobacterium     322 species     51681 pairs  ( 6.5 %)
+  Paenibacillus      312 species     48516 pairs  ( 6.1 %)
+  Sphingomonas       183 species     16653 pairs  ( 2.1 %)
+  Vibrio             181 species     16290 pairs  ( 2.0 %)
+  Microbacterium     181 species     16290 pairs  ( 2.0 %)
+  Corynebacterium    180 species     16110 pairs  ( 2.0 %)
+  Nocardioides       168 species     14028 pairs  ( 1.8 %)
+  Clostridium        154 species     11781 pairs  ( 1.5 %)

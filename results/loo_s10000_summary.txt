@@ -1,0 +1,9 @@
+genomes with at least one neighbour: 30209
+
+scenario           usable   no nbr   [0.00,0.05)         [0.05,0.08)         [0.08,0.12)         [0.12,0.20)         [0.20,1.00)       
+as_reported         30209        0     15622   99.21%       2269   96.74%       3047   95.08%       5860   84.44%       3411   50.10%  
+no_self_strain      30209        0     14729   99.12%       2439   96.88%       3187   95.17%       6257   84.77%       3597   50.71%  
+novel_species       29949      260      3893   94.89%       4651   96.99%       5883   95.72%      10418   85.88%       5104   53.66%  
+
+Each cell is: queries whose nearest usable neighbour falls in that
+distance band, and the percentage of those whose neighbour is the same genus.

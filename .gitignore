@@ -1,0 +1,35 @@
+# Local machine configuration. What is shared is config.sh.example.
+config.sh
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Editor and office lock files
+.~lock.*#
+
+# Large regenerable products. Each is rebuilt by the numbered script that made it,
+# from the manifests that are versioned, and none is an input to anything else:
+#   sketch/         Mash sketches           -> scripts/05_build_sketches.sh
+#   dist/           pairwise distances      -> scripts/08_allvsall.sh
+#   proteome/       RefSeq proteomes        -> scripts/19_fetch_proteomes.sh
+#   bins/           simulated bins          -> scripts/23_make_bins.py
+#   fusobacterium/  the test case's genomes -> scripts/27_fuso_supplementary.py onward
+sketch/
+dist/
+proteome/
+bins/
+fusobacterium/
+logs/
+results/aai_work/
+results/pocp*_work/
+
+# Anything genuinely large that slips into a tracked tree
+data/*.msh
+results/**/*.tsv.gz
+*.zip
+
+# The .docx is derived: regenerate it with scripts/25_manuscript_docx.sh. The master
+# is the Markdown, which versions cleanly and is what the figures are checked against.
+manuscript/*.docx

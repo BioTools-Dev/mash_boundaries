@@ -1,0 +1,44 @@
+conflicts below distance 0.05: 202 queries
+
+genus A                    genus B                     cases  min dist
+Escherichia                Shigella                       10    0.0163
+Kitasatospora              Streptomyces                    6    0.0071
+Mycobacterium              Mycolicibacterium               6    0.0314
+Macrococcoides             Macrococcus                     6    0.0387
+Azorhizophilus             Azotobacter                     6    0.0436
+Faucicola                  Moraxella                       6    0.0484
+Duganella                  Pseudoduganella                 5    0.0447
+Mycobacterium              Mycolicibacter                  4    0.0076
+Hallella                   Prevotella                      4    0.0133
+Allomuricauda              Flagellimonas                   4    0.0258
+Ectopseudomonas            Pseudomonas                     4    0.0286
+Pseudomonas                Stutzerimonas                   4    0.0352
+Ruminococcoides            Ruminococcus                    4    0.0395
+Aliarcobacter              Arcobacter                      4    0.0484
+Dysosmobacter              Oscillibacter                   3    0.0080
+Bombella                   Parasaccharibacter              3    0.0082
+Bacteroides                Lachnospira                     3    0.0114
+Alkalicoccus               Bacillus                        3    0.0118
+Halopseudomonas            Pseudomonas                     3    0.0135
+Lysobacter                 Novilysobacter                  3    0.0168
+
+closest individual conflicts:
+
+dist      query                              nearest neighbour                 
+0.00000   Noviluteimonas caseinilytica       Lysobacter helvus                 
+0.00000   Lysobacter helvus                  Noviluteimonas caseinilytica      
+0.00043   Roseburia difficilis               Anaerosacchariphilus hominis      
+0.00043   Anaerosacchariphilus hominis       Roseburia difficilis              
+0.00176   Tenebrionibacter intestinalis      Tenebrionicola larvae             
+0.00176   Tenebrionicola larvae              Tenebrionibacter intestinalis     
+0.00179   Mesorhizobium hungaricum           Terribium terrae                  
+0.00179   Terribium terrae                   Mesorhizobium hungaricum          
+0.00222   Mediterraneibacter massiliensis    Faecalicatena acetigenes          
+0.00222   Faecalicatena acetigenes           Mediterraneibacter massiliensis   
+0.00430   Mycovorax composti                 Niabella digestorum               
+0.00430   Niabella digestorum                Mycovorax composti                
+0.00611   Aminithiophilus ramosus            Aminirod propionatiphilus         
+0.00611   Aminirod propionatiphilus          Aminithiophilus ramosus           
+0.00677   Chimaeribacter arupi               Nissabacter archeti               
+
+wrote results/conflicts_s1000_{pairs,genera,worst}.tsv

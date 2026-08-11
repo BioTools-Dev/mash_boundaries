@@ -1,0 +1,11 @@
+relabelled with gtdb_keys.tsv: 24765 neighbours dropped for want of a label
+
+genomes with at least one neighbour: 28873
+
+scenario           usable   no nbr   [0.00,0.05)         [0.05,0.08)         [0.08,0.12)         [0.12,0.20)         [0.20,1.00)       
+as_reported         28873        0     14494   99.94%       2234   99.91%       2969   99.87%       5779   88.67%       3397   49.87%  
+no_self_strain      28873        0     13638   99.94%       2400   99.92%       3094   99.87%       6164   88.85%       3577   50.27%  
+novel_species       28502      371      2218   98.92%       4952   99.96%       5976   99.78%      10307   88.92%       5049   52.23%  
+
+Each cell is: queries whose nearest usable neighbour falls in that
+distance band, and the percentage of those whose neighbour is the same genus.

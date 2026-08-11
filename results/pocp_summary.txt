@@ -1,0 +1,38 @@
+POCP over the subset of results/aai_subset.txt
+  genomes 60, pairs 1770, proteins 246980
+  diamond ultra-sensitive, id >= 40 %, query cover >= 50 %, E < 1e-5
+  Mash k = 21, s = 10000: 728 pairs measured, 1042 with no shared hash and therefore left without a distance
+
+class           pairs      min   median      max
+congeneric         72    48.50    71.39    84.13
+inter_genus      1698     5.15    10.38    54.25
+
+separation at the 50 % criterion:
+  same-genus pairs below it : 1 of 72
+  inter-genus pairs above it: 4 of 1698
+  lowest same-genus POCP 48.50, highest inter-genus POCP 54.25
+
+where the 50 % POCP criterion falls in Mash distance (728 pairs):
+  every pair is above it up to d = 0.2655
+  no pair is above it from  d = 0.3290
+  pairs within 5 points of it: 43, Mash distance 0.1939 - 0.3533 (median 0.3066)
+
+where the 65 % AAI criterion falls in Mash distance (728 pairs):
+  every pair is above it up to d = 0.2438
+  no pair is above it from  d = 0.3010
+  pairs within 2 points of it: 8, Mash distance 0.2488 - 0.2960 (median 0.2767)
+
+over the 728 pairs below the measurable ceiling (0.4056 at s = 10000):
+  POCP against Mash distance   r = -0.926
+  POCP against AAI             r = +0.982
+
+POCP by Mash distance band:
+band              pairs      min   median      max
+0.06 - 0.08           1    81.41    81.41    81.41
+0.08 - 0.10           3    78.23    81.50    84.13
+0.10 - 0.13           1    79.06    79.06    79.06
+0.13 - 0.15           2    74.22    77.65    81.07
+0.15 - 0.20          26    54.66    69.48    81.75
+0.20 - 0.25          35    51.23    71.01    81.09
+0.25 - 0.30          23    25.16    46.86    74.84
+0.30 - 1.01         637     5.15    11.88    54.25

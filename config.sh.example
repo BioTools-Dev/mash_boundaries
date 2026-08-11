@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+# Paths and pinned resources for the genomic-boundary study.
+# Every script sources this file; nothing else hard-codes a path.
+
+# --- source data (read-only) -------------------------------------------------
+# Type-material assemblies downloaded with NCBI datasets (see readme in TYPE_DIR).
+export TYPE_DIR=/path/to/type_material          # NCBI datasets --from-type download
+export GENOME_DIR=$TYPE_DIR/Procariontes          # one directory per accession
+export FLAT_DIR=$TYPE_DIR/flat                    # symlinks to every .fna
+export META_JSONL=$TYPE_DIR/all_assembly_data_report.jsonl
+export ARCHAEA_LIST=$TYPE_DIR/Archaea/ncbi_dataset/Archaea.list
+
+# Pre-existing Mash sketches of the same collection (k=21, seed 42), kept for
+# provenance only. The study does not reuse them: they were built by walking the
+# file tree and contain four entries that are not genomes (see §2.2). Every
+# sketch used here is rebuilt from the canonical manifest into $SKETCH.
+export MSH_S1000=$TYPE_DIR/type_30209genomes.msh
+export MSH_S10000=$TYPE_DIR/mash10k.msh
+
+# NCBI taxonomy dump, pinned. Downloaded 2026-07-10; the same dump backs the
+# RaPDTool benchmark, so labels are comparable between the two studies.
+export TAXDUMP=/path/to/taxonkit_dump              # NCBI taxdump (nodes.dmp, names.dmp, …)
+export TAXDUMP_DATE=2026-07-10
+
+# --- work area ---------------------------------------------------------------
+# Everything the study writes goes here; TYPE_DIR stays read-only.
+export WORK=/path/to/work_area                    # needs ~100 GB free
+export DATA=$WORK/data
+export SKETCH=$WORK/sketch
+export DIST=$WORK/dist
+export RESULTS=$WORK/results
+export FIGURES=$WORK/figures
+export LOGS=$WORK/logs
+export FUSO=$WORK/fusobacterium   # el caso de Fusobacterium: genomas, sketches y suplementarios
+export BINS=$WORK/bins            # bins simulados y su sketch (D13)
+export PROTEOME=$WORK/proteome        # proteomas de RefSeq, para el eje de AAI (D7)
+export MANUSCRIPT=$WORK/manuscript     # borrador del artículo y su .docx derivado
+
+# --- tools -------------------------------------------------------------------
+export BIN=/path/to/conda_env/bin                  # mash, skani, taxonkit
+export MASH=$BIN/mash
+export SKANI=$BIN/skani
+export TAXONKIT=$BIN/taxonkit
+export DIAMOND=$BIN/diamond
+export DATASETS=${DATASETS:-$HOME/miniconda3/bin/datasets}
+
+export THREADS=${THREADS:-16}
+
+mkdir -p "$FUSO" "$MANUSCRIPT" "$DATA" "$SKETCH" "$DIST" "$RESULTS" "$FIGURES" "$LOGS" "$PROTEOME" "$BINS"
+
+# Python with matplotlib, for the figure step.
+export PYVIZ=$BIN/python3

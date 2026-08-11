@@ -1,0 +1,15 @@
+scenario no_self_strain, domain Bacteria
+queries with a usable neighbour: 27936
+of those, queries whose species is represented by another strain: 12491
+
+d <=      llamadas   precisión  cobertura  err. género err. otro gén.
+0.0200       11516      99.93%     92.13%            0            8
+0.0300       12017      99.78%     96.00%           18            8
+0.0400       12627      98.31%     99.38%          205            8
+0.0426       12762      97.56%     99.67%          304            8
+0.0450       12915      96.57%     99.85%          435            8
+0.0500       13296      93.86%     99.91%          808            8
+0.0600       14095      88.54%     99.91%         1605           10
+0.0700       14871      83.92%     99.91%         2381           10
+0.0800       15614      79.93%     99.91%         3124           10
+0.1000       17077      73.08%     99.91%         4587           10
