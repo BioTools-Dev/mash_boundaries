@@ -133,7 +133,8 @@ times), assemblies whose NCBI ANI-based taxonomy check did not return OK (609), 
 with CheckM completeness < 90 % or contamination > 5 % (8,440) (Parks et al., 2015), and two
 conditions that turned out to be empty in this collection — no genus in the lineage, and
 disagreement between the lineage and the NCBI species name. 21,345 assemblies (70.7 %) carry
-none of them and form the *gold* stratum used in sensitivity analyses. Assemblies sharing a
+none of them and form the *gold* stratum used in sensitivity analyses. The per-assembly
+label table, with every flag kept as its own column, is Table S8. Assemblies sharing a
 species-level taxid are *not* flagged: 9,673 of them are distinct strains of the same
 species and constitute legitimate conspecific pairs.
 
@@ -374,7 +375,8 @@ tests that prediction.
 
 ### 3.3. The pairwise view: the base rate does not bury the signal
 
-Table 2 gives P(class | d) over all reported pairs, and Figure 1a plots both curves. Despite
+Table 2 gives P(class | d) over all reported pairs, and Figure 1a plots both curves; the
+same counts in bins of 0.005 over the whole measured range are Table S2. Despite
 a base rate of 239:1 against, P(same genus | d) holds at ~98 % up to distance 0.13. The
 reason is measurable: of the 454 million inter-genus pairs, **1,812 fall below
 0.13** — 0.0004 %. The base rate is enormous and the separation is nonetheless clean,
@@ -402,7 +404,7 @@ P(same species | d) falls from 67.1 % in the 0.025–0.030 bin to 40.2 % in the 
 the species crossing at **d ≈ 0.030**; P(same genus | d) falls from 52.1 % to 43.1 % across
 0.205, placing the genus crossing at **d ≈ 0.205**.
 
-Weighting changes this view substantially (Figure 1b). In the 0.15–0.20 band the
+Weighting changes this view substantially (Figure 1b, Table S3). In the 0.15–0.20 band the
 genus-weighted macro estimate is 29.7 % against a micro estimate of 63.8 % — a gap of 34
 points — and in 0.13–0.15 it is 80.7 % against 93.5 %. An unweighted pairwise curve is
 largely the curve of the largest genera, exactly as the sampling argument predicts. The
@@ -427,7 +429,7 @@ advantage is arithmetic, since the archaeal base rate is four times more favoura
 ### 3.4. The leave-one-out view: a plateau, and where the cutoff belongs
 
 In the condition a classifier operates in, the picture is very different from the pairwise
-one, and much more favourable (Table 3, Figure 2). Under `novel_species`, precision forms a
+one, and much more favourable (Table 3, Figure 2; every cutoff of every curve in Table S4). Under `novel_species`, precision forms a
 **plateau of ~96 % between cutoffs 0.07 and 0.13** and only degrades past 0.13. Moving the
 cutoff from one end of that plateau to the other, 0.08 to 0.13, raises the number of genus
 calls by **86 % at no cost in precision**; pushing it on to 0.20 costs 4.2 points at
@@ -637,7 +639,7 @@ why the CheckM gate improves the nearest band in §3.5.
 with them.** Scenario `novel_species`, s = 10,000. The twelve leading pairs, ordered by number
 of conflicting queries and, where those tie, by the closest pair the two genera contain; all 71
 are in `results/conflicts_s10000_genera.tsv` and the 199 individual queries in
-`results/conflicts_s10000_pairs.tsv`.
+`results/conflicts_s10000_pairs.tsv`; the exhaustive catalogue is Table S1.
 
 | Genus A / Genus B | Cases | Min. distance | GTDB verdict | Genus in GTDB |
 |---|---:|---:|---|---|
@@ -673,7 +675,8 @@ of the 0.15–0.20 band, 0.23 % of 0.20–0.25 and essentially nothing beyond (F
 k-mer screen of the tool sits at 80 % identity, so the collapse is the definition boundary
 of the index itself — and it falls exactly where the genus question becomes hard.
 
-Read on the same pairs, the two axes disagree systematically about identity (Figure 4a). The
+Read on the same pairs, the two axes disagree systematically about identity (Figure 4a,
+Table S5). The
 alignment-based value sits below the identity that Mash distance implies, and the gap widens
 with distance: at d = 0.05 the median ANI is 94.15 % rather than 95 %, at d = 0.08 it is
 90.72 % rather than 92 %, at d = 0.13 it is 85.17 % rather than 87 %. Inverted: **the pairs
@@ -692,10 +695,10 @@ distance zero by construction, so the line has no intercept to spend — the cor
 
 > **ANI = 1 − 1.12 d**,  equivalently  **d = 0.89 (1 − ANI)**,  for 0 < d ≤ 0.13.
 
-The coefficient is 1.1228 fitted at s = 10,000 and 1.1337 at s = 1,000, and the single
-rounded form above reproduces every band median at either sketch size to within 0.31 points
+The coefficient is 1.1231 fitted at s = 10,000 and 1.1359 at s = 1,000, and the single
+rounded form above reproduces every band median at either sketch size to within 0.32 points
 (`results/ani_conversion.txt`). Its practical content is that **1 − d overstates identity by
-12 d points**: half a point at the species cutoff, 1.4 points at the genus cutoff, and 0.6
+12 d points**: half a point at the species cutoff, 1.6 points at the genus cutoff, and 0.6
 points at the customary 0.05 — which is the whole distance between claiming 95 % and
 delivering it. Inverted, the corrected conversion puts 95 % ANI at d = 0.0446 and 86 % at
 0.125. The species cutoff proposed here, 0.043, therefore corresponds to 95.2 % identity: it
@@ -810,7 +813,7 @@ divide.
 
 The sketch axis reproduces that index closely: over the 241 pairs that fall inside the 0.50
 window, the correlation between the real AAI and the protein sketch distance is
-**r = −0.977** (Figure 5b), and the 65 % criterion lands at a protein sketch distance of
+**r = −0.977** (Figure 5b, Table S6), and the 65 % criterion lands at a protein sketch distance of
 **≈ 0.35** — the median distance of the three subset pairs in the 65–70 % AAI band, with a
 linear fit over all 241 pairs placing it at 0.34, so the value is bracketed rather than
 pinned. At 0.35 the leave-one-out view gives 88.97 % precision, against ~96 %
@@ -861,7 +864,7 @@ d = 0.261, consistent with the first subset and with the AAI estimate.
 The two subsets therefore answer two different questions and agree. The formal genus boundary
 sits near d ≈ 0.28 on both criteria, which is where §3.4 has already shown the
 nearest-neighbour call long since stopped being reliable; and the window proposed here is far
-inside it, never admitting a pair the formal definition would reject (Figure 5c).
+inside it, never admitting a pair the formal definition would reject (Figure 5c, Table S9).
 
 *Caveats.* The second subset is drawn from congeneric pairs, so its inter-genus column is
 incidental and supports a contrast, not a rate. The sampling takes one pair per genus per band,
@@ -1004,7 +1007,7 @@ inter-species pair at 0.0536, with nothing in between. That gap is wider than th
 cutoff proposed here, so *Fusobacterium* is indeed a genus whose species are more divergent
 than the standard assumes. Yet the cutoff is unaffected by that. Classifying each of their
 genomes against **type strains alone**, with the 0.043 cutoff and no adjustment of any kind,
-reproduces their revision:
+reproduces their revision (the per-genome calls are Table S10):
 
 | | Genomes | Agreement |
 |---|---:|---:|
@@ -1072,7 +1075,7 @@ bin; the one it proposes to tighten breaks first.
 
 What the derivation does not give is the fate of the nearest neighbour, because the
 incompleteness penalty applies to every candidate at once and the ranking may survive intact
-while a fixed cutoff fails. That is what the grid measures (Table 8, Figure 7).
+while a fixed cutoff fails. That is what the grid measures (Table 8, Figure 7; the full grid is Table S7).
 
 **A fixed cutoff does not fail by being wrong. It fails by going silent.** As completeness
 falls from 100 % to 10 %, the precision of the 0.13 cutoff drops by 7 points, from 92.36 % to
