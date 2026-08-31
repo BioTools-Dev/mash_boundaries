@@ -1215,13 +1215,13 @@ that fetches them, so the comparison can be repeated without downloading anythin
 
 ## Supplementary material
 
-Tables S1 to S10 are the exhaustive form of what the manuscript reports in summary. Each is
+The tables below are the exhaustive form of what the manuscript reports in summary. Each is
 what the corresponding figure and table were computed from, so a reader can rebuild any curve
-in the paper without rerunning the comparison. Tables S11 and S12 are two tables of the main
-text, moved here whole. They are collected under the names used here in
-`supplementary/` of the repository, and the file each was assembled from is named alongside,
-which is where the pipeline writes it. A table backed by several files is provided both as a
-directory of those files and as a single spreadsheet with one sheet per file.
+in the paper without rerunning the comparison. They are collected under the names used here
+in `supplementary/` of the repository, and the file each was assembled from is named
+alongside, which is where the pipeline writes it. Tables S11 and S12 are short enough to be
+printed here in full as well as deposited. A table backed by several files is provided both
+as a directory of those files and as a single spreadsheet with one sheet per file.
 
 - **Table S1.** The complete catalogue of taxonomic conflicts below distance 0.05: all 71
   genus pairs with their minimum distance and GTDB verdict, and all 199 individual queries
@@ -1268,9 +1268,6 @@ directory of those files and as a single spreadsheet with one sheet per file.
   in `supplementary/Table_S10.tsv`, assembled by the pipeline from `results/fusobacterium_calls.tsv`. The revised assignments are Supplementary Data 1 of
   Bi et al. (2026); the accessions of the 533 genomes are the first column of the same
   table.
-
-The two tables that follow were part of the main text. They are reproduced here in full,
-with the sections that read them unchanged.
 
 **Table S11. The three sketch sizes at matched call volume.** Scenario `novel_species`, all
 prokaryotes. Each cell is the cutoff whose call volume comes closest to the target, and the
