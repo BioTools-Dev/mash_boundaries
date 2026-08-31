@@ -429,7 +429,8 @@ advantage is arithmetic, since the archaeal base rate is four times more favoura
 ### 3.4. The leave-one-out view: a plateau, and where the cutoff belongs
 
 In the condition a classifier operates in, the picture is very different from the pairwise
-one, and much more favourable (Table 3, Figure 2; every cutoff of every curve in Table S4). Under `novel_species`, precision forms a
+one, and much more favourable (Table 3, Figure 2; every cutoff of every curve in
+Table S4). Under `novel_species`, precision forms a
 **plateau of ~96 % between cutoffs 0.07 and 0.13** and only degrades past 0.13. Moving the
 cutoff from one end of that plateau to the other, 0.08 to 0.13, raises the number of genus
 calls by **86 % at no cost in precision**; pushing it on to 0.20 costs 4.2 points at
@@ -676,8 +677,7 @@ k-mer screen of the tool sits at 80 % identity, so the collapse is the definitio
 of the index itself — and it falls exactly where the genus question becomes hard.
 
 Read on the same pairs, the two axes disagree systematically about identity (Figure 4a,
-Table S5). The
-alignment-based value sits below the identity that Mash distance implies, and the gap widens
+Table S5). The alignment-based value sits below the identity that Mash distance implies, and the gap widens
 with distance: at d = 0.05 the median ANI is 94.15 % rather than 95 %, at d = 0.08 it is
 90.72 % rather than 92 %, at d = 0.13 it is 85.17 % rather than 87 %. Inverted: **the pairs
 skani calls 95.0–95.5 % identical sit at a median Mash distance of 0.0424** (Q1–Q3
@@ -1075,7 +1075,8 @@ bin; the one it proposes to tighten breaks first.
 
 What the derivation does not give is the fate of the nearest neighbour, because the
 incompleteness penalty applies to every candidate at once and the ranking may survive intact
-while a fixed cutoff fails. That is what the grid measures (Table 8, Figure 7; the full grid is Table S7).
+while a fixed cutoff fails. That is what the grid measures (Table 8, Figure 7; the full
+grid is Table S7).
 
 **A fixed cutoff does not fail by being wrong. It fails by going silent.** As completeness
 falls from 100 % to 10 %, the precision of the 0.13 cutoff drops by 7 points, from 92.36 % to
