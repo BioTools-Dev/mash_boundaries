@@ -26,7 +26,7 @@ mash_boundaries/
 ├── scripts/               all the code, numbered in dependency order
 ├── results/               every output table the paper is computed from (versioned)
 ├── figures/               the seven figures, in SVG + PDF + PNG at 300 dpi (versioned)
-├── supplementary/         the ten supplementary tables, under the names the paper uses
+├── supplementary/         the twelve supplementary tables, under the names the paper uses
 ├── fusobacterium/         the test case's genomes and intermediates — not versioned
 ├── proteome/              RefSeq proteomes — regenerable, not versioned
 ├── sketch/                Mash sketches — regenerable, not versioned
@@ -328,8 +328,8 @@ receive the vector masters in `figures/*.svg` and `figures/*.pdf` alongside.
 
 ## Supplementary tables
 
-The ten supplementary tables of the manuscript are in `supplementary/`, under the names the
-paper uses:
+The twelve supplementary tables of the manuscript are in `supplementary/`, under the names
+the paper uses:
 
 ```
 supplementary/
@@ -343,7 +343,9 @@ supplementary/
 ├── Table_S7/  + Table_S7.xlsx     the simulated-bin grid and its per-bin calls
 ├── Table_S8.tsv                   the gold-standard label table
 ├── Table_S9/  + Table_S9.xlsx     the percentage of conserved proteins, both subsets
-└── Table_S10.tsv                  the Fusobacterium test case, genome by genome
+├── Table_S10.tsv                  the Fusobacterium test case, genome by genome
+├── Table_S11.tsv                  the three sketch sizes at matched call volume
+└── Table_S12.tsv                  the genus pairs in conflict, all 71
 ```
 
 A table backed by one file is one file. One backed by several is both a directory of those

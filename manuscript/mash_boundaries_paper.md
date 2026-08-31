@@ -562,24 +562,7 @@ at 0.25 — precisely where the noise of s = 1,000, and then its ceiling of 0.29
 corrupt the estimate. But it is a divergence of the smallest sketch from the other two rather
 than a trend: multiplying the sketch by ten again buys at most 0.28 points anywhere on the
 curve. Compared at matched coverage, which is the correct frame for two different scales, the
-cutoffs of s = 10,000 and s = 100,000 are identical in all nine rows (Table 5).
-
-**Table 5. The three sketch sizes at matched call volume.** Scenario `novel_species`, all
-prokaryotes. Each cell is the cutoff whose call volume comes closest to the target, and the
-precision of the genus call there; the volumes actually reached are within 3 % of the target
-in every row and are listed in `results/three_sketch_sizes.tsv`.
-
-| Calls | s = 1,000 | Precision | s = 10,000 | Precision | s = 100,000 | Precision |
-|---:|---:|---:|---:|---:|---:|---:|
-| 4,000 | 0.050 | 94.83 % | 0.050 | 94.89 % | 0.050 | 94.90 % |
-| 8,000 | 0.075 | 95.98 % | 0.075 | 96.01 % | 0.075 | 95.98 % |
-| 12,000 | 0.105 | 95.93 % | 0.105 | 95.86 % | 0.105 | 95.81 % |
-| 15,000 | 0.125 | 95.92 % | 0.125 | 95.92 % | 0.125 | 95.91 % |
-| 18,500 | 0.145 | 95.22 % | 0.150 | 95.25 % | 0.150 | 95.27 % |
-| 21,000 | 0.165 | 93.88 % | 0.165 | 94.54 % | 0.165 | 94.55 % |
-| 23,500 | 0.185 | 92.06 % | 0.185 | 93.03 % | 0.185 | 93.13 % |
-| 26,500 | 0.215 | 88.63 % | 0.220 | 90.16 % | 0.220 | 90.28 % |
-| 29,000 | 0.245 | 84.81 % | 0.270 | 87.28 % | 0.270 | 87.56 % |
+cutoffs of s = 10,000 and s = 100,000 are identical in all nine rows (Table S11).
 
 This is what the derivation of §3.2 predicted, now measured over 30,209 genomes at all three
 sizes, and it yields a concrete recommendation with a bound on both sides: **for a genus
@@ -617,7 +600,8 @@ Relabelling the same distances with GTDB converts that reading into a measuremen
 99.7 % from 0.07 and still 99.0 % at 0.15 (Figure 2).
 
 The catalogue makes that test case by case rather than in aggregate, which is a stronger
-claim (Table 6). Of the 199 conflicting queries, **171 (85.9 %) are reconciled in GTDB** —
+claim (Table S12, of which Table S1 is the complete form). Of the 199 conflicting queries,
+**171 (85.9 %) are reconciled in GTDB** —
 both genomes land in one genus — 24 cannot be judged because one of the two is absent from
 GTDB, and only 4 remain separated. Aggregated by genus pair, **62 of the 71 pairs are
 reconciled and not one is actively kept apart**; the remaining 9 are pairs in which a genome
@@ -635,27 +619,6 @@ One conflict is not nomenclatural at all, and finding it is a side-benefit of th
 completeness, 10.8 % contamination and an inconclusive NCBI taxonomy check. It is a
 misidentified or contaminated deposit of type material, not a genus split, and it is also
 why the CheckM gate improves the nearest band in §3.5.
-
-**Table 6. Genus pairs in conflict below distance 0.05, and what the second taxonomy does
-with them.** Scenario `novel_species`, s = 10,000. The twelve leading pairs, ordered by number
-of conflicting queries and, where those tie, by the closest pair the two genera contain; all 71
-are in `results/conflicts_s10000_genera.tsv` and the 199 individual queries in
-`results/conflicts_s10000_pairs.tsv`; the exhaustive catalogue is Table S1.
-
-| Genus A / Genus B | Cases | Min. distance | GTDB verdict | Genus in GTDB |
-|---|---:|---:|---|---|
-| *Escherichia* / *Shigella* | 9 | 0.0163 | reconciled | *Escherichia* |
-| *Kitasatospora* / *Streptomyces* | 6 | 0.0066 | absent | — |
-| *Mycobacterium* / *Mycolicibacterium* | 6 | 0.0326 | reconciled | *Mycobacterium* |
-| *Macrococcoides* / *Macrococcus* | 6 | 0.0408 | reconciled | *Macrococcoides* |
-| *Faucicola* / *Moraxella* | 6 | 0.0454 | reconciled | *Faucicola* |
-| *Azorhizophilus* / *Azotobacter* | 6 | 0.0474 | absent | — |
-| *Duganella* / *Pseudoduganella* | 5 | 0.0476 | reconciled | *Rugamonas* |
-| *Mycobacterium* / *Mycolicibacter* | 4 | 0.0072 | reconciled | *Mycobacterium* |
-| *Hallella* / *Prevotella* | 4 | 0.0139 | reconciled | *Prevotella* |
-| *Allomuricauda* / *Flagellimonas* | 4 | 0.0266 | reconciled | *Flagellimonas* |
-| *Ectopseudomonas* / *Pseudomonas* | 4 | 0.0293 | reconciled | *Aquipseudomonas* |
-| *Pseudomonas* / *Stutzerimonas* | 4 | 0.0348 | reconciled | *Stutzerimonas* |
 
 **This result is partly circular and cannot be presented without saying so.** GTDB is not
 independent of genomic similarity: it delimits species by ANI and genera by relative
@@ -748,12 +711,12 @@ cover, so k = 7 was chosen on that measurement rather than inherited.
 
 Because the three axes carry different scales, they can only be compared at **equal
 coverage** — precision against the number of genomes that receive a call, not against each
-axis's own cutoff (Figure 5a, Table 7). The distinction is not pedantic: at cutoff 0.20 the
+axis's own cutoff (Figure 5a, Table 5). The distinction is not pedantic: at cutoff 0.20 the
 DNA axis answers 24,845 queries and the protein axis 23,163, so a cutoff-indexed table would
 credit the protein axis with a margin that is partly just a smaller answered set.
 
 **Inside the plateau the three axes are indistinguishable.** Over the first five rows of
-Table 7 no two axes differ by more than 0.5 points. The ~96 % ceiling appears again, now with
+Table 5 no two axes differ by more than 0.5 points. The ~96 % ceiling appears again, now with
 a protein index, after appearing with alignment-based ANI in §3.8: three estimators built on
 different alphabets and different algorithms put the same boundary in the same place. That is
 the strongest form of the paper's central claim — the plateau is a property of the taxonomic
@@ -897,7 +860,7 @@ plotted against the axis the cutoff is stated in, and the 50 % criterion is cros
 d = 0.27–0.33. Read on that same DNA axis the 65 % AAI criterion is crossed at d = 0.24–0.30,
 so the two formal criteria fall in the same stretch, at roughly twice the proposed cutoff.
 
-**Table 7. The three axes at matched call volume.** Scenario `novel_species`. Each cell is
+**Table 5. The three axes at matched call volume.** Scenario `novel_species`. Each cell is
 the cutoff on that axis whose call volume comes closest to the target, and the precision of
 the genus call there. The volumes actually reached agree between axes to within 3.4 % in
 every row but the first, where the protein axis reaches 3,618 calls against 3,893 for DNA and
@@ -1075,7 +1038,7 @@ bin; the one it proposes to tighten breaks first.
 
 What the derivation does not give is the fate of the nearest neighbour, because the
 incompleteness penalty applies to every candidate at once and the ranking may survive intact
-while a fixed cutoff fails. That is what the grid measures (Table 8, Figure 7; the full
+while a fixed cutoff fails. That is what the grid measures (Table 6, Figure 7; the full
 grid is Table S7).
 
 **A fixed cutoff does not fail by being wrong. It fails by going silent.** As completeness
@@ -1113,7 +1076,7 @@ containment threshold. (b) The number of bins each fixed threshold still answers
 the 400 in each cell. The second panel is the point: the distance cutoff loses most of its
 answers while its precision barely moves.
 
-**Table 8. The genus call on simulated bins, by completeness.** Scenario `novel_species`,
+**Table 6. The genus call on simulated bins, by completeness.** Scenario `novel_species`,
 400 bins per row, all of them callable in principle. Precision is of the genus call; the two
 cutoff columns also report how many of the 400 bins receive a call at all. The two
 nearest-neighbour columns rest on 400 bins down to 30 % completeness and on 399 at 20 % and
@@ -1252,9 +1215,10 @@ that fetches them, so the comparison can be repeated without downloading anythin
 
 ## Supplementary material
 
-The tables below are the exhaustive form of what the manuscript reports in summary. Each is
+Tables S1 to S10 are the exhaustive form of what the manuscript reports in summary. Each is
 what the corresponding figure and table were computed from, so a reader can rebuild any curve
-in the paper without rerunning the comparison. They are collected under the names used here in
+in the paper without rerunning the comparison. Tables S11 and S12 are two tables of the main
+text, moved here whole. They are collected under the names used here in
 `supplementary/` of the repository, and the file each was assembled from is named alongside,
 which is where the pipeline writes it. A table backed by several files is provided both as a
 directory of those files and as a single spreadsheet with one sheet per file.
@@ -1304,6 +1268,50 @@ directory of those files and as a single spreadsheet with one sheet per file.
   in `supplementary/Table_S10.tsv`, assembled by the pipeline from `results/fusobacterium_calls.tsv`. The revised assignments are Supplementary Data 1 of
   Bi et al. (2026); the accessions of the 533 genomes are the first column of the same
   table.
+
+The two tables that follow were part of the main text. They are reproduced here in full,
+with the sections that read them unchanged.
+
+**Table S11. The three sketch sizes at matched call volume.** Scenario `novel_species`, all
+prokaryotes. Each cell is the cutoff whose call volume comes closest to the target, and the
+precision of the genus call there; the volumes actually reached are within 3 % of the target
+in every row, and are listed alongside every cutoff of the search in
+`supplementary/Table_S11.tsv`, assembled by the pipeline from
+`results/three_sketch_sizes.tsv`.
+
+| Calls | s = 1,000 | Precision | s = 10,000 | Precision | s = 100,000 | Precision |
+|---:|---:|---:|---:|---:|---:|---:|
+| 4,000 | 0.050 | 94.83 % | 0.050 | 94.89 % | 0.050 | 94.90 % |
+| 8,000 | 0.075 | 95.98 % | 0.075 | 96.01 % | 0.075 | 95.98 % |
+| 12,000 | 0.105 | 95.93 % | 0.105 | 95.86 % | 0.105 | 95.81 % |
+| 15,000 | 0.125 | 95.92 % | 0.125 | 95.92 % | 0.125 | 95.91 % |
+| 18,500 | 0.145 | 95.22 % | 0.150 | 95.25 % | 0.150 | 95.27 % |
+| 21,000 | 0.165 | 93.88 % | 0.165 | 94.54 % | 0.165 | 94.55 % |
+| 23,500 | 0.185 | 92.06 % | 0.185 | 93.03 % | 0.185 | 93.13 % |
+| 26,500 | 0.215 | 88.63 % | 0.220 | 90.16 % | 0.220 | 90.28 % |
+| 29,000 | 0.245 | 84.81 % | 0.270 | 87.28 % | 0.270 | 87.56 % |
+
+**Table S12. Genus pairs in conflict below distance 0.05, and what the second taxonomy does
+with them.** Scenario `novel_species`, s = 10,000. The twelve leading pairs, ordered by number
+of conflicting queries and, where those tie, by the closest pair the two genera contain. The
+full 71 rows are in `supplementary/Table_S12.tsv`, assembled by the pipeline from
+`results/conflicts_s10000_genera.tsv`; the same rows, together with the 199 individual
+queries, are Table S1.
+
+| Genus A / Genus B | Cases | Min. distance | GTDB verdict | Genus in GTDB |
+|---|---:|---:|---|---|
+| *Escherichia* / *Shigella* | 9 | 0.0163 | reconciled | *Escherichia* |
+| *Kitasatospora* / *Streptomyces* | 6 | 0.0066 | absent | — |
+| *Mycobacterium* / *Mycolicibacterium* | 6 | 0.0326 | reconciled | *Mycobacterium* |
+| *Macrococcoides* / *Macrococcus* | 6 | 0.0408 | reconciled | *Macrococcoides* |
+| *Faucicola* / *Moraxella* | 6 | 0.0454 | reconciled | *Faucicola* |
+| *Azorhizophilus* / *Azotobacter* | 6 | 0.0474 | absent | — |
+| *Duganella* / *Pseudoduganella* | 5 | 0.0476 | reconciled | *Rugamonas* |
+| *Mycobacterium* / *Mycolicibacter* | 4 | 0.0072 | reconciled | *Mycobacterium* |
+| *Hallella* / *Prevotella* | 4 | 0.0139 | reconciled | *Prevotella* |
+| *Allomuricauda* / *Flagellimonas* | 4 | 0.0266 | reconciled | *Flagellimonas* |
+| *Ectopseudomonas* / *Pseudomonas* | 4 | 0.0293 | reconciled | *Aquipseudomonas* |
+| *Pseudomonas* / *Stutzerimonas* | 4 | 0.0348 | reconciled | *Stutzerimonas* |
 
 ## References
 

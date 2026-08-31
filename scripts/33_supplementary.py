@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Arma el directorio de suplementarios con los nombres que usa el manuscrito.
 
-Las tablas del artículo se llaman S1 a S10, pero los ficheros que las contienen
+Las tablas del artículo se llaman S1 a S12, pero los ficheros que las contienen
 llevan el nombre funcional con que los escribió el paso que los produjo:
 `conflicts_s10000_genera.tsv` y no `Table_S1`. Quien llega desde el artículo
 busca lo primero y encuentra lo segundo, así que aquí se construye la vista que
@@ -39,14 +39,20 @@ def sources(manuscript):
     s = io.open(manuscript, encoding="utf8").read()
     blk = s.split("## Supplementary material", 1)[1].split("## References", 1)[0]
     out = []
-    for item in re.split(r"\n- \*\*Table S", blk)[1:]:
-        num = item.split(".")[0]
-        titulo = item.split("**", 1)[1].strip().split("\n")[0] if "**" in item else ""
+    for item in re.split(r"\n-? ?\*\*Table S", blk)[1:]:
+        # Dos formatos conviven, y con razón. Una tabla que solo es un volcado
+        # se declara como `- **Table SN.** descripción`; una que viene del cuerpo
+        # del artículo conserva el pie que allí tenía, `**Table SN. Título.**
+        # descripción`, para que no haya que reescribirlo al moverla.
+        cab, _, resto = item.partition("**")
+        num = cab.split(".")[0]
+        nombre = cab[len(num) + 1:].strip()
+        titulo = " ".join(x for x in (nombre, resto.strip().split("\n")[0]) if x)
         # Solo las rutas que siguen al marcador de procedencia, y solo mientras
         # sigan encadenadas: una entrada puede nombrar después otros ficheros
         # -por ejemplo para decir que NO forman parte de la tabla- y recogerlos
         # metería en el suplementario justo lo que el texto excluye.
-        m = re.search(r"assembled by the pipeline from ((?:`[^`]+`(?:,| and|\s)*)+)", item)
+        m = re.search(r"assembled by the pipeline from\s+((?:`[^`]+`(?:,| and|\s)*)+)", item)
         files = []
         for p in re.findall(r"`([^`]+)`", m.group(1) if m else ""):
             if not p.startswith(("results/", "data/")):

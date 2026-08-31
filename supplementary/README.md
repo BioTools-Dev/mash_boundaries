@@ -86,3 +86,20 @@ The *Fusobacterium* test case: for each of the 533 genomes, its nearest type
 
 **Built from:** `results/fusobacterium_calls.tsv`
 
+## Table S11
+
+The three sketch sizes at matched call volume. Scenario `novel_species`, all
+
+**Here:** `Table_S11.tsv`
+
+**Built from:** `results/three_sketch_sizes.tsv`
+
+## Table S12
+
+Genus pairs in conflict below distance 0.05, and what the second taxonomy does
+with them. Scenario `novel_species`, s = 10,000. The twelve leading pairs, ordered by number
+
+**Here:** `Table_S12.tsv`
+
+**Built from:** `results/conflicts_s10000_genera.tsv`
+
