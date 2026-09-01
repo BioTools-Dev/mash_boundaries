@@ -10,9 +10,9 @@ read as **ANI = 1 − 1.12 d**; a distance threshold is uninterpretable without 
 that produced it; and ten thousand hashes exhaust the estimator, so the error left above 0.15
 is real overlap between genera rather than something a larger sketch can buy away.
 
-The manuscript is in `manuscript/mash_boundaries_paper.md`. **Section numbers of the form
-§n.n cited from the code refer to that manuscript.** This file documents how to reproduce
-every number and every figure in it.
+**Section numbers of the form §n.n cited from the code and from this file refer to the
+paper.** What follows documents how to reproduce every number, every table and every figure
+in it, from the data deposited here.
 
 ## Layout
 
@@ -21,7 +21,6 @@ mash_boundaries/
 ├── README.md              this file
 ├── LICENSE                MIT for the code, CC-BY-4.0 for data, results and figures
 ├── config.sh.example      path template; config.sh is local and is not versioned
-├── manuscript/            the paper, its figures' captions and its working documents
 ├── data/                  gold-standard labels and manifests (versioned)
 ├── scripts/               all the code, numbered in dependency order
 ├── results/               every output table the paper is computed from (versioned)
@@ -49,8 +48,7 @@ produced it, from the manifests that are versioned.
 | TaxonKit | 0.20.0 | taxid → lineage, with a pinned NCBI dump |
 | NCBI `datasets` | — | fetching proteomes |
 | zstd | 1.5.7 | compressing the pairwise streams |
-| Python | 3.14, with matplotlib for the figures | analysis and figures |
-| pandoc | — | only for the `.docx` of the manuscript |
+| Python | 3.14, with matplotlib 3.11.0 | analysis and figures |
 
 No Python package beyond matplotlib is needed: the analysis uses the standard library.
 
@@ -282,20 +280,22 @@ and contamination grid it is the ~1 hour step. The genus and species cutoffs are
 | `22_three_axes.py` | `results/{three_axes,prot_k7_vs_k9,three_sketch_sizes}.tsv` |
 | `23_make_bins.py` | `bins/` — simulated bins with controlled completeness |
 | `24_bin_curves.py` | `results/bins_s<S>{,_calls}.tsv` |
-| `25_manuscript_docx.sh` | the `.docx` of any Markdown document of `manuscript/` |
 | `26_pocp_validation.py` | `results/pocp{,_window}{.tsv,_summary.txt,_subset.txt}` |
 | `27_fuso_supplementary.py` | `data/fusobacterium_bi2026_labels.tsv` and the ANI matrix in long form |
 | `28_fuso_axes.sh` | Mash at two sketch sizes and skani over the same 533 genomes |
 | `29_fuso_bridge.py` | the three scales joined pair by pair, and the conversion refitted |
 | `30_fuso_depth.py` | `results/fusobacterium_depth_{anib,mash}.tsv` — the gap against sampling depth |
 | `31_fuso_calls.py` | `results/fusobacterium_calls.tsv` — Table S10 |
-| `33_supplementary.py` | `supplementary/` — the ten tables under the names the paper uses |
-| `xlsx.py` | a spreadsheet reader, so the supplementary needs no extra dependency |
+| `33_supplementary.py` | `supplementary/` — the twelve tables under the names the paper uses |
+| `xlsx.py` | a spreadsheet reader, used by step 27 to open the published supplementary |
+| `xlsx_write.py` | a spreadsheet writer, so `supplementary/` needs no extra dependency |
 
 ## The figures
 
 The seven figures are built from the tables in `results/`, never by recomputing: a figure
-cannot disagree with the number it illustrates.
+cannot disagree with the number it illustrates. Regenerating them reproduces the deposited
+files byte for byte, since no creation date is written; a different matplotlib rewrites all
+seven without changing a mark, because the version is part of the SVG metadata.
 
 ```bash
 $PYVIZ scripts/18_figures.py      # PYVIZ is the interpreter with matplotlib, see config.sh
@@ -316,24 +316,15 @@ unchanged figure produces an identical file and a real change is visible in a di
 | `fig6_corolario_de_los_cortes` | precision and coverage of the species and genus calls, with the two proposed windows |
 | `fig7_bins_de_metagenoma` | precision and call volume as completeness falls |
 
-## The manuscript
-
-```bash
-bash scripts/25_manuscript_docx.sh          # the paper; TABLE_PT sets the table font size
-```
-
-The Markdown is the master and the `.docx` is derived, so a correction is never made twice.
-The conversion embeds the 300 dpi PNGs and fits the wide tables to the page; a journal should
-receive the vector masters in `figures/*.svg` and `figures/*.pdf` alongside.
-
 ## Supplementary tables
 
-The twelve supplementary tables of the manuscript are in `supplementary/`, under the names
-the paper uses:
+The twelve supplementary tables of the paper are in `supplementary/`, under the names the
+paper uses:
 
 ```
 supplementary/
 ├── README.md                      what each table is, and the files it was built from
+├── tables.md                      the catalogue this directory is assembled from
 ├── Table_S1/  + Table_S1.xlsx     taxonomic conflicts below 0.05
 ├── Table_S2.tsv                   the pairwise view in bins of 0.005
 ├── Table_S3/  + Table_S3.xlsx     per-genus macro estimates, with bootstrap intervals
@@ -353,8 +344,15 @@ files and a spreadsheet with one sheet per file, which is the form a journal exp
 files do not share a schema, so merging them into a single flat table would invent one, and
 separate sheets keep each as it was written.
 
-The directory is assembled by `scripts/33_supplementary.py`, which reads the manuscript's own
-supplementary section, so the two cannot disagree. The files keep the names the pipeline gave
+The directory is assembled by `scripts/33_supplementary.py`, which reads the catalogue in
+`supplementary/tables.md` — what each table is and which files of `results/` and `data/` back
+it — so the two views cannot disagree; the step fails rather than write an incomplete
+directory if an entry resolves to nothing.
+
+```bash
+python3 scripts/33_supplementary.py --out supplementary
+```
+ The files keep the names the pipeline gave
 them, so each traces back to the step that wrote it, and the spreadsheets are written without
 any dependency beyond the standard library.
 

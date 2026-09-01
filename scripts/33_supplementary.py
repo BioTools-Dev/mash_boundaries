@@ -34,25 +34,19 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import xlsx_write
 
 
-def sources(manuscript):
-    """Las rutas que cada entrada de la sección suplementaria declara."""
-    s = io.open(manuscript, encoding="utf8").read()
-    blk = s.split("## Supplementary material", 1)[1].split("## References", 1)[0]
+def sources(catalogo):
+    """Las rutas que cada entrada del catálogo declara."""
+    blk = io.open(catalogo, encoding="utf8").read()
     out = []
-    for item in re.split(r"\n-? ?\*\*Table S", blk)[1:]:
-        # Dos formatos conviven, y con razón. Una tabla que solo es un volcado
-        # se declara como `- **Table SN.** descripción`; una que viene del cuerpo
-        # del artículo conserva el pie que allí tenía, `**Table SN. Título.**
-        # descripción`, para que no haya que reescribirlo al moverla.
-        cab, _, resto = item.partition("**")
-        num = cab.split(".")[0]
-        nombre = cab[len(num) + 1:].strip()
-        titulo = " ".join(x for x in (nombre, resto.strip().split("\n")[0]) if x)
+    for item in re.split(r"\n- \*\*Table S", blk)[1:]:
+        num = item.split(".")[0]
+        titulo = item.partition("**")[2].strip().split("\n")[0]
         # Solo las rutas que siguen al marcador de procedencia, y solo mientras
         # sigan encadenadas: una entrada puede nombrar después otros ficheros
         # -por ejemplo para decir que NO forman parte de la tabla- y recogerlos
         # metería en el suplementario justo lo que el texto excluye.
-        m = re.search(r"assembled by the pipeline from\s+((?:`[^`]+`(?:,| and|\s)*)+)", item)
+        m = re.search(r"assembled\s+by\s+the\s+pipeline\s+from\s+"
+                      r"((?:`[^`]+`(?:,| and|\s)*)+)", item)
         files = []
         for p in re.findall(r"`([^`]+)`", m.group(1) if m else ""):
             if not p.startswith(("results/", "data/")):
@@ -87,7 +81,10 @@ def write_book(path, files):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--manuscript", required=True)
+    ap.add_argument("--catalogue", default=os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), os.pardir,
+        "supplementary", "tables.md"),
+        help="el catálogo que declara qué ficheros respaldan cada tabla")
     ap.add_argument("--out", required=True, help="directorio de suplementarios")
     ap.add_argument("--xlsx-max-rows", type=int, default=200000,
                     help="por encima de esto no se genera el .xlsx: una hoja de "
@@ -95,15 +92,22 @@ def main():
                          "y pesa más que el dato que contiene. 0 lo desactiva")
     a = ap.parse_args()
 
-    if os.path.isdir(a.out):
-        shutil.rmtree(a.out)                   # se reconstruye entero, nunca se parchea
-    os.makedirs(a.out)
+    # Se reconstruye entero, nunca se parchea, pero solo lo que este paso escribe:
+    # el catálogo del que se lee vive en el mismo directorio que describe, y borrarlo
+    # dejaría la vista sin su fuente.
+    for viejo in glob.glob(os.path.join(a.out, "Table_S*")) + \
+                 [os.path.join(a.out, "README.md")]:
+        shutil.rmtree(viejo) if os.path.isdir(viejo) else os.path.exists(viejo) and os.remove(viejo)
+    os.makedirs(a.out, exist_ok=True)
 
     index, total = [], 0
-    for num, titulo, files in sources(a.manuscript):
+    for num, titulo, files in sources(a.catalogue):
         if not files:
-            print("AVISO: la tabla S%s no declara ningún fichero" % num)
-            continue
+            # Un aviso aquí dejaba el directorio incompleto y el paso terminaba
+            # bien, que es la peor combinación posible: la vista que el artículo
+            # promete salía con una tabla de menos y nada lo señalaba.
+            sys.exit("la tabla S%s no resuelve ningún fichero: revisa el catálogo"
+                     % num)
         if len(files) == 1:
             dest = os.path.join(a.out, "Table_S%s%s" % (num, os.path.splitext(files[0])[1]))
             shutil.copy2(files[0], dest)
@@ -126,9 +130,9 @@ def main():
         fh.write("# Supplementary tables\n\n"
                  "The supplementary tables of the manuscript, under the names the paper\n"
                  "uses. This directory is assembled from `results/` and `data/` by\n"
-                 "`scripts/33_supplementary.py`, which reads the manuscript itself, so the\n"
-                 "two views cannot disagree. Each entry lists the files it was built from,\n"
-                 "which is where the pipeline writes them.\n\n")
+                 "`scripts/33_supplementary.py`, which reads the catalogue in `tables.md`,\n"
+                 "so the two views cannot disagree. Each entry lists the files it was built\n"
+                 "from, which is where the pipeline writes them.\n\n")
         for num, titulo, donde, files in index:
             fh.write("## Table S%s\n\n%s\n\n**Here:** `%s`\n\n**Built from:** %s\n\n"
                      % (num, titulo, donde,

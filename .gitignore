@@ -30,9 +30,3 @@ data/*.msh
 results/**/*.tsv.gz
 *.zip
 
-# The .docx is derived: regenerate it with scripts/25_manuscript_docx.sh. The master
-# is the Markdown, which versions cleanly and is what the figures are checked against.
-manuscript/*.docx
-
-# Figuras de envío: derivadas de figures/ por rasterizado a 300 dpi.
-manuscript/figuras_envio/

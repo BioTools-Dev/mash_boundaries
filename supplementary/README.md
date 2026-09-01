@@ -2,9 +2,9 @@
 
 The supplementary tables of the manuscript, under the names the paper
 uses. This directory is assembled from `results/` and `data/` by
-`scripts/33_supplementary.py`, which reads the manuscript itself, so the
-two views cannot disagree. Each entry lists the files it was built from,
-which is where the pipeline writes them.
+`scripts/33_supplementary.py`, which reads the catalogue in `tables.md`,
+so the two views cannot disagree. Each entry lists the files it was built
+from, which is where the pipeline writes them.
 
 ## Table S1
 
@@ -88,7 +88,7 @@ The *Fusobacterium* test case: for each of the 533 genomes, its nearest type
 
 ## Table S11
 
-The three sketch sizes at matched call volume. Scenario `novel_species`, all
+The three sketch sizes at matched call volume, scenario `novel_species`,
 
 **Here:** `Table_S11.tsv`
 
@@ -96,8 +96,7 @@ The three sketch sizes at matched call volume. Scenario `novel_species`, all
 
 ## Table S12
 
-Genus pairs in conflict below distance 0.05, and what the second taxonomy does
-with them. Scenario `novel_species`, s = 10,000. The twelve leading pairs, ordered by number
+The genus pairs in conflict below distance 0.05 and what the second taxonomy
 
 **Here:** `Table_S12.tsv`
 

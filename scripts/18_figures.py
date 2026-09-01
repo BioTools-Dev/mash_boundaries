@@ -126,7 +126,10 @@ def save(fig, outdir, name):
     The creation date is suppressed in every format so that regenerating an
     unchanged figure produces a byte-identical file: otherwise the whole figure
     set shows up as modified on every run and a real change becomes invisible
-    among them.
+    among them. What the date does not cover is the matplotlib version, which
+    the SVG carries in its metadata, so a different version of the library
+    rewrites all seven files without changing a single mark. The version that
+    drew the deposited figures is recorded in the README.
     """
     stamp = {"svg": {"Date": None},
              "pdf": {"CreationDate": None},
